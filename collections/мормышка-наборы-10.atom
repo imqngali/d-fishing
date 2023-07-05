@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80%D1%8B-10.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-10-06T18:15:25+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6630508822667</id>
+    <published>2021-10-06T18:15:25+08:00</published>
+    <updated>2021-10-06T18:15:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-197-1-0-3%D0%B3%D1%80-%D0%B4-2%D0%BC%D0%BC"/>
+    <title>арт.197,1  0,3гр.д.2мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/197-1_3.jpg?v=1633510804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            310.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630508822667</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">310.00</s:price>
+      <s:sku>197,1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630507774091</id>
+    <published>2021-10-06T18:15:24+08:00</published>
+    <updated>2021-10-06T18:15:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-182-0-3%D0%B3%D1%80-%D0%B4-2%D0%BC%D0%BC"/>
+    <title>арт.182 0,3гр.д.2мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/182_3.jpg?v=1633510774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            290.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630507774091</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">290.00</s:price>
+      <s:sku>182</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630505676939</id>
+    <published>2021-10-06T18:15:24+08:00</published>
+    <updated>2021-10-06T18:15:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-175-0-3%D0%B3%D1%80-%D0%B4-2%D0%BC%D0%BC"/>
+    <title>арт.179 0,3гр.д.2мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/179_3.jpg?v=1633510743"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            290.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630505676939</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">290.00</s:price>
+      <s:sku>179</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630504005771</id>
+    <published>2021-10-06T18:15:23+08:00</published>
+    <updated>2021-10-06T18:15:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-127-1-0-5%D0%B3%D1%80-%D0%B4-3%D0%BC%D0%BC"/>
+    <title>арт.127,1 0,5гр.д.3мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/127-1_3.jpg?v=1633510698"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            340.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630504005771</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">340.00</s:price>
+      <s:sku>127,1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630502006923</id>
+    <published>2021-10-06T18:15:23+08:00</published>
+    <updated>2021-10-06T18:15:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-125-1-0-2%D0%B3%D1%80-%D0%B4-2%D0%BC%D0%BC"/>
+    <title>арт.125,1 0,2гр.д.2мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/125-1_3.jpg?v=1633510658"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630502006923</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">260.00</s:price>
+      <s:sku>125,1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630129959051</id>
+    <published>2021-10-06T18:15:23+08:00</published>
+    <updated>2021-10-06T18:15:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-206-%D1%83%D1%80%D0%B0%D0%BB%D0%BA%D0%B0-%D0%BA%D0%B5%D0%BC%D0%B1%D1%80%D0%B8%D0%BA1-1%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.206 Уралка кембрик1,1гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/206_3.jpg?v=1633510568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            680.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630129959051</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">680.00</s:price>
+      <s:sku>206</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630129893515</id>
+    <published>2021-10-06T18:15:22+08:00</published>
+    <updated>2021-10-06T18:15:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-205-2-%D0%BA%D0%B0%D0%BF%D0%BB%D1%8F-%D0%BA%D0%B5%D0%BC%D0%B1%D1%80%D0%B8%D0%BA-%D0%BD%D0%B5%D0%BE%D0%BD1%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.205,2 Капля кембрик неон1гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/205-2_3.jpg?v=1633510560"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            540.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630129893515</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">540.00</s:price>
+      <s:sku>205,2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630129795211</id>
+    <published>2021-10-06T18:15:22+08:00</published>
+    <updated>2021-10-06T18:15:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-205-1-%D0%BA%D0%B0%D0%BF%D0%BB%D1%8F-%D0%BA%D0%B5%D0%BC%D0%B1%D1%80%D0%B8%D0%BA-%D1%88%D0%B0%D1%801%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.205,1 Капля кембрик шар1гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/205-1_3.jpg?v=1633510552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630129795211</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">550.00</s:price>
+      <s:sku>205,1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630129696907</id>
+    <published>2021-10-06T18:15:21+08:00</published>
+    <updated>2021-10-06T18:15:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-205-0-%D0%BA%D0%B0%D0%BF%D0%BB%D1%8F-%D0%BA%D0%B5%D0%BC%D0%B1%D1%80%D0%B8%D0%BA-%D0%BA%D1%83%D0%B1%D0%B8%D0%BA1%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.205.0 Капля кембрик+ кубик1гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/205_3.jpg?v=1633510538"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630129696907</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">550.00</s:price>
+      <s:sku>205.0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630129598603</id>
+    <published>2021-10-06T18:15:21+08:00</published>
+    <updated>2021-10-06T18:15:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-167-2-%D0%B4%D1%80%D0%BE%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D1%81-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%B3%D0%BB%D0%B0%D0%B7%D0%BE%D0%BC2%D0%B3%D1%80-%D0%B4-6%D0%BC%D0%BC"/>
+    <title>арт.167,2 Дробинка черная с красный глазом2гр.д.6мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/167-2_3.jpg?v=1633510504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630129598603</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">700.00</s:price>
+      <s:sku>167,2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630129500299</id>
+    <published>2021-10-06T18:15:21+08:00</published>
+    <updated>2021-10-06T18:15:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-167-%D0%B4%D1%80%D0%BE%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D1%81-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%B3%D0%BB%D0%B0%D0%B7%D0%BE%D0%BC1-2%D0%B3%D1%80-%D0%B4-5%D0%BC%D0%BC"/>
+    <title>арт.167 Дробинка черная с красный глазом1,2гр.д.5мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/167_3.jpg?v=1633510490"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            580.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630129500299</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">580.00</s:price>
+      <s:sku>167</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630129434763</id>
+    <published>2021-10-06T18:15:20+08:00</published>
+    <updated>2021-10-06T18:15:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-165-2-%D0%B4%D1%80%D0%BE%D0%B1%D0%B8%D0%BD%D0%BA%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D1%81-%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%D0%BE%D0%BC0-7%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.165,2 Дробинка черная с кубиком0,7гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/165-2_3.jpg?v=1633510479"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            460.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630129434763</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">460.00</s:price>
+      <s:sku>165,2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630129336459</id>
+    <published>2021-10-06T18:15:20+08:00</published>
+    <updated>2021-10-06T18:15:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-154-%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB-%D1%81-%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BD-%D1%82%D1%80%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%BC-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE1-4%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.154 Дьявол с подвесн тройником золото1,4гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/154_3.jpg?v=1633510466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            770.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630129336459</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">770.00</s:price>
+      <s:sku>154</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630129172619</id>
+    <published>2021-10-06T18:15:19+08:00</published>
+    <updated>2021-10-06T18:15:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-153-%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB-%D1%81-%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BD-%D1%82%D1%80%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%BC-%D1%87%D0%B5%D1%80%D0%BD1-4%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.153 Дьявол с подвесн тройником черн1,4гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/153_3.jpg?v=1633510452"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            730.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630129172619</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">730.00</s:price>
+      <s:sku>153</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630129041547</id>
+    <published>2021-10-06T18:15:19+08:00</published>
+    <updated>2021-10-06T18:15:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-152-%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB-%D1%81-%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BD-%D1%82%D1%80%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%BC-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE-0-7%D0%B3%D1%80-%D0%B4-3%D0%BC%D0%BC"/>
+    <title>арт.152 Дьявол с подвесн тройником золото 0,7гр.д.3мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/152_3.jpg?v=1633510436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630129041547</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">600.00</s:price>
+      <s:sku>152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630128910475</id>
+    <published>2021-10-06T18:15:18+08:00</published>
+    <updated>2021-10-06T18:15:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-151-%D0%B4%D1%8C%D1%8F%D0%B2%D0%BE%D0%BB-%D1%81-%D0%BF%D0%BE%D0%B4%D0%B2%D0%B5%D1%81%D0%BD-%D1%82%D1%80%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA%D0%BE%D0%BC-%D1%87%D0%B5%D1%80%D0%BD0-7%D0%B3%D1%80-%D0%B4-3%D0%BC%D0%BC"/>
+    <title>арт.151 Дьявол с подвесн тройником черн0,7гр.д.3мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/151_3.jpg?v=1633510426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            580.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630128910475</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">580.00</s:price>
+      <s:sku>151</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630128844939</id>
+    <published>2021-10-06T18:15:18+08:00</published>
+    <updated>2021-10-06T18:15:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-142-%D1%88%D1%83%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F1%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.142 Шумовая черная1гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/142_3.jpg?v=1633510417"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630128844939</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">600.00</s:price>
+      <s:sku>142</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630128746635</id>
+    <published>2021-10-06T18:15:18+08:00</published>
+    <updated>2021-10-06T18:15:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-140-%D1%88%D1%83%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F0-6%D0%B3%D1%80-%D0%B4-3%D0%BC%D0%BC"/>
+    <title>арт.140 Шумовая черная0,6гр.д.3мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/140_3.jpg?v=1633510406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630128746635</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">470.00</s:price>
+      <s:sku>140</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630128648331</id>
+    <published>2021-10-06T18:15:17+08:00</published>
+    <updated>2021-10-06T18:15:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-129-%D0%BA%D0%B0%D0%BF%D0%BB%D1%8F-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D1%81-%D0%BA%D1%83%D0%B1%D0%B8%D0%BA%D0%BE%D0%BC1%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.129 Капля черная с кубиком1гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/129_3.jpg?v=1633510394"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            430.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630128648331</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">430.00</s:price>
+      <s:sku>129</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630128517259</id>
+    <published>2021-10-06T18:15:17+08:00</published>
+    <updated>2021-10-06T18:15:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-128-%D0%BA%D0%B0%D0%BF%D0%BB%D1%8F-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D1%81%D0%BE-%D1%81%D1%82%D1%80%D0%B0%D0%B7%D0%BE%D0%B91%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.128 Капля черная со стразой1гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/128_3.jpg?v=1633510382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            460.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630128517259</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">460.00</s:price>
+      <s:sku>128</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630128451723</id>
+    <published>2021-10-06T18:15:16+08:00</published>
+    <updated>2021-10-06T18:15:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-118-%D1%82%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B91-4%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.118 Таракан черный1,4гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/118_3.jpg?v=1633510341"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630128451723</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">650.00</s:price>
+      <s:sku>118</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630128353419</id>
+    <published>2021-10-06T18:15:16+08:00</published>
+    <updated>2021-10-06T18:15:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-116-%D1%82%D0%B0%D1%80%D0%B0%D0%BA%D0%B0%D0%BD-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B90-7%D0%B3%D1%80-%D0%B4-3%D0%BC%D0%BC"/>
+    <title>арт.116 Таракан черный0,7гр.д.3мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/116_3.jpg?v=1633510323"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630128353419</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">500.00</s:price>
+      <s:sku>116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630128255115</id>
+    <published>2021-10-06T18:15:15+08:00</published>
+    <updated>2021-10-06T18:15:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-112-%D0%B6%D1%83%D0%BA-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0-1-1%D0%B3%D1%80-%D0%B4-5%D0%BC%D0%BC"/>
+    <title>арт.112 Жук черный +коронка 1,1гр.д.5мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/112_3.jpg?v=1633510310"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630128255115</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">550.00</s:price>
+      <s:sku>112</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630128189579</id>
+    <published>2021-10-06T18:15:15+08:00</published>
+    <updated>2021-10-06T18:15:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-110-%D0%B6%D1%83%D0%BA-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0-0-8%D0%B3%D1%80-%D0%B4-4%D0%BC%D0%BC"/>
+    <title>арт.110 Жук  черный+коронка 0,8гр.д.4мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/110_3.jpg?v=1633510286"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            510.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630128189579</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">510.00</s:price>
+      <s:sku>110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6630127960203</id>
+    <published>2021-10-06T18:15:14+08:00</published>
+    <updated>2021-10-06T18:15:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D1%82-108-%D0%B6%D1%83%D0%BA-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BE%D1%80%D0%BE%D0%BD%D0%BA%D0%B0-0-6%D0%B3%D1%80-%D0%B4-3%D0%BC%D0%BC"/>
+    <title>арт.108 Жук  черный+коронка 0,6гр.д.3мм.</title>
+    <s:type>Мормышка наборы-10</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/108_3.jpg?v=1633510272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-10<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6630127960203</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">450.00</s:price>
+      <s:sku>108</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,741 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-02-26T16:36:47+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6573040566411</id>
+    <published>2022-02-26T16:36:47+08:00</published>
+    <updated>2022-02-26T16:36:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D1%87%D0%B8%D0%BA-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D1%89%D0%B5%D0%BF%D0%BA%D0%B5"/>
+    <title>Колокольчик на прищепке</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_183824.jpg?v=1621350512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            14.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573040566411</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">14.00</s:price>
+      <s:sku>BJQ-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573040697483</id>
+    <published>2022-02-26T16:36:24+08:00</published>
+    <updated>2022-02-26T16:36:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D1%87%D0%B8%D0%BA-%D0%B3%D0%B8%D0%BB%D1%8C%D0%B7%D0%B0"/>
+    <title>Колокольчик &quot;гильза&quot;</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_183849.jpg?v=1621350491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573040697483</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>BJQ-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573039747211</id>
+    <published>2021-11-07T17:32:29+08:00</published>
+    <updated>2021-11-07T17:32:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B2%D0%B8%D0%BD%D0%B3%D0%B5%D1%80-%D0%BD%D0%B0-%D1%86%D0%B5%D0%BF%D0%BE%D1%87%D0%BA%D0%B5-1"/>
+    <title>Свингер на цепочке YB-2566</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0943.jpg?v=1636273723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            102.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Свингер</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573039747211</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">102.00</s:price>
+      <s:sku>YB-2566</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573039419531</id>
+    <published>2021-11-07T17:27:04+08:00</published>
+    <updated>2021-11-07T17:27:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B2%D0%B8%D0%BD%D0%B3%D0%B5%D1%80-%D0%BD%D0%B0-%D0%BF%D1%80%D1%83%D1%82%D0%BA%D0%B5-%D0%B1%D0%B5%D0%B7-%D0%B3%D1%80%D1%83%D0%B7%D0%B0"/>
+    <title>Свингер на прутке без груза YB-2567</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0947_1e6d7ddb-4250-4988-9877-1c5ca614f1e0.jpg?v=1636273744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            102.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Свингер</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573039419531</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">102.00</s:price>
+      <s:sku>YB-2567</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6656216105099</id>
+    <published>2021-11-07T17:18:33+08:00</published>
+    <updated>2021-11-07T17:18:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80-%E5%86%AC%E5%A4%A9"/>
+    <title>Сигнализатор для жерлицы, светодиодный WAL-1803</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0936.jpg?v=1636273795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6656216105099</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>WAL-1803</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6656216367243</id>
+    <published>2021-11-07T17:17:43+08:00</published>
+    <updated>2021-11-07T17:17:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80-%D0%B4%D0%BB%D1%8F-%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D1%8B"/>
+    <title>Сигнализатор поклевок на кончик удилища BD-02</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0940_b5d48bb7-aa73-440b-baf6-1dab2637f1d9.jpg?v=1636273884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6656216367243</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>BD-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573038633099</id>
+    <published>2021-11-05T11:45:08+08:00</published>
+    <updated>2021-11-05T11:45:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80-%D0%B2-%D0%BA%D0%BE%D1%80%D0%BE%D0%B1%D0%BA%D0%B5-1375"/>
+    <title>Сигнализатор в коробке 1375</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/d48cf9d8bd517b8505690ec54a652f95-800x800.jpg?v=1621350414"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            203.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573038633099</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">203.00</s:price>
+      <s:sku>BJQ-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573039255691</id>
+    <published>2021-11-05T11:44:06+08:00</published>
+    <updated>2021-11-05T11:44:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/hbl-04"/>
+    <title>Сигнализатор HBL - 04</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_183524.jpg?v=1621350715"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            86.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573039255691</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">86.00</s:price>
+      <s:sku>BJQ-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573039288459</id>
+    <published>2021-11-05T11:43:46+08:00</published>
+    <updated>2021-11-05T11:43:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80-hbl-01"/>
+    <title>Сигнализатор HBL - 01</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_183607.jpg?v=1621350687"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573039288459</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">70.00</s:price>
+      <s:sku>HBL-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573451182219</id>
+    <published>2021-11-05T11:36:17+08:00</published>
+    <updated>2021-11-05T11:36:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%BE%D0%BB%D0%BE%D0%BA%D0%BE%D0%BB%D1%8C%D1%87%D0%B8%D0%BA"/>
+    <title>Колокольчик</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0093_06b8d612-1c17-4ec2-9348-e8f3799ac065.jpg?v=1621420627"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573451182219</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">9.00</s:price>
+      <s:sku>BJQ-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573202112651</id>
+    <published>2021-06-20T17:51:27+08:00</published>
+    <updated>2021-06-20T17:51:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80-yl-16"/>
+    <title>Сигнализатор YL-16</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_183655.jpg?v=1621350789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            183.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573202112651</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">183.00</s:price>
+      <s:sku>YL-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576892969099</id>
+    <published>2021-05-31T15:16:17+08:00</published>
+    <updated>2021-05-31T15:16:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E4%BF%A1%E5%8F%B7%E5%99%A8-%E6%A3%8D"/>
+    <title>Сигнализатор поклевки с светлячок,20 см</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0266_2.jpg?v=1622193281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            17.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576892969099</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">17.00</s:price>
+      <s:sku>XHQ-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573040795787</id>
+    <published>2021-05-21T14:30:05+08:00</published>
+    <updated>2021-05-21T14:30:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D1%8F%D1%87%D0%BA%D0%B8-sms-4-5%D0%BC%D0%BC-100%D1%88%D1%82-%D0%BA%D0%BE%D1%80"/>
+    <title>Светлячки SMS 4,5мм 100шт/кор.</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/16626330_s2.jpg?v=1621578723"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            4.00 - 400.00
+            <a href="https://vitfishing.store/products/%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D1%8F%D1%87%D0%BA%D0%B8-sms-4-5%D0%BC%D0%BC-100%D1%88%D1%82-%D0%BA%D0%BE%D1%80">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573040795787</id>
+      <title>1шт</title>
+      <s:price currency="RUB">4.00</s:price>
+      <s:sku>Светлячки</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573040795787</id>
+      <title>100шт/кор</title>
+      <s:price currency="RUB">400.00</s:price>
+      <s:sku>100/кор</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573202473099</id>
+    <published>2021-05-21T14:25:07+08:00</published>
+    <updated>2021-05-21T14:25:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B0%D0%BC%D0%BF%D0%BE%D1%87%D0%BA%D0%B8"/>
+    <title>лампочки</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_183930.jpg?v=1621350977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573202473099</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">5.00</s:price>
+      <s:sku>BJQ-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573040763019</id>
+    <published>2021-05-21T14:22:50+08:00</published>
+    <updated>2021-05-21T14:22:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B0%D1%82%D0%BE%D1%80-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-strike-arlet"/>
+    <title>Сигнализатор электронный Strike Arlet</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_183748.jpg?v=1621350171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573040763019</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>BJQ-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573040533643</id>
+    <published>2021-05-21T14:21:45+08:00</published>
+    <updated>2021-05-21T14:21:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D1%83%D0%B1%D0%B5%D0%BD%D1%87%D0%B8%D0%BA-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9"/>
+    <title>Бубенчик большой</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_183859.jpg?v=1621350524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573040533643</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">6.00</s:price>
+      <s:sku>BJQ-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573040369803</id>
+    <published>2021-05-21T14:21:17+08:00</published>
+    <updated>2021-05-21T14:21:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D1%83%D0%B1%D0%B5%D0%BD%D1%87%D0%B8%D0%BA-%D1%81-%D0%BA%D1%80%D0%BE%D0%BA%D0%BE%D0%B4%D0%B8%D0%BB%D0%BE%D0%BC"/>
+    <title>Бубенчик с крокодилом</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_183908.jpg?v=1621350544"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573040369803</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">9.00</s:price>
+      <s:sku>BJQ-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573040271499</id>
+    <published>2021-05-21T14:21:01+08:00</published>
+    <updated>2021-05-21T14:21:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D1%83%D0%B1%D0%B5%D0%BD%D1%87%D0%B8%D0%BA-%D1%84%D0%B8%D0%B4%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BD%D1%8B%D0%B9"/>
+    <title>Бубенчик фидерный фосфорный</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_183840.jpg?v=1621350561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            6.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573040271499</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">6.00</s:price>
+      <s:sku>BJQ-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573040074891</id>
+    <published>2021-05-21T14:20:15+08:00</published>
+    <updated>2021-05-21T14:20:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D1%83%D0%B1%D0%B5%D0%BD%D1%87%D0%B8%D0%BA-%D0%BD%D0%B0-%D0%B7%D0%B0%D0%BA%D1%80%D1%83%D1%82%D0%BA%D0%B5"/>
+    <title>Бубенчик на закрутке</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_183922.jpg?v=1621350579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573040074891</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">5.00</s:price>
+      <s:sku>BJQ-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573040042123</id>
+    <published>2021-05-21T14:19:48+08:00</published>
+    <updated>2021-05-21T14:19:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D1%83%D0%B1%D0%B5%D0%BD%D1%87%D0%B8%D0%BA-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B8%D1%89%D0%B5%D0%BF%D0%BA%D0%B5"/>
+    <title>Бубенчик на прищепке</title>
+    <s:type>Сигнализатор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0096.jpg?v=1621698252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сигнализатор<br>
+        <strong>Price: </strong>
+            5.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573040042123</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">5.00</s:price>
+      <s:sku>BJQ-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

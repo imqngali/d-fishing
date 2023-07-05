@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-11-17T18:59:17+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6666364125323</id>
+    <published>2021-11-17T18:59:17+08:00</published>
+    <updated>2021-11-17T18:59:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-71"/>
+    <title>Блесна зимняя №71</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0480_90e25fe7-207d-4d57-9393-00b78c630333.jpg?v=1637065250"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666364125323</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>№71</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666363568267</id>
+    <published>2021-11-17T18:59:17+08:00</published>
+    <updated>2021-11-17T18:59:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-70"/>
+    <title>Блесна зимняя №70</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0477_8b00fd3c-e6ad-4156-9391-aa0f53b49889.jpg?v=1637065226"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            870.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666363568267</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">870.00</s:price>
+      <s:sku>№70</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666362978443</id>
+    <published>2021-11-17T18:59:16+08:00</published>
+    <updated>2021-11-17T18:59:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-69"/>
+    <title>Блесна зимняя №69</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0474_db934316-3025-4d4b-9077-2b38f7de0d86.jpg?v=1637065200"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            950.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666362978443</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">950.00</s:price>
+      <s:sku>№69</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666362323083</id>
+    <published>2021-11-17T18:59:16+08:00</published>
+    <updated>2021-11-17T18:59:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-68"/>
+    <title>Блесна зимняя №68</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0471_5c3ba5ad-c5da-42fc-9c47-a80d3679c9db.jpg?v=1637065178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666362323083</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>№68</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666361831563</id>
+    <published>2021-11-17T18:59:15+08:00</published>
+    <updated>2021-11-17T18:59:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-67"/>
+    <title>Блесна зимняя №67</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0467_b4a2b6dd-b24a-4331-9732-5c21ea60d642.jpg?v=1637065150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666361831563</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">550.00</s:price>
+      <s:sku>№67</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666360782987</id>
+    <published>2021-11-17T18:59:15+08:00</published>
+    <updated>2021-11-17T18:59:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-66"/>
+    <title>Блесна зимняя №66</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0465_3c79a9b8-0ead-4498-9304-d66355cfcae0.jpg?v=1637065123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666360782987</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">550.00</s:price>
+      <s:sku>№66</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666360225931</id>
+    <published>2021-11-17T18:59:14+08:00</published>
+    <updated>2021-11-17T18:59:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-65"/>
+    <title>Блесна зимняя №65</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0464_d30170ba-2e60-42bc-8480-39d28d84c617.jpg?v=1637065061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666360225931</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1050.00</s:price>
+      <s:sku>№65</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666359767179</id>
+    <published>2021-11-17T18:59:14+08:00</published>
+    <updated>2021-11-17T18:59:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-64"/>
+    <title>Блесна зимняя №64</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0461_e1631a9f-47bb-4ba9-94e9-51b910cc2786.jpg?v=1637065038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666359767179</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1050.00</s:price>
+      <s:sku>№64</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666359308427</id>
+    <published>2021-11-17T18:59:13+08:00</published>
+    <updated>2021-11-17T18:59:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-63"/>
+    <title>Блесна зимняя №63</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0458.jpg?v=1637065011"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666359308427</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1200.00</s:price>
+      <s:sku>№63</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666359046283</id>
+    <published>2021-11-17T18:59:13+08:00</published>
+    <updated>2021-11-17T18:59:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-62"/>
+    <title>Блесна зимняя №62</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0455_fcd9e13f-b898-438c-a8aa-7d9a5e68dff0.jpg?v=1637064988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666359046283</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1050.00</s:price>
+      <s:sku>№62</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666358718603</id>
+    <published>2021-11-17T18:59:12+08:00</published>
+    <updated>2021-11-17T18:59:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-61"/>
+    <title>Блесна зимняя №61</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0452_31d50a0e-39b4-4ab0-8561-5f4b37fccec7.jpg?v=1637064968"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666358718603</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1050.00</s:price>
+      <s:sku>№61</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666358194315</id>
+    <published>2021-11-17T18:59:12+08:00</published>
+    <updated>2021-11-17T18:59:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-60"/>
+    <title>Блесна зимняя №60</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0449_65962392-8bc9-4b6b-94df-09fc63a50b58.jpg?v=1637064944"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666358194315</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1050.00</s:price>
+      <s:sku>№60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666357866635</id>
+    <published>2021-11-17T18:59:11+08:00</published>
+    <updated>2021-11-17T18:59:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-59"/>
+    <title>Блесна зимняя №59</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0446_5765d996-5fd7-4202-b89e-e156a013e056.jpg?v=1637064917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666357866635</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1200.00</s:price>
+      <s:sku>№59</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666357637259</id>
+    <published>2021-11-17T18:59:11+08:00</published>
+    <updated>2021-11-17T18:59:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-58"/>
+    <title>Блесна зимняя №58</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0443_4e7a7742-f514-4e10-98c4-ff161eada1a8.jpg?v=1637064899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666357637259</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1350.00</s:price>
+      <s:sku>№58</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666357112971</id>
+    <published>2021-11-17T18:59:11+08:00</published>
+    <updated>2021-11-17T18:59:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-57"/>
+    <title>Блесна зимняя №57</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0440.jpg?v=1637064878"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666357112971</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1100.00</s:price>
+      <s:sku>№57</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666356785291</id>
+    <published>2021-11-17T18:59:10+08:00</published>
+    <updated>2021-11-17T18:59:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-56"/>
+    <title>Блесна зимняя №56</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0437.jpg?v=1637064862"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666356785291</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1350.00</s:price>
+      <s:sku>№56</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666356490379</id>
+    <published>2021-11-17T18:59:09+08:00</published>
+    <updated>2021-11-17T18:59:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-55"/>
+    <title>Блесна зимняя №55</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0434_70ca4a6e-4f95-47a6-9d29-bab786882d00.jpg?v=1637064843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666356490379</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1350.00</s:price>
+      <s:sku>№55</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666356031627</id>
+    <published>2021-11-17T18:59:09+08:00</published>
+    <updated>2021-11-17T18:59:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-54"/>
+    <title>Блесна зимняя №54</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0431_83a97688-715d-4c8f-a86b-a82609b1eb81.jpg?v=1637064824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666356031627</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1350.00</s:price>
+      <s:sku>№54</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666355605643</id>
+    <published>2021-11-17T18:59:08+08:00</published>
+    <updated>2021-11-17T18:59:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-53"/>
+    <title>Блесна зимняя №53</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0428_62d36a8b-4eb8-439b-b6be-3d5826553fba.jpg?v=1637064805"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666355605643</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1250.00</s:price>
+      <s:sku>№53</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666355277963</id>
+    <published>2021-11-17T18:59:08+08:00</published>
+    <updated>2021-11-17T18:59:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-52"/>
+    <title>Блесна зимняя №52</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0425.jpg?v=1637064781"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1050.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666355277963</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1050.00</s:price>
+      <s:sku>№52</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666354098315</id>
+    <published>2021-11-17T18:59:07+08:00</published>
+    <updated>2021-11-17T18:59:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-50"/>
+    <title>Блесна зимняя №50</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0419_5dff03db-a8d3-49d4-9c2b-7c6ff77247b5.jpg?v=1637064725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1755.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666354098315</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1755.00</s:price>
+      <s:sku>№50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666353836171</id>
+    <published>2021-11-17T18:59:07+08:00</published>
+    <updated>2021-11-17T18:59:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-49"/>
+    <title>Блесна зимняя №49</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0416_f396582c-db71-4f76-b12d-04b789d7ac23.jpg?v=1637064708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666353836171</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1690.00</s:price>
+      <s:sku>№49</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666353410187</id>
+    <published>2021-11-17T18:59:06+08:00</published>
+    <updated>2021-11-17T18:59:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-48"/>
+    <title>Блесна зимняя №48</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0413_14017ade-b1ee-4be2-9c69-8eae16cef7e2.jpg?v=1637064690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1365.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666353410187</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1365.00</s:price>
+      <s:sku>№48</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666352885899</id>
+    <published>2021-11-17T18:59:06+08:00</published>
+    <updated>2021-11-17T18:59:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-47"/>
+    <title>Блесна зимняя №47</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0410_cbe131f4-98b7-44a9-bce1-22cbb75c5945.jpg?v=1637064667"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666352885899</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1690.00</s:price>
+      <s:sku>№47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6666352590987</id>
+    <published>2021-11-17T18:59:05+08:00</published>
+    <updated>2021-11-17T18:59:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-46"/>
+    <title>Блесна зимняя №46</title>
+    <s:type>Блесна зимняя</s:type>
+    <s:vendor>vitfishing</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0407_de7a672e-0c19-4426-8cc9-42a0e51dd454.jpg?v=1637064649"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing<br>
+        <strong>Type: </strong>Блесна зимняя<br>
+        <strong>Price: </strong>
+            1690.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6666352590987</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1690.00</s:price>
+      <s:sku>№46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

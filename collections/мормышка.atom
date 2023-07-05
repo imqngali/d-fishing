@@ -1,0 +1,1946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-10-01T16:18:36+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6628512661643</id>
+    <published>2021-10-01T16:18:36+08:00</published>
+    <updated>2021-10-01T16:18:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-w9"/>
+    <title>Мормышка вольфрамовая -W9</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20211001122638.jpg?v=1633074539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            38.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512661643</id>
+      <title>3.8#1.2g / золото</title>
+      <s:price currency="RUB">38.00</s:price>
+      <s:sku>3.8#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512661643</id>
+      <title>3.8#1.2g / серебро</title>
+      <s:price currency="RUB">38.00</s:price>
+      <s:sku>3.8#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512661643</id>
+      <title>3.8#1.2g / черный</title>
+      <s:price currency="RUB">38.00</s:price>
+      <s:sku>3.8#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628512170123</id>
+    <published>2021-10-01T16:18:35+08:00</published>
+    <updated>2021-10-01T16:18:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-w8"/>
+    <title>Мормышка вольфрамовая -w8</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20211001122649.jpg?v=1633074278"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            26.00 - 37.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-w8">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>3#0.35g / золото</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>3#0.35g / серебро</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>3#0.35g / медь</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>3#0.35g / черный</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>4#0.80g / золото</title>
+      <s:price currency="RUB">33.00</s:price>
+      <s:sku>4#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>4#0.80g / серебро</title>
+      <s:price currency="RUB">33.00</s:price>
+      <s:sku>4#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>4#0.80g / медь</title>
+      <s:price currency="RUB">33.00</s:price>
+      <s:sku>4#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>4#0.80g / черный</title>
+      <s:price currency="RUB">33.00</s:price>
+      <s:sku>4#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>5#2.0g / золото</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>5#2.0g / серебро</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>5#2.0g / медь</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>5#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628512170123</id>
+      <title>5#2.0g / черный</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628499423371</id>
+    <published>2021-10-01T16:18:35+08:00</published>
+    <updated>2021-10-01T16:18:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-w7"/>
+    <title>Мормышка вольфрамовая -W7</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0347_3bdf0e79-88af-46e0-8311-2cffb5882797.jpg?v=1633069238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            26.00 - 37.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-w7">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628499423371</id>
+      <title>3#0.52g / золото</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628499423371</id>
+      <title>3#0.52g / серебро</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628499423371</id>
+      <title>3#0.52g / черный</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628499423371</id>
+      <title>4#0.84g / золото</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>4#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628499423371</id>
+      <title>4#0.84g / серебро</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>4#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628499423371</id>
+      <title>4#0.84g / черный</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>4#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628499423371</id>
+      <title>5#1.58g / золото</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628499423371</id>
+      <title>5#1.58g / серебро</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628499423371</id>
+      <title>5#1.58g / черный</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628496343179</id>
+    <published>2021-10-01T16:18:34+08:00</published>
+    <updated>2021-10-01T16:18:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-w6"/>
+    <title>Мормышка вольфрамовая -W6</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0334_b21c9eb8-222e-46a2-95c9-960f16791bc2.jpg?v=1633068795"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            38.00 - 45.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-w6">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628496343179</id>
+      <title>3#0.52g / золото</title>
+      <s:price currency="RUB">38.00</s:price>
+      <s:sku>3#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628496343179</id>
+      <title>3#0.52g / серебро</title>
+      <s:price currency="RUB">38.00</s:price>
+      <s:sku>3#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628496343179</id>
+      <title>3#0.52g / черный</title>
+      <s:price currency="RUB">38.00</s:price>
+      <s:sku>3#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628496343179</id>
+      <title>4#1.02g / золото</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628496343179</id>
+      <title>4#1.02g / серебро</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628496343179</id>
+      <title>4#1.02g / черный</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628495589515</id>
+    <published>2021-10-01T16:18:33+08:00</published>
+    <updated>2021-10-01T16:18:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-w2"/>
+    <title>Мормышка вольфрамовая -W2</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0322_e3094f45-0cf0-49da-b4b5-0fe96a2e7770.jpg?v=1633068670"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            38.00 - 46.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-w2">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628495589515</id>
+      <title>3#0.72g / золото</title>
+      <s:price currency="RUB">38.00</s:price>
+      <s:sku>3#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628495589515</id>
+      <title>3#0.72g / серебро</title>
+      <s:price currency="RUB">38.00</s:price>
+      <s:sku>3#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628495589515</id>
+      <title>3#0.72g / черный</title>
+      <s:price currency="RUB">38.00</s:price>
+      <s:sku>3#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628495589515</id>
+      <title>4#1g / золото</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>4#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628495589515</id>
+      <title>4#1g / серебро</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>4#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628495589515</id>
+      <title>4#1g / черный</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>4#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628493885579</id>
+    <published>2021-10-01T16:18:32+08:00</published>
+    <updated>2021-10-01T16:18:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-61"/>
+    <title>Мормышка вольфрамовая -61</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0341.jpg?v=1633068405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            31.00 - 45.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-61">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>2.5#0.50g / золото</title>
+      <s:price currency="RUB">31.00</s:price>
+      <s:sku>2.5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>2.5#0.50g / серебро</title>
+      <s:price currency="RUB">31.00</s:price>
+      <s:sku>2.5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>2.5#0.50g / медь</title>
+      <s:price currency="RUB">31.00</s:price>
+      <s:sku>2.5#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>2.5#0.50g / черный</title>
+      <s:price currency="RUB">31.00</s:price>
+      <s:sku>2.5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>3#0.75g / золото</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>3#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>3#0.75g / серебро</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>3#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>3#0.75g / медь</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>3#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>3#0.75g / черный</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>3#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>4#1.32g / золото</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>4#1.32g / серебро</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>4#1.32g / медь</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628493885579</id>
+      <title>4#1.32g / черный</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628488675467</id>
+    <published>2021-10-01T16:18:31+08:00</published>
+    <updated>2021-10-01T16:18:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-52"/>
+    <title>Мормышка вольфрамовая -52</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0312_be6557b5-4efe-49d4-9118-324ce8aa5089.jpg?v=1633068026"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            30.00 - 44.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-52">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>3#0.29g / золото</title>
+      <s:price currency="RUB">30.00</s:price>
+      <s:sku>3#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>3#0.29g / серебро</title>
+      <s:price currency="RUB">30.00</s:price>
+      <s:sku>3#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>3#0.29g / медь</title>
+      <s:price currency="RUB">30.00</s:price>
+      <s:sku>3#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>3#0.29g / черный</title>
+      <s:price currency="RUB">30.00</s:price>
+      <s:sku>3#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>3.5#0.52g / золото</title>
+      <s:price currency="RUB">33.00</s:price>
+      <s:sku>3.5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>3.5#0.52g / серебро</title>
+      <s:price currency="RUB">33.00</s:price>
+      <s:sku>3.5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>3.5#0.52g / медь</title>
+      <s:price currency="RUB">33.00</s:price>
+      <s:sku>3.5#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>3.5#0.52g / черный</title>
+      <s:price currency="RUB">33.00</s:price>
+      <s:sku>3.5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>4#0.84g / золото</title>
+      <s:price currency="RUB">41.00</s:price>
+      <s:sku>4#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>4#0.84g / серебро</title>
+      <s:price currency="RUB">41.00</s:price>
+      <s:sku>4#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>4#0.84g / медь</title>
+      <s:price currency="RUB">41.00</s:price>
+      <s:sku>4#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>4#0.84g / черный</title>
+      <s:price currency="RUB">41.00</s:price>
+      <s:sku>4#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>5#1.58g / золото</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>5#1.58g / серебро</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>5#1.58g / медь</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>5#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628488675467</id>
+      <title>5#1.58g / черный</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628484350091</id>
+    <published>2021-10-01T16:18:31+08:00</published>
+    <updated>2021-10-01T16:18:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-47"/>
+    <title>Мормышка вольфрамовая -47</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0304_ff43171f-0b46-41f1-93a1-04891ee68e5d.jpg?v=1633067641"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            35.00 - 48.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-47">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>3#0.82g / золото</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>3#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>3#0.82g / серебро</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>3#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>3#0.82g / медь</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>3#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>3#0.82g / черный</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>3#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>4#1.42g / золото</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>4#1.42g / серебро</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>4#1.42g / медь</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>4#1.42g / черный</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>5#2.48g / золото</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>5#2.48g / серебро</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>5#2.48g / медь</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>5#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628484350091</id>
+      <title>5#2.48g / черный</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628482744459</id>
+    <published>2021-10-01T16:18:30+08:00</published>
+    <updated>2021-10-01T16:18:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-22"/>
+    <title>Мормышка вольфрамовая -22</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0328.jpg?v=1633066487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            35.00 - 45.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-22">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628482744459</id>
+      <title>3#0.75g / золото</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>3#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628482744459</id>
+      <title>3#0.75g / серебро</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>3#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628482744459</id>
+      <title>3#0.75g / черный</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>3#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628482744459</id>
+      <title>4#0.97g / золото</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>4#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628482744459</id>
+      <title>4#0.97g / серебро</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>4#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628482744459</id>
+      <title>4#0.97g / черный</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>4#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628482744459</id>
+      <title>5#1.75g / золото</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628482744459</id>
+      <title>5#1.75g / серебро</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628482744459</id>
+      <title>5#1.75g / черный</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628472914059</id>
+    <published>2021-10-01T16:18:29+08:00</published>
+    <updated>2021-10-01T16:18:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-20"/>
+    <title>Мормышка вольфрамовая -20</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0369_8840db91-195d-4a23-a391-1429eeaa78db.jpg?v=1633065343"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            20.00 - 32.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-20">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>2.5#0.45g / золото</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>2.5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>2.5#0.45g / серебро</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>2.5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>2.5#0.45g / медь</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>2.5#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>2.5#0.45g / черный</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>2.5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>3#0.75g / золото</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>3#0.75g / серебро</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>3#0.75g / медь</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>3#0.75g / черный</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>4#1.18g / золото</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>4#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>4#1.18g / серебро</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>4#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>4#1.18g / медь</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>4#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628472914059</id>
+      <title>4#1.18g / черный</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>4#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628468621451</id>
+    <published>2021-10-01T16:18:28+08:00</published>
+    <updated>2021-10-01T16:18:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-18"/>
+    <title>Мормышка вольфрамовая -18</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0354_bbe499bc-c7e8-4e2f-ac2d-4794d2d69a55.jpg?v=1633064853"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            28.00 - 39.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-18">(12 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>3#0.49g / золото</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>3#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>3#0.49g / серебро</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>3#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>3#0.49g / медь</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>3#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>3#0.49g / черный</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>3#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>3.5#0.63g / золото</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>3.5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>3.5#0.63g / серебро</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>3.5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>3.5#0.63g / медь</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>3.5#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>3.5#0.63g / черный</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>3.5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>4#0.96g / золото</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>4#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>4#0.96g / серебро</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>4#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>4#0.96g / медь</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>4#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628468621451</id>
+      <title>4#0.96g / черный</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>4#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628467212427</id>
+    <published>2021-10-01T16:18:28+08:00</published>
+    <updated>2021-10-01T16:18:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-17"/>
+    <title>Мормышка вольфрамовая -17</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0367_b384aea2-96b6-4558-b90f-09e26e59887a.jpg?v=1633064699"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628467212427</id>
+      <title>6#1.96g / золото</title>
+      <s:price currency="RUB">41.00</s:price>
+      <s:sku>6#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628467212427</id>
+      <title>6#1.96g / серебро</title>
+      <s:price currency="RUB">41.00</s:price>
+      <s:sku>6#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628467212427</id>
+      <title>6#1.96g / черный</title>
+      <s:price currency="RUB">41.00</s:price>
+      <s:sku>6#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628466491531</id>
+    <published>2021-10-01T16:18:27+08:00</published>
+    <updated>2021-10-01T16:18:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-11-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Мормышка вольфрамовая -15</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0305_fd4e4507-4bcd-43a0-87dc-a30b75c75664.jpg?v=1633064340"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            36.00 - 45.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-11-%E7%9A%84%E5%89%AF%E6%9C%AC">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628466491531</id>
+      <title>3.6#0.84g / золото</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>3.6#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628466491531</id>
+      <title>3.6#0.84g / серебро</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>3.6#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628466491531</id>
+      <title>3.6#0.84g / черный</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>3.6#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628466491531</id>
+      <title>4.5#1.8g / золото</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4.5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628466491531</id>
+      <title>4.5#1.8g / серебро</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4.5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628466491531</id>
+      <title>4.5#1.8g / черный</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>4.5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628456824971</id>
+    <published>2021-10-01T16:18:27+08:00</published>
+    <updated>2021-10-01T16:18:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-7"/>
+    <title>Мормышка вольфрамовая фосфором -7</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20211001091857.jpg?v=1633062299"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            31.00 - 43.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-7">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>фосфором</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628456824971</id>
+      <title>2.5#0.25g</title>
+      <s:price currency="RUB">31.00</s:price>
+      <s:sku>2.5#0.25g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628456824971</id>
+      <title>3.0#0.45g</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>3.0#0.45g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628456824971</id>
+      <title>3.5#0.55g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>3.5#0.55g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628456824971</id>
+      <title>4#1.15g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>4#1.15g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628455743627</id>
+    <published>2021-10-01T16:18:26+08:00</published>
+    <updated>2021-10-01T16:18:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-6"/>
+    <title>Мормышка вольфрамовая фосфором -6</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0421.jpg?v=1633062221"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            40.00 - 48.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-6">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>фосфором</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628455743627</id>
+      <title>3#0.62g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>3#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628455743627</id>
+      <title>4#1.20g</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628452991115</id>
+    <published>2021-10-01T16:18:26+08:00</published>
+    <updated>2021-10-01T16:18:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-5"/>
+    <title>Мормышка вольфрамовая фосфором -5</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0413_224e2f8b-0558-4430-b99e-a83714b3e544.jpg?v=1633062082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            50.00 - 54.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-5">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>фосфором</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628452991115</id>
+      <title>4#0.94g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628452991115</id>
+      <title>5#1.68g</title>
+      <s:price currency="RUB">54.00</s:price>
+      <s:sku>5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628429398155</id>
+    <published>2021-10-01T16:18:25+08:00</published>
+    <updated>2021-10-01T16:18:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-4"/>
+    <title>Мормышка вольфрамовая фосфором -4</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0411_04d476c3-93a1-47d2-bda0-940f385c2bfe.jpg?v=1633060275"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            37.00 - 48.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-4">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>фосфором</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628429398155</id>
+      <title>3#0.34g</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>3#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628429398155</id>
+      <title>4#0.68g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628429398155</id>
+      <title>5#1.28g</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628428021899</id>
+    <published>2021-10-01T16:18:25+08:00</published>
+    <updated>2021-10-01T16:18:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-3"/>
+    <title>Мормышка вольфрамовая фосфором -3</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0048_83d3c33f-674b-4ddd-a3ff-1541966a69b5.jpg?v=1637666843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            39.00 - 50.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-3">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>фосфором</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628428021899</id>
+      <title>3#0.45g</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>3#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628428021899</id>
+      <title>4#0.90g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628428021899</id>
+      <title>5#1.64g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628425629835</id>
+    <published>2021-10-01T16:18:24+08:00</published>
+    <updated>2021-10-01T16:18:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-2"/>
+    <title>Мормышка вольфрамовая фосфором -2</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0402_80ead7d4-34f2-4bbf-bdb0-a8e4da693c10.jpg?v=1633059925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            31.00 - 42.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BE%D0%BC-2">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>фосфором</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628425629835</id>
+      <title>2,5#0.50g</title>
+      <s:price currency="RUB">31.00</s:price>
+      <s:sku>2.5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628425629835</id>
+      <title>3#0.80g</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>3#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628425629835</id>
+      <title>4#1.28g</title>
+      <s:price currency="RUB">42.00</s:price>
+      <s:sku>4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628423729291</id>
+    <published>2021-10-01T16:18:24+08:00</published>
+    <updated>2021-10-01T16:18:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%85%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD-6"/>
+    <title>Мормышка вольфрамовая фосфором -1</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0398_54f914b5-9dc2-4a1c-9826-9db64a2cdf52.jpg?v=1633059796"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            42.00 - 57.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%85%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD-6">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>фосфором</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628423729291</id>
+      <title>2,5#0.6g</title>
+      <s:price currency="RUB">42.00</s:price>
+      <s:sku>2.5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628423729291</id>
+      <title>3#0.85g</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>3#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628423729291</id>
+      <title>4#1.42g</title>
+      <s:price currency="RUB">57.00</s:price>
+      <s:sku>4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628421763211</id>
+    <published>2021-10-01T16:18:23+08:00</published>
+    <updated>2021-10-01T16:18:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%85%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD-5"/>
+    <title>Мормышка вольфрамовая Хамелеон-5</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0399_c71dbe0d-f55f-4e43-8e4a-850b95e31465.jpg?v=1633059638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            30.00 - 47.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%85%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD-5">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Хамелеон</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628421763211</id>
+      <title>2,5#0.25g</title>
+      <s:price currency="RUB">30.00</s:price>
+      <s:sku>2.5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628421763211</id>
+      <title>3#0.45g</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>3#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628421763211</id>
+      <title>4#1.05g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628421763211</id>
+      <title>5#1.80g</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628420878475</id>
+    <published>2021-10-01T16:18:23+08:00</published>
+    <updated>2021-10-01T16:18:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%85%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD-4"/>
+    <title>Мормышка вольфрамовая Хамелеон-4</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0391_dc207e01-a0ab-45cd-ba8f-0b780a7208f7.jpg?v=1633059475"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            31.00 - 48.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%85%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD-4">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Хамелеон</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628420878475</id>
+      <title>2,5#0.35g</title>
+      <s:price currency="RUB">31.00</s:price>
+      <s:sku>2.5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628420878475</id>
+      <title>3#0.52g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>3#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628420878475</id>
+      <title>3.5#0.78g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>3.5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628420878475</id>
+      <title>4#1.10g</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628420124811</id>
+    <published>2021-10-01T16:18:22+08:00</published>
+    <updated>2021-10-01T16:18:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%85%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD-2-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Мормышка вольфрамовая Хамелеон-3</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0386_022478c5-bc29-451e-8c99-cd55c301bbea.jpg?v=1633059291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            32.00 - 42.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%85%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD-2-%E7%9A%84%E5%89%AF%E6%9C%AC">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Хамелеон</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628420124811</id>
+      <title>2,5#0.45g</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>2.5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628420124811</id>
+      <title>3#0.75g</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>3#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628420124811</id>
+      <title>4#1.18g</title>
+      <s:price currency="RUB">42.00</s:price>
+      <s:sku>4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628419764363</id>
+    <published>2021-10-01T16:18:22+08:00</published>
+    <updated>2021-10-01T16:18:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%85%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD-2"/>
+    <title>Мормышка вольфрамовая Хамелеон-2</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0387_cae50347-55a2-4325-8e40-71de56b0c1fd.jpg?v=1633059127"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            42.00 - 57.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D1%85%D0%B0%D0%BC%D0%B5%D0%BB%D0%B5%D0%BE%D0%BD-2">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Хамелеон</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628419764363</id>
+      <title>2,5#0.50g</title>
+      <s:price currency="RUB">42.00</s:price>
+      <s:sku>2.5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628419764363</id>
+      <title>3#0.75g</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>3#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628419764363</id>
+      <title>4#1.32g</title>
+      <s:price currency="RUB">57.00</s:price>
+      <s:sku>4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6628207296651</id>
+    <published>2021-10-01T16:18:21+08:00</published>
+    <updated>2021-10-01T16:18:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80-1-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Мормышка вольфрамовая -11</title>
+    <s:type>Мормышка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0361_4d576ccd-08a9-4c24-8630-9bcca9ecde48.jpg?v=1633002566"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка<br>
+        <strong>Price: </strong>
+            20.00 - 36.00
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80-1-%E7%9A%84%E5%89%AF%E6%9C%AC">(16 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>2.5#0,25g / золото</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>2.5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>2.5#0,25g / серебро</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>2.5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>2.5#0,25g / медь</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>2.5#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>2.5#0,25g / черный</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>2.5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>3#0.45g / золото</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>3#0.45g / серебро</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>3#0.45g / медь</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>3#0.45g / черный</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>3#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>4#1.05g / золото</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>4#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>4#1.05g / серебро</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>4#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>4#1.05g / медь</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>4#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>4#1.05g / черный</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>4#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>5#1.8g / золото</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>5#-золото</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>5#1.8g / серебро</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>5#-серебро</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>5#1.8g / медь</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>5#-медь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6628207296651</id>
+      <title>5#1.8g / черный</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>5#-черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

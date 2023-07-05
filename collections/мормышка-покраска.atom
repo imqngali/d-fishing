@@ -1,0 +1,1583 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-10-09T13:44:30+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6632343240843</id>
+    <published>2021-10-09T13:44:30+08:00</published>
+    <updated>2021-10-09T13:44:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-5-1-77g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-27"/>
+    <title>МОРМЫШКА 5# 1.77g ВОЛЬФРАМОВАЯ ПОКРАСКА 27</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0891_3a5b4ff6-c8ba-4b8d-a483-e44d83d99988.jpg?v=1633691080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            48.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div style="padding-left: 30px;"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632343240843</id>
+      <title>1#-1.77g</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>26-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632343240843</id>
+      <title>2#-1.77g</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>26-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632343240843</id>
+      <title>3#-1.77g</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>26-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632343240843</id>
+      <title>4#-1.77g</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>26-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632342945931</id>
+    <published>2021-10-09T13:44:29+08:00</published>
+    <updated>2021-10-09T13:44:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-3-0-55g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-26"/>
+    <title>МОРМЫШКА 3# 0.55g ВОЛЬФРАМОВАЯ ПОКРАСКА 26</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0884_55ed09e1-fef1-4f55-b209-c58fc5f7b4ba.jpg?v=1633690873"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342945931</id>
+      <title>1#-0.55g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>26-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342945931</id>
+      <title>2#-0.55g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>26-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342945931</id>
+      <title>3#-0.55g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>26-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342945931</id>
+      <title>4#-0.55g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>26-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632342651019</id>
+    <published>2021-10-09T13:44:29+08:00</published>
+    <updated>2021-10-09T13:44:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-1-24g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-25"/>
+    <title>МОРМЫШКА 4# 1.24g ВОЛЬФРАМОВАЯ ПОКРАСКА 25</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0877_53be0d4e-e2e9-4afa-b5c5-53c79fcf4fee.jpg?v=1633690768"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342651019</id>
+      <title>1#-1.24g</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>25-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342651019</id>
+      <title>2#-1.24g</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>25-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342651019</id>
+      <title>3#-1.24g</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>25-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342651019</id>
+      <title>4#-1.24g</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>25-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632342028427</id>
+    <published>2021-10-09T13:44:28+08:00</published>
+    <updated>2021-10-09T13:44:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-6-1-92g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-24"/>
+    <title>МОРМЫШКА 6# 1.92g ВОЛЬФРАМОВАЯ ПОКРАСКА 24</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0868_35f29e97-4cef-4c4b-b3a2-47f1ba99e750.jpg?v=1633690589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            55.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342028427</id>
+      <title>1#-1.92g</title>
+      <s:price currency="RUB">55.00</s:price>
+      <s:sku>24-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342028427</id>
+      <title>2#-1.92g</title>
+      <s:price currency="RUB">55.00</s:price>
+      <s:sku>24-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342028427</id>
+      <title>3#-1.92g</title>
+      <s:price currency="RUB">55.00</s:price>
+      <s:sku>24-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342028427</id>
+      <title>4#-1.92g</title>
+      <s:price currency="RUB">55.00</s:price>
+      <s:sku>24-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342028427</id>
+      <title>5#-1.92g</title>
+      <s:price currency="RUB">55.00</s:price>
+      <s:sku>24-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632342028427</id>
+      <title>6#-1.92g</title>
+      <s:price currency="RUB">55.00</s:price>
+      <s:sku>24-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632340193419</id>
+    <published>2021-10-09T13:44:27+08:00</published>
+    <updated>2021-10-09T13:44:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-5-1-35g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-22-2"/>
+    <title>МОРМЫШКА 4.5# 1.35g ВОЛЬФРАМОВАЯ ПОКРАСКА 22-2</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0849_8278bb75-1c8a-4155-93c7-71f93b0efcaf.jpg?v=1633689831"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632340193419</id>
+      <title>1#-1.35g</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>22-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632340193419</id>
+      <title>2#-1.35g</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>22-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632340193419</id>
+      <title>3#-1.35g</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>22-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632340193419</id>
+      <title>4# 1.35g</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>22-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632340193419</id>
+      <title>5# 1.35g</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>22-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632339210379</id>
+    <published>2021-10-09T13:44:27+08:00</published>
+    <updated>2021-10-09T13:44:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-5-1-35g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-22-1"/>
+    <title>МОРМЫШКА 4.5# 1.35g ВОЛЬФРАМОВАЯ ПОКРАСКА 22-1</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0849_e6523882-a191-4c9f-b587-9e96c653e915.jpg?v=1633689767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632339210379</id>
+      <title>1#-1.35g</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>22-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632339210379</id>
+      <title>2#-1.35g</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>22-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632339210379</id>
+      <title>3#-1.35g</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>22-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632339210379</id>
+      <title>4# 1.35g</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>22-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632339210379</id>
+      <title>5# 1.35g</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>22-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632338456715</id>
+    <published>2021-10-09T13:44:26+08:00</published>
+    <updated>2021-10-09T13:44:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-3-5-0-80g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-21-2"/>
+    <title>МОРМЫШКА 3.5# 0.80g ВОЛЬФРАМОВАЯ ПОКРАСКА 21-2</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0837_afcb07c8-b5a4-42d8-b15d-1021b3df4d20.jpg?v=1633689485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632338456715</id>
+      <title>1#-0.80g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>21-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632338456715</id>
+      <title>2#-0.80g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>21-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632338456715</id>
+      <title>3#-0.80g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>21-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632338456715</id>
+      <title>4# 0.80g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>21-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632336785547</id>
+    <published>2021-10-09T13:44:26+08:00</published>
+    <updated>2021-10-09T13:44:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-3-5-0-80g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-21"/>
+    <title>МОРМЫШКА 3.5# 0.80g ВОЛЬФРАМОВАЯ ПОКРАСКА 21</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0837_b11533af-d4bf-401c-ad82-7ca329b992b3.jpg?v=1633689295"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632336785547</id>
+      <title>1#-0.80g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>21-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632336785547</id>
+      <title>2#-0.80g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>21-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632336785547</id>
+      <title>3#-0.80g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>21-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632336785547</id>
+      <title>4# 0.80g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>21-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632336785547</id>
+      <title>5# 0.80g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>21-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632336064651</id>
+    <published>2021-10-09T13:44:25+08:00</published>
+    <updated>2021-10-09T13:44:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-5-1-15g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-20-2"/>
+    <title>МОРМЫШКА 5# 1.15g ВОЛЬФРАМОВАЯ ПОКРАСКА 20-2</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0822_64c74420-f92f-4fed-88b4-5d21e1ec3c02.jpg?v=1633689052"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632336064651</id>
+      <title>1#-1.15g</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>20-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632336064651</id>
+      <title>2#-1.15g</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>20-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632336064651</id>
+      <title>3#-1.15g</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>20-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632336064651</id>
+      <title>4# 1.15g</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>20-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632336064651</id>
+      <title>5# 1.15g</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>20-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632336064651</id>
+      <title>6#-1.15g</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>20-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632335081611</id>
+    <published>2021-10-09T13:44:25+08:00</published>
+    <updated>2021-10-09T13:44:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-5-1-15g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-20-1"/>
+    <title>МОРМЫШКА 5# 1.15g ВОЛЬФРАМОВАЯ ПОКРАСКА 20-1</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0822.jpg?v=1633688950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632335081611</id>
+      <title>1#-1.15g</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>20-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632335081611</id>
+      <title>2#-1.15g</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>20-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632335081611</id>
+      <title>3#-1.15g</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>20-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632335081611</id>
+      <title>4# 1.15g</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>20-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632335081611</id>
+      <title>5# 1.15g</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>20-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632334917771</id>
+    <published>2021-10-09T13:44:24+08:00</published>
+    <updated>2021-10-09T13:44:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-0-60g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-19-2"/>
+    <title>МОРМЫШКА 4# 0.60g ВОЛЬФРАМОВАЯ ПОКРАСКА 19-2</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0808_8602fef4-d8df-478e-8660-e1e9b3ab7c39.jpg?v=1633688773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632334917771</id>
+      <title>1#-0.60g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>19-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632334917771</id>
+      <title>2#-0.60g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>19-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632334917771</id>
+      <title>3#-0.60g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>19-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632334917771</id>
+      <title>4# 0.60g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>19-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632334917771</id>
+      <title>5# 0.60g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>19-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632332689547</id>
+    <published>2021-10-09T13:44:23+08:00</published>
+    <updated>2021-10-09T13:44:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-0-60g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-19"/>
+    <title>МОРМЫШКА 4# 0.60g ВОЛЬФРАМОВАЯ ПОКРАСКА 19</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0808_5db9ccd1-095b-47a3-89fd-5862c28e8851.jpg?v=1633688574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632332689547</id>
+      <title>1#-0.60g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>19-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632332689547</id>
+      <title>2#-0.60g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>19-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632332689547</id>
+      <title>3#-0.60g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>19-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632332689547</id>
+      <title>4# 0.60g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>19-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632332689547</id>
+      <title>5# 0.60g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>19-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632332689547</id>
+      <title>6# 0.60g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>19-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632329216139</id>
+    <published>2021-10-09T13:44:23+08:00</published>
+    <updated>2021-10-09T13:44:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-1-25g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-17-2"/>
+    <title>МОРМЫШКА 4# 1.25g ВОЛЬФРАМОВАЯ ПОКРАСКА 17-2</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0792_bdbcf775-038b-4d60-9c4a-fd04fc0c8735.jpg?v=1633688314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632329216139</id>
+      <title>1#-1.25g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>17-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632329216139</id>
+      <title>2#-1.25g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>17-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632329216139</id>
+      <title>3#-1.25g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>17-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632329216139</id>
+      <title>4#-1.25g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>17-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632328921227</id>
+    <published>2021-10-09T13:44:22+08:00</published>
+    <updated>2021-10-09T13:44:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-1-25g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-17"/>
+    <title>МОРМЫШКА 4# 1.25g ВОЛЬФРАМОВАЯ ПОКРАСКА 17</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0792_70948c2b-af50-4660-9d93-c790f4ec75fc.jpg?v=1633688218"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            45.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328921227</id>
+      <title>1#-1.25g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>17-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328921227</id>
+      <title>2#-1.25g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>17-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328921227</id>
+      <title>3#-1.25g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>17-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328921227</id>
+      <title>4#-1.25g</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>17-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632328495243</id>
+    <published>2021-10-09T13:44:22+08:00</published>
+    <updated>2021-10-09T13:44:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-3-5-0-80g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-16"/>
+    <title>МОРМЫШКА 3.5# 0.80g ВОЛЬФРАМОВАЯ ПОКРАСКА 16</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0785.jpg?v=1633688098"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            39.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328495243</id>
+      <title>1#-0.80g</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>16-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328495243</id>
+      <title>2#-0.80g</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>16-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328495243</id>
+      <title>3#-0.80g</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>16-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328495243</id>
+      <title>4#-0.80g</title>
+      <s:price currency="RUB">39.00</s:price>
+      <s:sku>16-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632328003723</id>
+    <published>2021-10-09T13:44:21+08:00</published>
+    <updated>2021-10-09T13:44:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-3-0-85g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-15"/>
+    <title>МОРМЫШКА 3# 0.85g ВОЛЬФРАМОВАЯ ПОКРАСКА 15</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0776_863515df-0394-4bda-bc1c-44ab8b17d732.jpg?v=1633687961"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328003723</id>
+      <title>1#-0.85g</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>15-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328003723</id>
+      <title>2#-0.85g</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>15-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328003723</id>
+      <title>3#-0.85g</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>15-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328003723</id>
+      <title>4#-0.85g</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>15-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328003723</id>
+      <title>5#-0.85g</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>15-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632328003723</id>
+      <title>6#-0.85g</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>15-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632327512203</id>
+    <published>2021-10-09T13:44:20+08:00</published>
+    <updated>2021-10-09T13:44:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-0-60g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-14"/>
+    <title>МОРМЫШКА 4# 0.60g ВОЛЬФРАМОВАЯ ПОКРАСКА 14</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0768.jpg?v=1633687790"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632327512203</id>
+      <title>1#-0.60g</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>14-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632327512203</id>
+      <title>2#-0.60g</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>14-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632327512203</id>
+      <title>3#-0.60g</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>14-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632327512203</id>
+      <title>4#-0.60g</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>14-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632327512203</id>
+      <title>5#-0.60g</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>14-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632326725771</id>
+    <published>2021-10-09T13:44:20+08:00</published>
+    <updated>2021-10-09T13:44:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-5-1-20g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-13"/>
+    <title>МОРМЫШКА 5# 1.20g ВОЛЬФРАМОВАЯ ПОКРАСКА 13</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0759_6865916c-6931-4d3c-aace-831363cac61a.jpg?v=1633687499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632326725771</id>
+      <title>1#-1.20g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>13-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632326725771</id>
+      <title>2#-1.20g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>13-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632326725771</id>
+      <title>3#-1.20g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>13-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632326725771</id>
+      <title>4#-1.20g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>13-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632326725771</id>
+      <title>5#-1.20g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>13-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632326725771</id>
+      <title>6#-1.20g</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>13-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632326398091</id>
+    <published>2021-10-09T13:44:19+08:00</published>
+    <updated>2021-10-09T13:44:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-0-88g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-12"/>
+    <title>МОРМЫШКА 4# 0.88g ВОЛЬФРАМОВАЯ ПОКРАСКА 12</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0758_14f33b73-ae8f-4883-87df-be5f82edcdb3.jpg?v=1633687421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632326398091</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>4# 0.88g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632325611659</id>
+    <published>2021-10-09T13:44:19+08:00</published>
+    <updated>2021-10-09T13:44:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-1-30g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-11"/>
+    <title>МОРМЫШКА 4# 1.30g ВОЛЬФРАМОВАЯ ПОКРАСКА 11</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0749.jpg?v=1633687193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632325611659</id>
+      <title>1#-1.30g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>10-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632325611659</id>
+      <title>2#-1.30g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>10-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632325611659</id>
+      <title>3#-1.30g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>10-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632325611659</id>
+      <title>4#-1.30g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>10-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632325611659</id>
+      <title>5#-1.30g</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632325152907</id>
+    <published>2021-10-09T13:44:18+08:00</published>
+    <updated>2021-10-09T13:44:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-3-5-0-90g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-10"/>
+    <title>МОРМЫШКА 3.5# 0.90g ВОЛЬФРАМОВАЯ ПОКРАСКА 10</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0740_e3ce0fc0-ed28-494b-9093-cd30c87debed.jpg?v=1633687036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632325152907</id>
+      <title>1#-0.90g</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>10-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632325152907</id>
+      <title>2#-0.90g</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>10-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632325152907</id>
+      <title>3#-0.90g</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>10-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632325152907</id>
+      <title>4#-0.90g</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>10-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632325152907</id>
+      <title>5#-0.90g</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>10-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632325152907</id>
+      <title>6#-0.90g</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>10-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632324268171</id>
+    <published>2021-10-09T13:44:18+08:00</published>
+    <updated>2021-10-09T13:44:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-3-0-60g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-09"/>
+    <title>МОРМЫШКА 3# 0.60g ВОЛЬФРАМОВАЯ ПОКРАСКА 09</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0731_9142ef51-1080-4bdb-b24a-9636302bf0c1.jpg?v=1633686852"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632324268171</id>
+      <title>1#-0.60g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>09-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632324268171</id>
+      <title>2#-0.60g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>09-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632324268171</id>
+      <title>3#-0.60g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>09-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632324268171</id>
+      <title>4#-0.60g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>09-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632324268171</id>
+      <title>5#-0.60g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>09-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632324268171</id>
+      <title>6#-0.60g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>09-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632324038795</id>
+    <published>2021-10-09T13:44:17+08:00</published>
+    <updated>2021-10-09T13:44:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-1-15g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-08-2"/>
+    <title>МОРМЫШКА 4# 1.15g ВОЛЬФРАМОВАЯ ПОКРАСКА 08-2</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0718_9b6d885f-0f77-432d-a1e2-bf70060e104e.jpg?v=1633686725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632324038795</id>
+      <title>1#-1.15g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>08-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632324038795</id>
+      <title>2#-1.15g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>08-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632324038795</id>
+      <title>3#-1.15g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>08-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632324038795</id>
+      <title>4#-1.15g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>08-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632324038795</id>
+      <title>5#-1.15g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>08-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632323711115</id>
+    <published>2021-10-09T13:44:16+08:00</published>
+    <updated>2021-10-09T13:44:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-4-1-15g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-08"/>
+    <title>МОРМЫШКА 4# 1.15g ВОЛЬФРАМОВАЯ ПОКРАСКА 08-1</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0718.jpg?v=1633686577"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            43.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632323711115</id>
+      <title>1#-1.15g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>08-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632323711115</id>
+      <title>2#-1.15g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>08-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632323711115</id>
+      <title>3#-1.15g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>08-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632323711115</id>
+      <title>4#-1.15g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>08-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632323711115</id>
+      <title>5#-1.15g</title>
+      <s:price currency="RUB">43.00</s:price>
+      <s:sku>08-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632323088523</id>
+    <published>2021-10-09T13:44:16+08:00</published>
+    <updated>2021-10-09T13:44:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-3-0-55g-%D0%B2%D0%BE%D0%BB%D1%8C%D1%84%D1%80%D0%B0%D0%BC%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BF%D0%BE%D0%BA%D1%80%D0%B0%D1%81%D0%BA%D0%B0-07"/>
+    <title>МОРМЫШКА 3# 0.55g ВОЛЬФРАМОВАЯ ПОКРАСКА 07</title>
+    <s:type>Мормышка покраска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0710_b52fb604-52a3-4a47-82ec-79eb7d69df0b.jpg?v=1633686410"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка покраска<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632323088523</id>
+      <title>1#-0.55g</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>07-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632323088523</id>
+      <title>2#-0.55g</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>07-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632323088523</id>
+      <title>3#-0.55g</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>07-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632323088523</id>
+      <title>4#-0.55g</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>07-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632323088523</id>
+      <title>5#-0.55g</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>07-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

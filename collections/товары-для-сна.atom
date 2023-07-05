@@ -1,0 +1,895 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D1%82%D0%BE%D0%B2%D0%B0%D1%80%D1%8B-%D0%B4%D0%BB%D1%8F-%D1%81%D0%BD%D0%B0.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-05-06T13:36:09+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6847201378443</id>
+    <published>2022-05-06T13:36:09+08:00</published>
+    <updated>2022-05-06T13:36:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D1%81%D0%BE%D1%81-cz-168d-%D1%81-%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9"/>
+    <title>Насос CZ 168D С аккумулятор электрический</title>
+    <s:type>Насос</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220506103304.jpg?v=1651815465"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Насос<br>
+        <strong>Price: </strong>
+            800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6847201378443</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">800.00</s:price>
+      <s:sku>CZ 168D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6847190565003</id>
+    <published>2022-05-06T13:22:26+08:00</published>
+    <updated>2022-05-06T13:22:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D1%81%D0%BE%D1%81-%D0%BD%D0%BE%D0%B6%D0%BD%D0%BE%D0%B9-bestway-62005-bw"/>
+    <title>Насос ножной Bestway 62005 BW</title>
+    <s:type>Насос</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220506102125.png?v=1651814556"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Насос<br>
+        <strong>Price: </strong>
+            430.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-apiary-widget-name="@MarketNode/ProductShortDescription" data-apiary-widget-id="/content/reactProductSummary/productShortDescription" data-mce-fragment="1">
+<h2 class="_307uP" data-mce-fragment="1">Описание</h2>
+<div class="_1uLae" data-mce-fragment="1">С помощью данного ножного насоса типа «Лягушка» можно легко накачать небольшие и среднего размера надувные изделия, такие как игрушки, мячи, кровати, матрасы, лодки, бассейны с надувным верхом и т. п. В комплекте с насосом идёт гибкий шланг и три насадки, которые подходят практически для любого клапана. Насос легко переключается с надувания на сдувание, подходит ко всем надувным изделиям Bestway.</div>
+<div class="_2ZGXi" data-tid="63dd6387" data-mce-fragment="1">
+<h3 class="_2B8iS" data-mce-fragment="1"><br></h3>
+</div>
+</div>
+<div class="_3jdLA" data-mce-fragment="1">
+<div data-apiary-widget-name="@MarketNode/QuestionsLink" data-apiary-widget-id="/content/reactProductSummary/questionsLink" data-mce-fragment="1"></div>
+</div>
+<div class="cia-vs" data-zone-name="AllVendorProductsLink" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6847190565003</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">430.00</s:price>
+      <s:sku>62005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6847184863371</id>
+    <published>2022-05-06T13:20:00+08:00</published>
+    <updated>2022-05-06T13:20:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D1%81%D0%BE%D1%81-%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B9-bestway-62030"/>
+    <title>Насос ручной Bestway 62030</title>
+    <s:type>Насос</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220506101900.png?v=1651814383"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Насос<br>
+        <strong>Price: </strong>
+            470.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-apiary-widget-name="@MarketNode/ProductShortDescription" data-apiary-widget-id="/content/reactProductSummary/productShortDescription" data-mce-fragment="1">
+<div class="_2ZGXi" data-tid="63dd6387" data-mce-fragment="1">
+<h3 class="_2B8iS" data-mce-fragment="1">Описание</h3>
+<div class="cia-cs" data-zone-name="product-short-description" data-mce-fragment="1">
+<div role="button" class="_2et7a _1zPey" data-tid="fc4a90da bf529aa8 37336c23" data-tid-prop="fc4a90da bf529aa8 37336c23" tabindex="0" data-mce-fragment="1" data-mce-tabindex="0">48см насос ручной (в коробке). Предназначен для накачивания надувных изделий (кроватей, матрасов и т.д.)</div>
+</div>
+</div>
+</div>
+<div data-apiary-widget-name="@MarketNode/ProductSpecsMinimal" data-apiary-widget-id="/content/reactProductSummary/productSpecsMinimal" data-mce-fragment="1">
+<div class="cia-vs" data-zone-name="ProductSpecs" data-mce-fragment="1">
+<div data-tid="5c7765a6" data-mce-fragment="1">
+<h3 class="_1-5P0" data-tid="64d5dcb3" data-mce-fragment="1">Коротко о товаре</h3>
+<table class="Ksay3" data-tid="64d5dcb3" data-mce-fragment="1">
+<tbody data-tid="670b4514" data-mce-fragment="1">
+<tr class="_2oLGf" data-tid="c1143ec7" data-mce-fragment="1">
+<td class="_2trXG" data-mce-fragment="1">
+<div class="_3Tn0k" data-mce-fragment="1"><span data-mce-fragment="1">Принцип работы</span></div>
+</td>
+<td class="_3M0mF" data-mce-fragment="1">ручной</td>
+</tr>
+<tr class="_2oLGf" data-tid="c1143ec7" data-mce-fragment="1">
+<td class="_2trXG" data-mce-fragment="1">
+<div class="_3Tn0k _2Y9os" data-mce-fragment="1"><span data-mce-fragment="1">Количество насадок в комплекте</span></div>
+</td>
+<td class="_3M0mF" data-mce-fragment="1">3 шт</td>
+</tr>
+<tr class="_2oLGf" data-tid="c1143ec7" data-mce-fragment="1">
+<td class="_2trXG" data-mce-fragment="1">
+<div class="_3Tn0k" data-mce-fragment="1"><span data-mce-fragment="1">Материал</span></div>
+</td>
+<td class="_3M0mF" data-mce-fragment="1">пластик</td>
+</tr>
+<tr class="_2oLGf" data-tid="c1143ec7" data-mce-fragment="1">
+<td class="_2trXG" data-mce-fragment="1">
+<div class="_3Tn0k" data-mce-fragment="1"><span data-mce-fragment="1">Вес</span></div>
+</td>
+<td class="_3M0mF" data-mce-fragment="1">1,3kg</td>
+</tr>
+<tr class="_2oLGf" data-tid="c1143ec7" data-mce-fragment="1">
+<td class="_2trXG _3wLjT" data-mce-fragment="1">
+<div class="_3Tn0k" data-mce-fragment="1"><span data-mce-fragment="1">Функция сдувания</span></div>
+</td>
+<td class="_3M0mF" data-mce-fragment="1"></td>
+</tr>
+</tbody>
+</table>
+<br>
+</div>
+</div>
+</div>
+<div class="_3jdLA" data-mce-fragment="1">
+<div data-apiary-widget-name="@MarketNode/QuestionsLink" data-apiary-widget-id="/content/reactProductSummary/questionsLink" data-mce-fragment="1"><a href="https://market.yandex.ru/product--nasos-ruchnoi-bestway-62030/651522692/questions?track=productpage&amp;sku=651522692&amp;cpc=SNQyUv0VLj5fGsI3EsK5CWPpNv8-8pxrsxbOBNz6rlP4Rbg22qif7rIvW5XiXvmf7xqzAwW89BuUO4jAd4ZwQBW22ixxu37Yt_klZlp_h8DkKus_mDSIZaacr3YZjryeWMN-v8CetDEGB6rYsFOaZbeig5lOnoT5UkSbxEQv1DvDQ2nBVsEorXFcHRntMMto" class="_2qvOO _19m_j" data-tid="2e49f200" data-tid-prop="2e49f200" data-mce-fragment="1" data-mce-href="https://market.yandex.ru/product--nasos-ruchnoi-bestway-62030/651522692/questions?track=productpage&amp;sku=651522692&amp;cpc=SNQyUv0VLj5fGsI3EsK5CWPpNv8-8pxrsxbOBNz6rlP4Rbg22qif7rIvW5XiXvmf7xqzAwW89BuUO4jAd4ZwQBW22ixxu37Yt_klZlp_h8DkKus_mDSIZaacr3YZjryeWMN-v8CetDEGB6rYsFOaZbeig5lOnoT5UkSbxEQv1DvDQ2nBVsEorXFcHRntMMto"></a></div>
+</div>
+<div class="cia-vs" data-zone-name="AllVendorProductsLink" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6847184863371</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">470.00</s:price>
+      <s:sku>62030</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6847182110859</id>
+    <published>2022-05-06T13:14:06+08:00</published>
+    <updated>2022-05-06T13:14:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D1%81%D0%BE%D1%81-%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B9-bestway-62086"/>
+    <title>Насос ручной Bestway 62003</title>
+    <s:type>Насос</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220506101158.png?v=1651814012"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Насос<br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-apiary-widget-name="@MarketNode/ProductShortDescription" data-apiary-widget-id="/content/reactProductSummary/productShortDescription" data-mce-fragment="1">
+<div class="_2ZGXi" data-tid="63dd6387" data-mce-fragment="1">
+<h3 class="_2B8iS" data-mce-fragment="1"><br></h3>
+</div>
+</div>
+<div class="_3jdLA" data-mce-fragment="1">
+<div data-apiary-widget-name="@MarketNode/QuestionsLink" data-apiary-widget-id="/content/reactProductSummary/questionsLink" data-mce-fragment="1"></div>
+</div>
+<div class="cia-vs" data-zone-name="AllVendorProductsLink" data-mce-fragment="1"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6847182110859</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">260.00</s:price>
+      <s:sku>62086</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6847175196811</id>
+    <published>2022-05-06T13:05:57+08:00</published>
+    <updated>2022-05-06T13:05:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D1%81%D0%BE%D1%81-%D1%80%D1%83%D1%87%D0%BD%D0%BE%D0%B9-bestway-62002"/>
+    <title>Насос ручной Bestway 62002</title>
+    <s:type>Насос</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220506100309.png?v=1651813578"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Насос<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" data-apiary-widget-id="/content/reactProductSummary/productShortDescription" data-apiary-widget-name="@MarketNode/ProductShortDescription">
+<div data-mce-fragment="1" data-tid="63dd6387" class="_2ZGXi">
+<h3 data-mce-fragment="1" class="_2B8iS">Описание</h3>
+<div data-mce-fragment="1" data-zone-name="product-short-description" class="cia-cs">
+<div data-mce-fragment="1" tabindex="0" data-tid-prop="fc4a90da bf529aa8 37336c23" data-tid="fc4a90da bf529aa8 37336c23" class="_2et7a _1zPey" role="button" data-mce-tabindex="0">Ручной насос Bestway для накачивания надувных изделий. Обладает системой двойного действия: накачивает надувные изделия как при прямом, так и обратном ходе поршня.<br data-mce-fragment="1">В комплекте с насосом идет гибкий шланг и 3 насадки для практически всех видов надувных изделий. Насос имеет удобный упор для ног.<br data-mce-fragment="1">Подходит ко всем надувным изделиям Bestway и Intex.</div>
+</div>
+</div>
+</div>
+<div data-mce-fragment="1" class="_3jdLA">
+<div data-mce-fragment="1" data-apiary-widget-id="/content/reactProductSummary/questionsLink" data-apiary-widget-name="@MarketNode/QuestionsLink">
+<a data-mce-fragment="1" data-tid-prop="2e49f200" data-tid="2e49f200" class="_2qvOO _19m_j" href="https://market.yandex.ru/product--nasos-ruchnoi-bestway-62002/651523742/questions?track=productpage&amp;sku=651523742" data-mce-href="https://market.yandex.ru/product--nasos-ruchnoi-bestway-62002/651523742/questions?track=productpage&amp;sku=651523742"></a><a data-mce-fragment="1" class="_2qvOO _19m_j" href="https://market.yandex.ru/brands--bestway/6390844" data-mce-href="https://market.yandex.ru/brands--bestway/6390844"><span data-mce-fragment="1" class="_3MLiq"></span></a>
+<div data-mce-fragment="1" class="_1QUpw"><a data-mce-fragment="1" class="_2qvOO _19m_j" href="https://market.yandex.ru/brands--bestway/6390844" data-mce-href="https://market.yandex.ru/brands--bestway/6390844"><img data-mce-fragment="1" alt="Bestway" src="https://avatars.mds.yandex.net/get-mpic/372220/img_id512303894568627728.png/orig" class="_3wcfy" data-mce-src="https://avatars.mds.yandex.net/get-mpic/372220/img_id512303894568627728.png/orig"></a></div>
+</div>
+</div>
+<div data-mce-fragment="1" data-zone-name="AllVendorProductsLink" class="cia-vs"></div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6847175196811</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">170.00</s:price>
+      <s:sku>62002</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574300364939</id>
+    <published>2022-05-05T19:37:41+08:00</published>
+    <updated>2022-05-05T19:37:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/bestway-%D0%BA%D0%BB%D0%B0%D0%BF%D0%B0%D0%BD"/>
+    <title>Bestway клапан</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/3.png?v=1621590123"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            93.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574300364939</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">93.00</s:price>
+      <s:sku>FM-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573378437259</id>
+    <published>2022-05-05T19:36:53+08:00</published>
+    <updated>2022-05-05T19:36:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81-bestway-203%D1%85183%D1%8522-%D1%81%D0%BC"/>
+    <title>Матрас Bestway 203х183х22 см</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/5045466011_d2e4d3c2-74d8-4dac-b484-e4a091e72fa2.jpg?v=1621421806"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            1313.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573378437259</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1313.00</s:price>
+      <s:sku>183</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573378470027</id>
+    <published>2022-05-05T19:36:31+08:00</published>
+    <updated>2022-05-05T19:36:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81-bestway-203%D1%85152%D1%8522-%D1%81%D0%BC-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BD%D0%B0%D1%81%D0%BE%D1%81-2-%D0%BF%D0%BE%D0%B4%D1%83%D1%88%D0%BA%D0%B8"/>
+    <title>Матрас Bestway 203х152х22 см + набор насос, 2 подушки</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/31487_big_20e5ac9d-00fc-4fc1-81d7-60e7c5cdd530.jpg?v=1621421689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            1377.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573378470027</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1377.00</s:price>
+      <s:sku>152+</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573379977355</id>
+    <published>2022-04-10T13:42:06+08:00</published>
+    <updated>2022-04-10T13:42:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B6%D0%B8%D0%BB%D0%B5%D1%82-1-%D1%81%D0%BB%D0%BE%D0%B9-%D0%BA%D0%B0%D0%BC%D1%83%D1%84%D0%BB%D1%8F%D0%B6"/>
+    <title>Спасательный жилет, 2слой, Детская</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_190122.jpg?v=1621673276"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            384.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573379977355</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">384.00</s:price>
+      <s:sku>QC-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574301347979</id>
+    <published>2022-04-08T11:47:47+08:00</published>
+    <updated>2022-04-08T11:47:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D1%81%D0%BE%D1%81-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-cz-208"/>
+    <title>Насос электрический CZ 208</title>
+    <s:type>Насос</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/6b88893e4ae98eebcdb2e8a01d0c.jpg?v=1623672116"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Насос<br>
+        <strong>Price: </strong>
+            440.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574301347979</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">440.00</s:price>
+      <s:sku>CZ-208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574301282443</id>
+    <published>2022-04-08T11:47:23+08:00</published>
+    <updated>2022-04-08T11:47:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D1%81%D0%BE%D1%81-%D1%8D%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-cz-198"/>
+    <title>Насос электрический CZ 198</title>
+    <s:type>Насос</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_194304.jpg?v=1621675158"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Насос<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574301282443</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">280.00</s:price>
+      <s:sku>CZ-198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573379747979</id>
+    <published>2022-03-03T12:45:36+08:00</published>
+    <updated>2022-03-03T12:45:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%BF%D0%B0%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B6%D0%B8%D0%BB%D0%B5%D1%82-2-%D1%81%D0%BB%D0%BE%D1%8F-%D0%BA%D0%B0%D0%BC%D1%83%D1%84%D0%BB%D1%8F%D0%B6"/>
+    <title>Спасательный жилет, 2 слоя, камуфляж</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/mu0acbnx4askk0ww8804kkw0gwgoso.jpg?v=1621420955"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573379747979</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">400.00</s:price>
+      <s:sku>QC-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573379551371</id>
+    <published>2022-03-03T12:44:29+08:00</published>
+    <updated>2022-03-03T12:44:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B8%D0%B4%D1%83%D1%88%D0%BA%D0%B0"/>
+    <title>Сидушка</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/a6c8740730895cac0c53f87537db20b4.jpg?v=1621420982"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573379551371</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">80.00</s:price>
+      <s:sku>QC-20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601631727755</id>
+    <published>2021-07-17T19:48:23+08:00</published>
+    <updated>2021-07-17T19:48:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%88%D0%BE%D0%BA-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5-200-80"/>
+    <title>Спальный мешок большие  200*80</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/T2wCSHXh4cXXXXXXXX__714894189.jpg?v=1626522545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            1456.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601631727755</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1456.00</s:price>
+      <s:sku>большие</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601630482571</id>
+    <published>2021-07-17T19:46:49+08:00</published>
+    <updated>2021-07-17T19:46:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%88%D0%BE%D0%BA-200-70-%D0%BA%D0%B0%D0%BC%D1%83%D1%84%D0%BB%D1%8F%D0%B6"/>
+    <title>Спальный мешок  200*70 камуфляж</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/4286814.jpg?v=1626522457"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            784.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601630482571</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">784.00</s:price>
+      <s:sku>камуфляж</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573379059851</id>
+    <published>2021-06-14T17:53:43+08:00</published>
+    <updated>2021-06-14T17:53:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%BF%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%BA-%D0%BC%D0%B0%D0%BB%D1%8B%D0%B9"/>
+    <title>Спальный мешок 200*70</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/9f8ec20d-c197-4f11-9524-a1caaa0b7732.jpg?v=1623664421"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            572.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573379059851</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">572.00</s:price>
+      <s:sku>Спальник 200*70</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574299709579</id>
+    <published>2021-05-21T17:36:59+08:00</published>
+    <updated>2021-05-21T17:36:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/bestway-%D0%BD%D0%B0%D0%B4%D1%83%D0%B2%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BE%D0%B4%D1%83%D1%88%D0%BA%D0%B0"/>
+    <title>Bestway Надувная подушка</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/700-nw_1.jpg?v=1621589951"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            93.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574299709579</id>
+      <title>Белый</title>
+      <s:price currency="RUB">93.00</s:price>
+      <s:sku>Белый</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574299709579</id>
+      <title>Синий</title>
+      <s:price currency="RUB">93.00</s:price>
+      <s:sku>Синий</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573378306187</id>
+    <published>2021-05-21T17:23:20+08:00</published>
+    <updated>2021-05-21T17:23:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81-bestway-203%D1%85152%D1%8522-%D1%81%D0%BC"/>
+    <title>Матрас Bestway 203х152х22 см</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/111.jpg?v=1621421739"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            1140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573378306187</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1140.00</s:price>
+      <s:sku>152</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573378240651</id>
+    <published>2021-05-21T17:22:18+08:00</published>
+    <updated>2021-05-21T17:22:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81-bestway-191%D1%85137%D1%8522-%D1%81%D0%BC"/>
+    <title>Матрас Bestway 191Х137Х22 см</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/31ebc4370166f179d3bfdc3e4fceb5b0.jpg?v=1621421612"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            1001.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573378240651</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1001.00</s:price>
+      <s:sku>191Х137Х22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573378076811</id>
+    <published>2021-05-21T17:21:41+08:00</published>
+    <updated>2021-05-21T17:21:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81-bestway-188%D1%8599%D1%8522-%D1%81%D0%BC"/>
+    <title>Матрас Bestway 188х99х22 см</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/59ecf5437059f8465d000ca83a94a4a5.jpg?v=1621421510"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            745.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573378076811</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">745.00</s:price>
+      <s:sku>188х99х22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573377912971</id>
+    <published>2021-05-21T17:21:04+08:00</published>
+    <updated>2021-05-21T17:21:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%B0%D1%82%D1%80%D0%B0%D1%81-bestway-185%D1%8576%D1%8522-%D1%81%D0%BC"/>
+    <title>Матрас Bestway 185Х76Х22 см</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/db90601c0935a24df6b1d76d2be8f579.jpg?v=1621421306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            602.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573377912971</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">602.00</s:price>
+      <s:sku>185Х76Х22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574281326731</id>
+    <published>2021-05-21T16:49:10+08:00</published>
+    <updated>2021-05-21T16:49:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%B5%D0%BD%D0%BA%D0%B0-%D1%82%D1%83%D1%80%D0%B8%D1%81%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-180-60%D1%81%D0%BC-2"/>
+    <title>Пенка туристическая 180*60см-2</title>
+    <s:type>Матрасы</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/13945626-1.jpg?v=1621586942"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Матрасы<br>
+        <strong>Price: </strong>
+            310.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574281326731</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">310.00</s:price>
+      <s:sku>180*60см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

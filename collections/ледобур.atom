@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-11-02T12:08:59+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6626703442059</id>
+    <published>2021-11-02T12:08:59+08:00</published>
+    <updated>2021-11-02T12:08:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B0%D1%82%D0%BE%D1%87%D0%BA%D0%B8-%D0%BD%D0%BE%D0%B6%D0%B5%D0%B9-%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80%D0%B0"/>
+    <title>УСТРОЙСТВО ДЛЯ ЗАТОЧКИ НОЖЕЙ ЛЕДОБУРА</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0283.jpg?v=1632578416"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            90.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626703442059</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">90.00</s:price>
+      <s:sku>ЗАТОЧКИ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632257192075</id>
+    <published>2021-10-08T14:33:09+08:00</published>
+    <updated>2021-10-08T14:33:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%B8-%D0%BA-%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80%D1%83-%D0%BB%D1%80-180-%D0%B2-%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80%D0%B5-%D1%82%D0%BE%D0%BD%D0%B0%D1%80"/>
+    <title>Ножи к ледобуру ЛР-180 (в футляре) Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20211008112805.png?v=1633674780"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            290.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ножи</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632257192075</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">290.00</s:price>
+      <s:sku>ЛР-180(L)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6632245133451</id>
+    <published>2021-10-08T14:19:15+08:00</published>
+    <updated>2021-10-08T14:19:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80-%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE-%D0%BC2-%D0%BC%D0%B8%D0%BD%D0%B8-130-%D0%BC%D0%BC-%D0%B1%D0%B5%D0%B7-%D1%87%D0%B5%D1%85%D0%BB%D0%B0-%D0%BB%D0%B5%D0%B2%D0%BE%D0%B5-%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BF%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-61-%D1%81%D0%BC-%D0%B3%D0%BB%D1%83%D0%B1%D0%B8%D0%BD%D0%B0-%D0%B1%D1%83%D1%80%D0%B5%D0%BD%D0%B8%D1%8F-%D1%82%D0%BE%D0%BD%D0%B0%D1%80"/>
+    <title>Ледобур ТОРНАДО-М2 МИНИ 130 мм, без чехла, левое вращение, транспортировочная 61 см, глубина бурения Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20211008111539.png?v=1633673940"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            2500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Технические характеристики:</b><br><br><b>- ЛЕВОЕ ВРАЩЕНИЕ!</b><br><span>- Диаметр бурения, мм: 130</span><br><span>- Глубина бурения, мм: 980</span><br><span>- Длина в рабочем положении, мм: 1082-1482</span><br><span>- Длина в сложенном положении, мм: 613</span><br><span>- Вес ледобура, кг: 2,6 (±0,2)</span><br><span>- Цвет: черный.</span><br><span>- Транспортировочный чехол в комплект не входит.</span><br><br><b>Комплект поставки:</b><br><br><span>- Ледобур в сборе - 1 шт.</span><br><span>- Ножи - 2 шт.</span><br><span>- Винт М6х12 ГОСТ 17475-80 - 4 шт.</span><br><span>- Футляр защитный - 1 шт.</span><br><span>- Паспорт - 1 шт.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ледобур</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6632245133451</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">2500.00</s:price>
+      <s:sku>М2-130</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6626690924683</id>
+    <published>2021-09-25T20:47:49+08:00</published>
+    <updated>2021-09-25T20:47:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80-%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D0%B9-%D0%B4%D0%BB%D1%8F-%D0%BD%D0%BE%D0%B6%D0%B5%D0%B9-%D0%BB%D1%80-150r-%D1%82%D0%BE%D0%BD%D0%B0%D1%80"/>
+    <title>Футляр защитный для ножей Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210925174725.png?v=1632574063"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3></h3>
+<div class="adaptive-cont">
+<div class="text"></div>
+</div>
+<div class="adaptive-cont" data-mce-fragment="1">
+<div class="text" data-mce-fragment="1"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ледобур</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626690924683</id>
+      <title>ЛР-100</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>ЛР-100</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626690924683</id>
+      <title>ЛР-130</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>ЛР-130</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626690924683</id>
+      <title>ЛР-150</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>ЛР-150</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6626690662539</id>
+    <published>2021-09-25T20:44:41+08:00</published>
+    <updated>2021-09-25T20:44:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%B5%D0%BC%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82-%D0%B4%D0%BB%D1%8F-%D1%80%D1%83%D1%87%D0%B5%D0%BA-%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80%D0%BE%D0%B2-%D1%82%D0%BE%D0%BD%D0%B0%D1%80"/>
+    <title>Ремкомплект для ручек ледобуров Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210925174327.png?v=1632573872"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>ОПИСАНИЕ ТОВАРА</h3>
+<div class="adaptive-cont">
+<div class="text">
+<p>Ремкомплект предназначен для ледобуров ЛР-100, ЛР-130, ЛР-150, ЛР-180 всех модификаций.<br><br>В ремкомплект для ручек ледобуров, выпущенных до 2012 г., входят верхняя и нижняя пластиковая ручки ледобура, а также все необходимые для их установки фиксаторы, втулки и колпачки. Прочный каркас из жесткой пластмассы покрыт мягким пластиком, который остается приятным на ощупь даже при сильных морозах.<br><br>Длина ручки 12 см<br>Посадочный диаметр 19 мм</p>
+</div>
+</div>
+<div class="adaptive-cont" data-mce-fragment="1">
+<div class="text" data-mce-fragment="1"></div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ледобур</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626690662539</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">65.00</s:price>
+      <s:sku>ручек</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6626690269323</id>
+    <published>2021-09-25T20:42:13+08:00</published>
+    <updated>2021-09-25T20:42:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%82-%D0%BA%D1%80%D0%B5%D0%BF%D0%B5%D0%B6%D0%B0-%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80%D0%B0-%D1%82%D0%BE%D0%BD%D0%B0%D1%80"/>
+    <title>Комплект крепежа ледобура Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210925174114.png?v=1632573750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3 data-mce-fragment="1">ОПИСАНИЕ ТОВАРА</h3>
+<div class="adaptive-cont" data-mce-fragment="1">
+<div class="text" data-mce-fragment="1">
+<p data-mce-fragment="1">Подходит ко всем моделям ледобуров производства ГК "ТОНАР".<br data-mce-fragment="1"><br data-mce-fragment="1">Комплект для сборки шнека с ручкой-коловоротом:<br data-mce-fragment="1">• болт М6х45 - 1 шт.;<br data-mce-fragment="1">• гайка М6 - 1 шт.;<br data-mce-fragment="1">• шайба - 1 шт.;<br data-mce-fragment="1">• втулка - 1 шт.<br data-mce-fragment="1"><br data-mce-fragment="1">Гайка-барашек для фиксации шнека и ручки-коловорота в рабочем положении.</p>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ледобур</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626690269323</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>крепежа</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6623431688331</id>
+    <published>2021-09-25T14:25:43+08:00</published>
+    <updated>2021-09-25T14:25:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%82%D0%BE%D1%80%D0%BF%D0%B5%D0%B4%D0%B0-%D0%BF%D0%BE%D0%B4%D0%BB%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81-%D0%BB%D0%B8%D1%82%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F-%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D1%8F"/>
+    <title>Торпеда подледная пластиковая с Литиевая батарея</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6849_935d12c8-9df3-4b9c-a237-e0fae84209bd.jpg?v=1632368708"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            2730.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Торпеда</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6623431688331</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">2730.00</s:price>
+      <s:sku>Литиевая батарея</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620914745483</id>
+    <published>2021-09-25T14:25:22+08:00</published>
+    <updated>2021-09-25T14:25:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%82%D0%BE%D1%80%D0%BF%D0%B5%D0%B4%D0%B0-%D0%BF%D0%BE%D0%B4%D0%BB%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81-%D0%B0%D0%BA%D0%BA%D1%83%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80%D0%BE%D0%BC"/>
+    <title>Торпеда подледная пластиковая с аккумулятором</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6850.jpg?v=1632368680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            1900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Торпеда</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620914745483</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1900.00</s:price>
+      <s:sku>с аккумулятором</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620913467531</id>
+    <published>2021-09-25T14:25:11+08:00</published>
+    <updated>2021-09-25T14:25:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%82%D0%BE%D1%80%D0%BF%D0%B5%D0%B4%D0%B0-%D0%BF%D0%BE%D0%B4%D0%BB%D0%B5%D0%B4%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BD%D0%B0-%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D0%B9%D0%BA%D0%B0%D1%85"/>
+    <title>Торпеда подледная пластиковая на батарейках</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6849.jpg?v=1632368643"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            1170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Торпеда</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620913467531</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1170.00</s:price>
+      <s:sku>Торпеда пластик</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620912091275</id>
+    <published>2021-09-25T14:23:37+08:00</published>
+    <updated>2021-09-25T14:23:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%B8-helios-110l-%D0%BF%D0%BE%D0%BB%D1%83%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B5-%D0%BC%D0%BE%D0%BA%D1%80%D1%8B%D0%B9-%D0%BB%D0%B5%D0%B4-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Торпеда подледная металлическая на батарейках</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6848.jpg?v=1632368616"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            1300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Торпеда</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620912091275</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1300.00</s:price>
+      <s:sku>Торпеда метал</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620907929739</id>
+    <published>2021-09-25T14:23:17+08:00</published>
+    <updated>2021-09-25T14:23:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%B8-%D0%BB%D1%80-130l-%D1%81%D0%BA%D0%B0%D1%82"/>
+    <title>Ножи ЛР-150(L) СКАТ</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922173338.png?v=1632368165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Комплект ножей к ледобуру ЛР-150 "СКАТ" c левым вращением. Ножи отлично работают по мокрому льду!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ножи</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620907929739</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>ЛР-150(L) СКАТ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620909961355</id>
+    <published>2021-09-25T14:23:05+08:00</published>
+    <updated>2021-09-25T14:23:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%B8-%D0%BB%D1%80-100l-%D1%81%D0%BA%D0%B0%D1%82"/>
+    <title>Ножи ЛР-130(L) СКАТ</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922173243.png?v=1632368149"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            145.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Комплект ножей к ледобуру ЛР-130 "СКАТ" c левым вращением. Ножи отлично работают по мокрому льду!</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ножи</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620909961355</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">145.00</s:price>
+      <s:sku>ЛР-130(L) СКАТ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620910289035</id>
+    <published>2021-09-25T14:22:53+08:00</published>
+    <updated>2021-09-25T14:22:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%B8-%D0%BB%D1%80-100l-%D1%81%D0%BA%D0%B0%D1%82-1"/>
+    <title>Ножи ЛР-100(L) СКАТ</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922173037.png?v=1632368124"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Комплект ножей к ледобуру ЛР-100 "СКАТ" с левым вращением. Ножи отлично работают по мокрому льду</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ножи</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620910289035</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">140.00</s:price>
+      <s:sku>ЛР-100(L) СКАТ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620906258571</id>
+    <published>2021-09-25T14:21:54+08:00</published>
+    <updated>2021-09-25T14:21:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%B8-%D0%BB%D1%80-150l"/>
+    <title>Ножи к ледобуру ЛР-150 Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922171253.png?v=1632368272"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            235.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>ХАРАКТЕРИСТИКИ</h3>
+<div id="props-cont" class="adaptive-cont">
+<table class="item-params-table">
+<tbody>
+<tr>
+<td>Цвет:</td>
+<td class="js-params-table-TSVET">Стальной</td>
+</tr>
+<tr>
+<td>Материал:</td>
+<td class="js-params-table-MATERIAL">Сталь СТ65Г</td>
+</tr>
+<tr>
+<td>Направление вращения:</td>
+<td class="js-params-table-NAPRAVLENIE_VRASHCHENIYA_LEDOBURA_T">Левое</td>
+</tr>
+<tr>
+<td>Тип комплектующих:</td>
+<td class="js-params-table-TIPKOMPLEKTUYUSHCHIKH">Ножи</td>
+</tr>
+<tr>
+<td>Диаметр:</td>
+<td class="js-params-table-DIAMETR_T">150</td>
+</tr>
+<tr>
+<td>Вид ножей ледобура:</td>
+<td class="js-params-table-VID_NOZHEY_LEDOBURA_T">Зубчатые</td>
+</tr>
+<tr>
+<td>Количество в комплекте:</td>
+<td class="js-params-table-KOLICHESTVO_V_KOMPLEKTE">2</td>
+</tr>
+<tr>
+<td>Вид льда ледобура:</td>
+<td class="js-params-table-VID_LDA_LEDOBURA_T">Сухой</td>
+</tr>
+<tr>
+<td>Посадочный диаметр:</td>
+<td class="js-params-table-POSADOCHNYY_DIAMETR">6</td>
+</tr>
+<tr>
+<td>Паспорт:</td>
+<td class="js-params-table-PASPORT">Нет</td>
+</tr>
+<tr>
+<td>Комплект поставки:</td>
+<td class="js-params-table-KOMPLEKT_POSTAVKI">4 крепёжных винта.</td>
+</tr>
+<tr>
+<td>Твердость:</td>
+<td class="js-params-table-TVERDOST">Высокая твердость 57-62 HRC</td>
+</tr>
+<tr>
+<td>Вид упаковки:</td>
+<td class="js-params-table-VID_UPAKOVKI">Блистер</td>
+</tr>
+<tr>
+<td>Тип:</td>
+<td class="js-params-table-TIP">Комплектующие</td>
+</tr>
+<tr>
+<td>Серия:</td>
+<td class="js-params-table-SERIYA">Тонар</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ножи</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620906258571</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">235.00</s:price>
+      <s:sku>ЛР-150(L)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620905341067</id>
+    <published>2021-09-25T14:21:42+08:00</published>
+    <updated>2021-09-25T14:21:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%B8-%D0%BB%D1%80-130l"/>
+    <title>Ножи к ледобуру ЛР-130 Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922170807.png?v=1632368241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>ХАРАКТЕРИСТИКИ</h3>
+<div id="props-cont" class="adaptive-cont">
+<table class="item-params-table">
+<tbody>
+<tr>
+<td>Цвет:</td>
+<td class="js-params-table-TSVET">Стальной</td>
+</tr>
+<tr>
+<td>Материал:</td>
+<td class="js-params-table-MATERIAL">Сталь СТ65Г</td>
+</tr>
+<tr>
+<td>Направление вращения:</td>
+<td class="js-params-table-NAPRAVLENIE_VRASHCHENIYA_LEDOBURA_T">Левое</td>
+</tr>
+<tr>
+<td>Тип комплектующих:</td>
+<td class="js-params-table-TIPKOMPLEKTUYUSHCHIKH">Ножи</td>
+</tr>
+<tr>
+<td>Диаметр:</td>
+<td class="js-params-table-DIAMETR_T">130</td>
+</tr>
+<tr>
+<td>Вид ножей ледобура:</td>
+<td class="js-params-table-VID_NOZHEY_LEDOBURA_T">Зубчатые</td>
+</tr>
+<tr>
+<td>Количество в комплекте:</td>
+<td class="js-params-table-KOLICHESTVO_V_KOMPLEKTE">2</td>
+</tr>
+<tr>
+<td>Вид льда ледобура:</td>
+<td class="js-params-table-VID_LDA_LEDOBURA_T">Сухой</td>
+</tr>
+<tr>
+<td>Посадочный диаметр:</td>
+<td class="js-params-table-POSADOCHNYY_DIAMETR">6</td>
+</tr>
+<tr>
+<td>Паспорт:</td>
+<td class="js-params-table-PASPORT">Нет</td>
+</tr>
+<tr>
+<td>Комплект поставки:</td>
+<td class="js-params-table-KOMPLEKT_POSTAVKI">4 крепёжных винта.</td>
+</tr>
+<tr>
+<td>Твердость:</td>
+<td class="js-params-table-TVERDOST">Высокая твердость 57-62 HRC</td>
+</tr>
+<tr>
+<td>Вид упаковки:</td>
+<td class="js-params-table-VID_UPAKOVKI">Блистер</td>
+</tr>
+<tr>
+<td>Тип:</td>
+<td class="js-params-table-TIP">Комплектующие</td>
+</tr>
+<tr>
+<td>Серия:</td>
+<td class="js-params-table-SERIYA">Тонар</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ножи</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620905341067</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">210.00</s:price>
+      <s:sku>ЛР-130(L)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620904587403</id>
+    <published>2021-09-25T14:21:26+08:00</published>
+    <updated>2021-09-25T14:21:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%B8-%D0%BB%D1%80-100l"/>
+    <title>Ножи к ледобуру ЛР-100 Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922171119.png?v=1632368224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            186.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>ХАРАКТЕРИСТИКИ</h3>
+<div id="props-cont" class="adaptive-cont">
+<table class="item-params-table">
+<tbody>
+<tr>
+<td>Цвет:</td>
+<td class="js-params-table-TSVET">Стальной</td>
+</tr>
+<tr>
+<td>Материал:</td>
+<td class="js-params-table-MATERIAL">Сталь СТ65Г</td>
+</tr>
+<tr>
+<td>Направление вращения:</td>
+<td class="js-params-table-NAPRAVLENIE_VRASHCHENIYA_LEDOBURA_T">Левое</td>
+</tr>
+<tr>
+<td>Тип комплектующих:</td>
+<td class="js-params-table-TIPKOMPLEKTUYUSHCHIKH">Ножи</td>
+</tr>
+<tr>
+<td>Диаметр:</td>
+<td class="js-params-table-DIAMETR_T">100</td>
+</tr>
+<tr>
+<td>Вид ножей ледобура:</td>
+<td class="js-params-table-VID_NOZHEY_LEDOBURA_T">Прямые</td>
+</tr>
+<tr>
+<td>Количество в комплекте:</td>
+<td class="js-params-table-KOLICHESTVO_V_KOMPLEKTE">2</td>
+</tr>
+<tr>
+<td>Вид льда ледобура:</td>
+<td class="js-params-table-VID_LDA_LEDOBURA_T">Сухой</td>
+</tr>
+<tr>
+<td>Посадочный диаметр:</td>
+<td class="js-params-table-POSADOCHNYY_DIAMETR">6</td>
+</tr>
+<tr>
+<td>Паспорт:</td>
+<td class="js-params-table-PASPORT">Нет</td>
+</tr>
+<tr>
+<td>Комплект поставки:</td>
+<td class="js-params-table-KOMPLEKT_POSTAVKI">4 крепёжных винта.</td>
+</tr>
+<tr>
+<td>Твердость:</td>
+<td class="js-params-table-TVERDOST">Высокая твердость 57-62 HRC</td>
+</tr>
+<tr>
+<td>Вид упаковки:</td>
+<td class="js-params-table-VID_UPAKOVKI">Блистер</td>
+</tr>
+<tr>
+<td>Тип:</td>
+<td class="js-params-table-TIP">Комплектующие</td>
+</tr>
+<tr>
+<td>Серия:</td>
+<td class="js-params-table-SERIYA">Тонар</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ножи</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620904587403</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">186.00</s:price>
+      <s:sku>Ножи ЛР-100(L)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620903669899</id>
+    <published>2021-09-25T14:21:10+08:00</published>
+    <updated>2021-09-25T14:21:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%B8-%D0%BB%D1%80-080l"/>
+    <title>Ножи к ледобуру ЛР-080 Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922171401.png?v=1632368207"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            167.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><h3>ХАРАКТЕРИСТИКИ</h3>
+<div id="props-cont" class="adaptive-cont">
+<table class="item-params-table">
+<tbody>
+<tr>
+<td>Цвет:</td>
+<td class="js-params-table-TSVET">Стальной</td>
+</tr>
+<tr>
+<td>Материал:</td>
+<td class="js-params-table-MATERIAL">Сталь СТ65Г</td>
+</tr>
+<tr>
+<td>Направление вращения:</td>
+<td class="js-params-table-NAPRAVLENIE_VRASHCHENIYA_LEDOBURA_T">Левое</td>
+</tr>
+<tr>
+<td>Тип комплектующих:</td>
+<td class="js-params-table-TIPKOMPLEKTUYUSHCHIKH">Ножи</td>
+</tr>
+<tr>
+<td>Диаметр:</td>
+<td class="js-params-table-DIAMETR_T">80</td>
+</tr>
+<tr>
+<td>Вид ножей ледобура:</td>
+<td class="js-params-table-VID_NOZHEY_LEDOBURA_T">Прямые</td>
+</tr>
+<tr>
+<td>Количество в комплекте:</td>
+<td class="js-params-table-KOLICHESTVO_V_KOMPLEKTE">2</td>
+</tr>
+<tr>
+<td>Вид льда ледобура:</td>
+<td class="js-params-table-VID_LDA_LEDOBURA_T">Сухой</td>
+</tr>
+<tr>
+<td>Посадочный диаметр:</td>
+<td class="js-params-table-POSADOCHNYY_DIAMETR">6</td>
+</tr>
+<tr>
+<td>Паспорт:</td>
+<td class="js-params-table-PASPORT">Нет</td>
+</tr>
+<tr>
+<td>Комплект поставки:</td>
+<td class="js-params-table-KOMPLEKT_POSTAVKI">4 крепёжных винта.</td>
+</tr>
+<tr>
+<td>Твердость:</td>
+<td class="js-params-table-TVERDOST">Высокая твердость 57-62 HRC</td>
+</tr>
+<tr>
+<td>Вид упаковки:</td>
+<td class="js-params-table-VID_UPAKOVKI">Блистер</td>
+</tr>
+<tr>
+<td>Тип:</td>
+<td class="js-params-table-TIP">Комплектующие</td>
+</tr>
+<tr>
+<td>Серия:</td>
+<td class="js-params-table-SERIYA">Тонар</td>
+</tr>
+</tbody>
+</table>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ножи</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620903669899</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">167.00</s:price>
+      <s:sku>ЛР-080(L)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620902817931</id>
+    <published>2021-09-25T14:20:00+08:00</published>
+    <updated>2021-09-25T14:20:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%B8-helios-150l"/>
+    <title>Ножи HELIOS 150(L) (полукруглые)</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922172944.png?v=1632368355"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            235.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Комплект ножей для ледобура диаметром бурения 150 мм. Подходит для всех ледобуров производства "ТОНАР" с диаметром 150 мм и левым вращением.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ножи</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620902817931</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">235.00</s:price>
+      <s:sku>150(L)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620901834891</id>
+    <published>2021-09-25T14:19:44+08:00</published>
+    <updated>2021-09-25T14:19:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%B8-helios-130l-%D0%BF%D0%BE%D0%BB%D1%83%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B5"/>
+    <title>Ножи HELIOS 130(L) (полукруглые)</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922172856.png?v=1632368369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ножи к ледобуру полукруглые диаметром 130 мм Подходят для всех ледобуров производства  "ТОНАР" с диаметром 130 мм с левым вращением.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ножи</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620901834891</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">225.00</s:price>
+      <s:sku>130(L)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620900786315</id>
+    <published>2021-09-25T14:19:29+08:00</published>
+    <updated>2021-09-25T14:19:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80-%D0%BB%D1%80-180%D0%B4-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Ножи HELIOS 110(L) (полукруглые)</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922172803.png?v=1632368327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            205.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Ножи к ледобуру полукруглые диаметром 110 мм Подходят для всех ледобуров производства  "ТОНАР" с диаметром 100 мм с левым вращением.</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ножи</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620900786315</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">205.00</s:price>
+      <s:sku>110(L)</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6625679999115</id>
+    <published>2021-09-25T14:16:07+08:00</published>
+    <updated>2021-09-25T14:16:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80-%D1%82%D0%BE%D0%BD%D0%B0%D1%80-%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE-m2-150r"/>
+    <title>Ледобур Тонар Торнадо- M2 150L</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922170053.png?v=1632367989"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            3200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div data-mce-fragment="1" class="prod-tab-hdr">
+<div class="prod-tab-hdr">
+<h2 class="prod-tab-hdr__text">Характеристики и описание Ледобур Тонар Торнадо- M2 150R</h2>
+</div>
+<div class="prod-descr-props">
+<div class="prod-descr-props-tr">
+<div class="product-props-wrap">
+<div class="product-props">
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Код товара</span>:<span> </span><span class="b-prod-prop__val" itemprop="value">243054</span>
+</div>
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Артикул</span>:<span> </span><span class="b-prod-prop__val" itemprop="value">LT-150L-1</span>
+</div>
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Вес (кг)</span>:<span> </span><span class="b-prod-prop__val" itemprop="value">3,6</span>
+</div>
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Вид ловли</span>:<span> </span><span class="b-prod-prop__val" itemprop="value"><a class="lnk_blue" href="https://spinningline.ru/vid-lovli-zimnyaya-tag-43217_75385.html" title="Все для зимней ловли">зимняя</a></span>
+</div>
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Внутренний диаметр трубы ледобура, мм</span>:<span> </span><span class="b-prod-prop__val" itemprop="value">19</span>
+</div>
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Диаметр(мм)</span>:<span> </span><span class="b-prod-prop__val" itemprop="value">150</span>
+</div>
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Длина шнека (см)</span>:<span> </span><span class="b-prod-prop__val" itemprop="value">70</span>
+</div>
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Длина(см)</span>:<span> </span><span class="b-prod-prop__val" itemprop="value">142-202</span>
+</div>
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Рабочая длина (см)</span>:<span> </span><span class="b-prod-prop__val" itemprop="value">91-150</span>
+</div>
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Страна изготовления</span>:<span> </span><span class="b-prod-prop__val" itemprop="value"><a class="lnk_blue" href="https://spinningline.ru/strana-izgotovleniya-rossiya-tag-43213_687.html" title="Товары для рыбалки – страна производства Россия.">Россия</a></span>
+</div>
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Транспортная длина (см)</span>:<span> </span><span class="b-prod-prop__val" itemprop="value">95</span>
+</div>
+<div class="b-prod-prop" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" itemprop="name">Производитель</span>:<span> </span><span class="b-prod-prop__val" itemprop="value"><a class="lnk_blue" href="https://spinningline.ru/tonar-m-283.html" title="Тонар">Тонар</a></span>
+</div>
+</div>
+</div>
+<div class="product-description">
+<div class="product-description__text" itemprop="description">Описание товара Ледобур Тонар Торнадо- M2 150R отсутствует</div>
+</div>
+</div>
+</div>
+</div>
+<div data-mce-fragment="1" class="prod-descr-props">
+<div data-mce-fragment="1" class="prod-descr-props-tr">
+<div data-mce-fragment="1" class="product-description"></div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ледобур</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6625679999115</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">3200.00</s:price>
+      <s:sku>M2 150L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6625679671435</id>
+    <published>2021-09-25T14:15:58+08:00</published>
+    <updated>2021-09-25T14:15:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80-%D1%82%D0%BE%D0%BD%D0%B0%D1%80-%D1%82%D0%BE%D1%80%D0%BD%D0%B0%D0%B4%D0%BE-m2-100l"/>
+    <title>Ледобур Тонар Торнадо- M2 100L</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922170329.png?v=1632367855"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            2800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><div class="prod-tab-hdr" data-mce-fragment="1">
+<h2 class="prod-tab-hdr__text" data-mce-fragment="1">Характеристики и описание Ледобур Тонар Торнадо- M2 100L</h2>
+</div>
+<div class="prod-descr-props" data-mce-fragment="1">
+<div class="prod-descr-props-tr" data-mce-fragment="1">
+<div class="product-props-wrap" data-mce-fragment="1">
+<div class="product-props" data-mce-fragment="1">
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Код товара</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value">243055</span>
+</div>
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Артикул</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value">LT-100L-1</span>
+</div>
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Вес (кг)</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value">3</span>
+</div>
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Вид ловли</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value"><a class="lnk_blue" href="https://spinningline.ru/vid-lovli-zimnyaya-tag-43217_75385.html" title="Все для зимней ловли" data-mce-fragment="1" data-mce-href="https://spinningline.ru/vid-lovli-zimnyaya-tag-43217_75385.html">зимняя</a></span>
+</div>
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Внутренний диаметр трубы ледобура, мм</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value">19</span>
+</div>
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Диаметр(мм)</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value">100</span>
+</div>
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Длина шнека (см)</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value">78</span>
+</div>
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Длина(см)</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value">142-202</span>
+</div>
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Рабочая длина (см)</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value">91-150</span>
+</div>
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Страна изготовления</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value"><a class="lnk_blue" href="https://spinningline.ru/strana-izgotovleniya-rossiya-tag-43213_687.html" title="Товары для рыбалки – страна производства Россия." data-mce-fragment="1" data-mce-href="https://spinningline.ru/strana-izgotovleniya-rossiya-tag-43213_687.html">Россия</a></span>
+</div>
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Транспортная длина (см)</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value">95</span>
+</div>
+<div class="b-prod-prop" data-mce-fragment="1" itemprop="additionalProperty" itemscope="" itemtype="http://schema.org/PropertyValue">
+<span class="b-prod-prop__name" data-mce-fragment="1" itemprop="name">Производитель</span>:<span data-mce-fragment="1"> </span><span class="b-prod-prop__val" data-mce-fragment="1" itemprop="value"><a class="lnk_blue" href="https://spinningline.ru/tonar-m-283.html" title="Тонар" data-mce-fragment="1" data-mce-href="https://spinningline.ru/tonar-m-283.html">Тонар</a></span>
+</div>
+</div>
+</div>
+<div class="product-description" data-mce-fragment="1">
+<div class="product-description__text" data-mce-fragment="1" itemprop="description">Диаметр под втулку адаптера под шуруповерт 19,3 мм.</div>
+</div>
+</div>
+</div></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ледобур</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6625679671435</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">2800.00</s:price>
+      <s:sku>M2 100L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620899770507</id>
+    <published>2021-09-25T14:15:39+08:00</published>
+    <updated>2021-09-25T14:15:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80-%D0%BB%D1%80-100%D1%81%D0%B4"/>
+    <title>Ледобур ЛР-150Т, одноручный, телескопический, 150 мм Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922173603.png?v=1632367711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            2200.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Технические характеристики:</b><br><br><b>- ЛЕВОЕ ВРАЩЕНИЕ!</b><br><span>- Диаметр бурения, мм: 150.</span><br><span>- Максимальная глубина бурения, мм: 1350.</span><br><span>- Максимальная длина в рабочем положении, мм: 1550-1850.</span><br><span>- Длина в сложенном положении: 805 мм.</span><br><span>- Вес ледобура, кг: 3,2 (±0,2).</span><br><br><b>Комплект поставки:</b><br><br><span>- Ледобур телескопический в сборе - 1 шт.</span><br><span>- Ножи - 2 шт.</span><br><span>- Винт М6х12 ГОСТ 17475-80 - 4 шт.</span><br><span>- Футляр защитный - 1 шт.</span><br><span>- Ключ-отвертка - 1 шт.</span><br><span>- Паспорт - 1 шт.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ледобур</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620899770507</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">2200.00</s:price>
+      <s:sku>ЛР-150Т</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6625688649867</id>
+    <published>2021-09-25T14:15:26+08:00</published>
+    <updated>2021-09-25T14:15:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80-%D0%BB%D1%80-150%D0%B4-150-%D0%BC%D0%BC-%D0%BB%D0%B5%D0%B2%D0%BE%D0%B5-%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B2%D1%83%D1%80%D1%83%D1%87%D0%BD%D1%8B%D0%B9-%D1%82%D0%BE%D0%BD%D0%B0%D1%80"/>
+    <title>Ледобур ЛР-150Д, 150 мм, левое вращение, двуручный Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922163543.png?v=1632367681"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            2280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Технические характеристики:</b><br><br><b>- ЛЕВОЕ ВРАЩЕНИЕ!</b><br><span>- Диаметр бурения, мм.: 150</span><br><span>- Глубина бурения, мм.: 1070.</span><br><span>- Длина в рабочем положении мм.: 1546</span><br><span>- Длина шнека, мм.: 530</span><br><span>- Длина в транспортном положении, мм.: 832</span><br><span>- Вес ледобура: 2,7 кг (+/-0.2).</span><br><br><b>Комплект поставки:</b><br><br><span>- Ледобур в сборе - 1 шт.</span><br><span>- Ножи - 2 шт.</span><br><span>- Винт М6х12 ГОСТ 17475-80 - 4 шт.</span><br><span>- Футляр защитный - 1 шт.</span><br><span>- Паспорт - 1 шт.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ледобур</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6625688649867</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">2280.00</s:price>
+      <s:sku>ЛР-150Д</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6625689043083</id>
+    <published>2021-09-25T14:15:17+08:00</published>
+    <updated>2021-09-25T14:15:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D0%B4%D0%BE%D0%B1%D1%83%D1%80-%D0%BB%D1%80-130%D0%B4-130-%D0%BC%D0%BC-%D0%BB%D0%B5%D0%B2%D0%BE%D0%B5-%D0%B2%D1%80%D0%B0%D1%89%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B4%D0%B2%D1%83%D1%80%D1%83%D1%87%D0%BD%D1%8B%D0%B9-%D1%82%D0%BE%D0%BD%D0%B0%D1%80"/>
+    <title>Ледобур ЛР-130Д, 130 мм, левое вращение, двуручный Тонар</title>
+    <s:type>Ледобур</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210922154605.png?v=1632367635"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Ледобур<br>
+        <strong>Price: </strong>
+            2150.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><b>Технические характеристики:</b><br><br><b>- ЛЕВОЕ ВРАЩЕНИЕ!</b><br><span>- Диаметр бурения, мм.: 130</span><br><span>- Глубина бурения, мм.: до 1062</span><br><span>- Длина в рабочем положении, мм.: 1545</span><br><span>- Длина шнека, мм.: 529</span><br><span>- Длина в транспортном положении, мм.: 831</span><br><span>- Вес ледобура: 2,5 кг (+/-0.2).</span><br><br><b>Комплект поставки:</b><br><br><span>- Ледобур в сборе - 1 шт.</span><br><span>- Ножи - 2 шт.</span><br><span>- Винт М6х12 ГОСТ 17475-80 - 4 шт.</span><br><span>- Футляр защитный - 1 шт.</span><br><span>- Паспорт - 1 шт.</span></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Ледобур</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6625689043083</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">2150.00</s:price>
+      <s:sku>ЛР-130Д</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

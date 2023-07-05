@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80%D1%8B-2.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-11-22T13:02:09+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6672106979467</id>
+    <published>2021-11-22T13:02:09+08:00</published>
+    <updated>2021-11-22T13:02:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-99"/>
+    <title>Мормышка Мустад №99</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0916_a05cf04a-3be7-4c44-b164-4e89aa6ac60d.jpg?v=1637486094"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672106979467</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №99</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672106946699</id>
+    <published>2021-11-22T13:02:09+08:00</published>
+    <updated>2021-11-22T13:02:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-98"/>
+    <title>Мормышка Мустад №98</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0913_1308497e-8faa-4d4c-b7dc-241f4908843f.jpg?v=1637486068"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672106946699</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №98</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672106815627</id>
+    <published>2021-11-22T13:02:08+08:00</published>
+    <updated>2021-11-22T13:02:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-97"/>
+    <title>Мормышка Мустад №97</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0910_af93dc76-46cd-4a0b-bc4d-007b45fa7087.jpg?v=1637486040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672106815627</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №97</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672106782859</id>
+    <published>2021-11-22T13:02:08+08:00</published>
+    <updated>2021-11-22T13:02:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-96"/>
+    <title>Мормышка Мустад №96</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0907_566baf89-6945-44c2-ab2f-96ac4998b8ce.jpg?v=1637486006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672106782859</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №96</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672106619019</id>
+    <published>2021-11-22T13:02:08+08:00</published>
+    <updated>2021-11-22T13:02:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-95"/>
+    <title>Мормышка Мустад №95</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0904_eef943b5-e38c-4956-a853-197fc653c80e.jpg?v=1637485987"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672106619019</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №95</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672106586251</id>
+    <published>2021-11-22T13:02:07+08:00</published>
+    <updated>2021-11-22T13:02:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-94"/>
+    <title>Мормышка Мустад №94</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0901_6639ea5c-7216-4d2b-99cd-5f14dc4ba337.jpg?v=1637485956"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672106586251</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">700.00</s:price>
+      <s:sku>Мустад №94</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672106487947</id>
+    <published>2021-11-22T13:02:07+08:00</published>
+    <updated>2021-11-22T13:02:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-93"/>
+    <title>Мормышка Мустад №93</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0898_dc02e808-62c1-42a1-846f-c98df880907a.jpg?v=1637485922"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672106487947</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №93</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672106193035</id>
+    <published>2021-11-22T13:02:05+08:00</published>
+    <updated>2021-11-22T13:02:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-92"/>
+    <title>Мормышка Мустад №92</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0895_80eb724b-d6ef-4627-b6ba-2e12f281f6da.jpg?v=1637485894"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672106193035</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №92</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672105767051</id>
+    <published>2021-11-22T13:02:04+08:00</published>
+    <updated>2021-11-22T13:02:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-91"/>
+    <title>Мормышка Мустад №91</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0892_7c1ca428-3a4c-4304-bbf6-7d25afda2b41.jpg?v=1637485871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672105767051</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №91</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672105078923</id>
+    <published>2021-11-22T13:02:03+08:00</published>
+    <updated>2021-11-22T13:02:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-90"/>
+    <title>Мормышка Мустад №90</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0889_8738930f-ee15-4382-b693-e1dbbf6a7af9.jpg?v=1637485826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672105078923</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №90</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104980619</id>
+    <published>2021-11-22T13:02:02+08:00</published>
+    <updated>2021-11-22T13:02:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-89"/>
+    <title>Мормышка Мустад №89</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0887_0df8ff35-eeac-47c1-b650-8a6df79a1bc4.jpg?v=1637485802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104980619</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №89</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104947851</id>
+    <published>2021-11-22T13:02:02+08:00</published>
+    <updated>2021-11-22T13:02:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-88"/>
+    <title>Мормышка Мустад №88</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0884_67e2cfa4-1d42-4616-ae9d-6457d19da8f5.jpg?v=1637485773"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104947851</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">500.00</s:price>
+      <s:sku>Мустад №88</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104784011</id>
+    <published>2021-11-22T13:02:01+08:00</published>
+    <updated>2021-11-22T13:02:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-87"/>
+    <title>Мормышка Мустад №87</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0881_9d3f3173-8557-40cd-9264-8e25538b9aaf.jpg?v=1637485745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104784011</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">550.00</s:price>
+      <s:sku>Мустад №87</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104751243</id>
+    <published>2021-11-22T13:02:01+08:00</published>
+    <updated>2021-11-22T13:02:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-86"/>
+    <title>Мормышка Мустад №86</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0878_82f879d8-4816-4998-a8d9-8bdcbe1a1bc9.jpg?v=1637485721"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104751243</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">600.00</s:price>
+      <s:sku>Мустад №86</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104620171</id>
+    <published>2021-11-22T13:02:00+08:00</published>
+    <updated>2021-11-22T13:02:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-85"/>
+    <title>Мормышка Мустад №85</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0875_7eadda48-1f12-4391-8489-3b633d184b24.jpg?v=1637485661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104620171</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">500.00</s:price>
+      <s:sku>Мустад №85</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104554635</id>
+    <published>2021-11-22T13:02:00+08:00</published>
+    <updated>2021-11-22T13:02:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-84"/>
+    <title>Мормышка Мустад №84</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0872_94ef6bf2-f5b0-4a64-b511-9130272cd713.jpg?v=1637485626"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            550.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104554635</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">550.00</s:price>
+      <s:sku>Мустад №84</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104456331</id>
+    <published>2021-11-22T13:02:00+08:00</published>
+    <updated>2021-11-22T13:02:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-83"/>
+    <title>Мормышка Мустад №83</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0869_0c006f5e-457a-45f3-8d85-91c0c76c0f9f.jpg?v=1637485599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104456331</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">450.00</s:price>
+      <s:sku>Мустад №83</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104390795</id>
+    <published>2021-11-22T13:01:59+08:00</published>
+    <updated>2021-11-22T13:01:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-82"/>
+    <title>Мормышка Мустад №82</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0866_63b493ed-83ea-40ec-97d6-54d1cd2be448.jpg?v=1637485573"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104390795</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">500.00</s:price>
+      <s:sku>Мустад №82</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104358027</id>
+    <published>2021-11-22T13:01:59+08:00</published>
+    <updated>2021-11-22T13:01:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-81"/>
+    <title>Мормышка Мустад №81</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0863_fbc3aff2-a939-4c2a-90e0-03fe5bac1746.jpg?v=1637485548"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104358027</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">500.00</s:price>
+      <s:sku>Мустад №81</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104194187</id>
+    <published>2021-11-22T13:01:58+08:00</published>
+    <updated>2021-11-22T13:01:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-80"/>
+    <title>Мормышка Мустад №80</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0860_c566eb2e-ac10-4209-878b-1eb57bfdc694.jpg?v=1637485525"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            500.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104194187</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">500.00</s:price>
+      <s:sku>Мустад №80</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104095883</id>
+    <published>2021-11-22T13:01:58+08:00</published>
+    <updated>2021-11-22T13:01:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-79"/>
+    <title>Мормышка Мустад №79</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0857_a004c043-b557-43e6-96f1-9e26e9d78ca5.jpg?v=1637485501"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104095883</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">650.00</s:price>
+      <s:sku>Мустад №79</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672104030347</id>
+    <published>2021-11-22T13:01:58+08:00</published>
+    <updated>2021-11-22T13:01:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-78"/>
+    <title>Мормышка Мустад №78</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0854_7facf99c-ed56-4e34-ae97-9c781c091e7c.jpg?v=1637485478"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            450.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672104030347</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">450.00</s:price>
+      <s:sku>Мустад №78</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672103899275</id>
+    <published>2021-11-22T13:01:57+08:00</published>
+    <updated>2021-11-22T13:01:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-77"/>
+    <title>Мормышка Мустад №77</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0851_d923b29a-a143-4538-8b12-3512fab52412.jpg?v=1637485449"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672103899275</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №77</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672103833739</id>
+    <published>2021-11-22T13:01:57+08:00</published>
+    <updated>2021-11-22T13:01:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-76"/>
+    <title>Мормышка Мустад №76</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0848_a72999f8-87f5-4c5a-a270-e15005ef8c77.jpg?v=1637485424"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672103833739</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">700.00</s:price>
+      <s:sku>Мустад №76</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6672103637131</id>
+    <published>2021-11-22T13:01:56+08:00</published>
+    <updated>2021-11-22T13:01:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BC%D1%83%D1%81%D1%82%D0%B0%D0%B4-75"/>
+    <title>Мормышка Мустад №75</title>
+    <s:type>Мормышка наборы-2</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0845_5b096183-b1f9-446b-9d7f-4eb071cf1193.jpg?v=1637485379"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-2<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6672103637131</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>Мустад №75</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

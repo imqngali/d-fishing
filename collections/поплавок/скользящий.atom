@@ -1,0 +1,1355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-04-06T15:34:26+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6807919362187</id>
+    <published>2022-04-06T15:34:26+08:00</published>
+    <updated>2022-04-06T15:34:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D1%81-%D0%B1%D0%B0%D1%82%D0%B0%D1%80%D0%B5%D0%B9%D0%BA%D0%B0%D0%BC%D0%B8-2-10%D1%88%D1%82-%D1%83%D0%BF-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Поплавок с батарейками/2 50шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220406130400.jpg?v=1657944346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            15.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6807919362187</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">15.60</s:price>
+      <s:sku>P-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803699171467</id>
+    <published>2022-04-03T14:46:43+08:00</published>
+    <updated>2022-04-03T14:46:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD-pa-005-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок Огружен PA-005 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/5_2.jpg?v=1648967442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Огружен</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803699171467</id>
+      <title>5g+2g</title>
+      <s:price currency="RUB">280.00</s:price>
+      <s:sku>PA005-2g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803699171467</id>
+      <title>5g+3g</title>
+      <s:price currency="RUB">280.00</s:price>
+      <s:sku>PA005-3g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803699171467</id>
+      <title>5g+4g</title>
+      <s:price currency="RUB">280.00</s:price>
+      <s:sku>PA005-4g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803699171467</id>
+      <title>5g+5g</title>
+      <s:price currency="RUB">280.00</s:price>
+      <s:sku>PA005-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803698614411</id>
+    <published>2022-04-03T14:46:42+08:00</published>
+    <updated>2022-04-03T14:46:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD-g-2-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок Огружен PA-001 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/3_3_18537575-c59a-482e-8a75-ccc86fbc9453.jpg?v=1648967194"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Огружен</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803698614411</id>
+      <title>3g+3g</title>
+      <s:price currency="RUB">280.00</s:price>
+      <s:sku>PA001-3g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803698614411</id>
+      <title>4g+3g</title>
+      <s:price currency="RUB">280.00</s:price>
+      <s:sku>PA001-4g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803698614411</id>
+      <title>5g+3g</title>
+      <s:price currency="RUB">280.00</s:price>
+      <s:sku>PA001-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803697303691</id>
+    <published>2022-04-03T14:46:42+08:00</published>
+    <updated>2022-04-03T14:46:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B5%D0%BD-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок Огружен G-1 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/3_3.jpg?v=1648966511"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            280.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Огружен</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803697303691</id>
+      <title>3g+3g</title>
+      <s:price currency="RUB">280.00</s:price>
+      <s:sku>P-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803697303691</id>
+      <title>4g+3g</title>
+      <s:price currency="RUB">280.00</s:price>
+      <s:sku>P-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803697303691</id>
+      <title>5g+3g</title>
+      <s:price currency="RUB">280.00</s:price>
+      <s:sku>P-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803689898123</id>
+    <published>2022-04-03T14:46:41+08:00</published>
+    <updated>2022-04-03T14:46:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%BF%D0%B5%D1%80%D0%BE"/>
+    <title>Поплавок перо 100шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20220401_130139.jpg?v=1648963539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            766.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803689898123</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">766.00</s:price>
+      <s:sku>P-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803689341067</id>
+    <published>2022-04-03T14:46:41+08:00</published>
+    <updated>2022-04-03T14:46:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA-18%D1%81%D0%BC"/>
+    <title>Поплавок перо пластик 18см 100шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20220401_125921.jpg?v=1648963201"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            760.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803689341067</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">760.00</s:price>
+      <s:sku>P-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803688620171</id>
+    <published>2022-04-03T14:46:40+08:00</published>
+    <updated>2022-04-03T14:46:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%BF%D0%B5%D1%80%D0%BE-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA-14%D1%81%D0%BC"/>
+    <title>Поплавок перо пластик 14см 100шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20220401_130009.jpg?v=1648963037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            640.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803688620171</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">640.00</s:price>
+      <s:sku>P-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803686326411</id>
+    <published>2022-04-03T14:46:40+08:00</published>
+    <updated>2022-04-03T14:46:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9-t-3-smile-10%D1%88%D1%82-%D1%83%D0%BF-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Поплавок с намотка</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20220401_125604.jpg?v=1648962664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            17.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803686326411</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">17.60</s:price>
+      <s:sku>P-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803685965963</id>
+    <published>2022-04-03T14:46:39+08:00</published>
+    <updated>2022-04-03T14:46:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9-t-3-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок скользящий T-3 Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/9_ff4412a3-8148-4579-9e00-17c116fa4a76.jpg?v=1648962074"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Скользящий</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803685965963</id>
+      <title>9g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-3-9g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803685965963</id>
+      <title>12g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-3-12g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803685965963</id>
+      <title>16g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-3-16g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803685113995</id>
+    <published>2022-04-03T14:46:39+08:00</published>
+    <updated>2022-04-03T14:46:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9-t-2-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок скользящий T-2 Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/3_f4b0576f-50ed-40aa-aaaf-022fbe5c5d0a.jpg?v=1648961684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Скользящий</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803685113995</id>
+      <title>3g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-2-3g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803685113995</id>
+      <title>4g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-2-4g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803685113995</id>
+      <title>5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-2-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803685113995</id>
+      <title>6g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-2-6g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803685113995</id>
+      <title>7g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-2-7g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803685113995</id>
+      <title>8g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-2-8g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803684589707</id>
+    <published>2022-04-03T14:46:38+08:00</published>
+    <updated>2022-04-03T14:46:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9-c-71-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок скользящий C-71 Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/2_09cae42a-864c-49d4-b437-9b3103568ff6.jpg?v=1648961462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Скользящий</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803684589707</id>
+      <title>2g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-71-2g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803684589707</id>
+      <title>3g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-71-3g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803684589707</id>
+      <title>4g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-71-4g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803684589707</id>
+      <title>5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-71-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803684589707</id>
+      <title>6g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-71-6g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803684589707</id>
+      <title>7g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-71-7g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803682525323</id>
+    <published>2022-04-03T14:46:37+08:00</published>
+    <updated>2022-04-03T14:46:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9-t-1-smile-10%D1%88%D1%82-%D1%83%D0%BF-1"/>
+    <title>Поплавок скользящий C-66 Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/3_2017177f-01c9-40cc-afa5-fca4002bec27.jpg?v=1648960836"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Скользящий</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803682525323</id>
+      <title>3g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-66-3g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803682525323</id>
+      <title>4g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-66-4g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803682525323</id>
+      <title>5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-66-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803682525323</id>
+      <title>6g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-66-6g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803681116299</id>
+    <published>2022-04-03T14:46:37+08:00</published>
+    <updated>2022-04-03T14:46:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D1%81%D0%BA%D0%BE%D0%BB%D1%8C%D0%B7%D1%8F%D1%89%D0%B8%D0%B9-t-1-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок скользящий T-1 Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/7_ac428e34-99a0-4552-8ac1-ba129cd7fcf2.jpg?v=1648960434"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Скользящий</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803681116299</id>
+      <title>3g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-1-3g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803681116299</id>
+      <title>4g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-1-4g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803681116299</id>
+      <title>5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-1-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803681116299</id>
+      <title>6g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-1-6g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803681116299</id>
+      <title>7g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-1-7g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803681116299</id>
+      <title>8g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-1-8g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803681116299</id>
+      <title>9g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-1-9g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803681116299</id>
+      <title>10g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>T-1-10g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803700351115</id>
+    <published>2022-04-03T14:38:48+08:00</published>
+    <updated>2022-04-03T14:38:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%B1%D0%B0%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-c33-3g-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок бальсовый C33-3g Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/C33-3.jpg?v=1648967921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803700351115</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C33-3g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803700252811</id>
+    <published>2022-04-03T14:38:16+08:00</published>
+    <updated>2022-04-03T14:38:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%B1%D0%B0%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-c6-3g-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок бальсовый C6-3g Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/C6-3.jpg?v=1648967883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803700252811</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C6-3g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803700121739</id>
+    <published>2022-04-03T14:37:05+08:00</published>
+    <updated>2022-04-03T14:37:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%B1%D0%B0%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-eva-8g-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок бальсовый EVA-8g Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/8_4fe754d1-4d0a-4ae8-802e-6a1e8c34297a.jpg?v=1648967834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803700121739</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>EVA-8g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6803699695755</id>
+    <published>2022-04-03T14:36:18+08:00</published>
+    <updated>2022-04-03T14:36:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%B1%D0%B0%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-b-08-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок бальсовый B-08-1g Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/1_adc94f6c-4fca-4991-b028-813cce9f3815.jpg?v=1648967671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6803699695755</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>B08-1g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6802457723019</id>
+    <published>2022-04-01T19:37:27+08:00</published>
+    <updated>2022-04-01T19:37:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D1%81-%D0%BB%D0%B0%D0%BC%D0%BF%D0%BE%D1%87%D0%BA%D0%B0"/>
+    <title>Поплавок с лампочка</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/H-10.jpg?v=1648812599"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            16.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802457723019</id>
+      <title>10g</title>
+      <s:price currency="RUB">16.00</s:price>
+      <s:sku>ПЕ-10g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802457723019</id>
+      <title>12g</title>
+      <s:price currency="RUB">16.00</s:price>
+      <s:sku>ПЕ-12g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6802446188683</id>
+    <published>2022-04-01T19:37:26+08:00</published>
+    <updated>2022-04-01T19:37:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%BD%D0%B0-%D1%85%D0%B8%D1%89%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82"/>
+    <title>Поплавок на хищника, пенопласт</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/8_3faa2e43-d50a-46c3-8fce-a24cb0a53672.jpg?v=1648811957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            16.00 - 28.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%BD%D0%B0-%D1%85%D0%B8%D1%89%D0%BD%D0%B8%D0%BA%D0%B0-%D0%BF%D0%B5%D0%BD%D0%BE%D0%BF%D0%BB%D0%B0%D1%81%D1%82">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802446188683</id>
+      <title>8g</title>
+      <s:price currency="RUB">16.00</s:price>
+      <s:sku>ПЕ-8g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802446188683</id>
+      <title>10g</title>
+      <s:price currency="RUB">16.00</s:price>
+      <s:sku>ПЕ-10g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802446188683</id>
+      <title>20g</title>
+      <s:price currency="RUB">16.00</s:price>
+      <s:sku>ПЕ-20g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802446188683</id>
+      <title>25g</title>
+      <s:price currency="RUB">24.00</s:price>
+      <s:sku>ПЕ-25g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802446188683</id>
+      <title>30g</title>
+      <s:price currency="RUB">24.00</s:price>
+      <s:sku>ПЕ-30g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802446188683</id>
+      <title>40g</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>ПЕ-40g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802446188683</id>
+      <title>50g</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>ПЕ-50g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6802438193291</id>
+    <published>2022-04-01T19:37:26+08:00</published>
+    <updated>2022-04-01T19:37:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%BD%D0%B0-%D1%85%D0%B8%D1%89%D0%BD%D0%B8%D0%BA%D0%B0-%D0%B1%D0%BE%D1%87%D0%BE%D0%BD%D0%BE%D0%BA-eva"/>
+    <title>Поплавок на хищника Бочонок EVA</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/8_576f0b82-0d43-4b99-a6d7-55c9d670d07a.jpg?v=1648811753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            16.00 - 32.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%BD%D0%B0-%D1%85%D0%B8%D1%89%D0%BD%D0%B8%D0%BA%D0%B0-%D0%B1%D0%BE%D1%87%D0%BE%D0%BD%D0%BE%D0%BA-eva">(9 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802438193291</id>
+      <title>8g</title>
+      <s:price currency="RUB">16.00</s:price>
+      <s:sku>EVE-8g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802438193291</id>
+      <title>10g</title>
+      <s:price currency="RUB">16.00</s:price>
+      <s:sku>EVE-10g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802438193291</id>
+      <title>15g</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>EVE-15g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802438193291</id>
+      <title>20g</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>EVE-20g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802438193291</id>
+      <title>25g</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>EVE-25g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802438193291</id>
+      <title>30g</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>EVE-30g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802438193291</id>
+      <title>40g</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>EVE-40g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802438193291</id>
+      <title>50g</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>EVE-50g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802438193291</id>
+      <title>60g</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>EVE-60g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6802436227211</id>
+    <published>2022-04-01T19:37:25+08:00</published>
+    <updated>2022-04-01T19:37:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%B1%D0%B0%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-c-70-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок бальсовый C-70 Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/2_84829976-adf3-4a35-93dc-89ec02a7ebc5.jpg?v=1648811327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802436227211</id>
+      <title>2g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-70-2g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802436227211</id>
+      <title>3g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-70-3g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802436227211</id>
+      <title>5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-70-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802436227211</id>
+      <title>6g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-70-6g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802436227211</id>
+      <title>7g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-70-7g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6802435506315</id>
+    <published>2022-04-01T19:37:24+08:00</published>
+    <updated>2022-04-01T19:37:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%B1%D0%B0%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-c-69-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок бальсовый C-69 Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/2_d13836bb-2e8c-4c4a-abc0-8742cf623d22.jpg?v=1648811170"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802435506315</id>
+      <title>2g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-69-2g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802435506315</id>
+      <title>3g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-69-3g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802435506315</id>
+      <title>4g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-69-4g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802435506315</id>
+      <title>5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-69-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802435506315</id>
+      <title>7g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-69-7g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6802434359435</id>
+    <published>2022-04-01T19:37:24+08:00</published>
+    <updated>2022-04-01T19:37:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%B1%D0%B0%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-c-65-smile-10%D1%88%D1%82-%D1%83%D0%BF-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Поплавок бальсовый C-67 Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/3_4b492714-33e3-4e58-a747-7ddfc73e5dc2.jpg?v=1648810996"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802434359435</id>
+      <title>3g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-67-3g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802434359435</id>
+      <title>4g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-67-4g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802434359435</id>
+      <title>5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-67-5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802434359435</id>
+      <title>6g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-67-6g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802434359435</id>
+      <title>7g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-67-7g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6802431606923</id>
+    <published>2022-04-01T19:37:23+08:00</published>
+    <updated>2022-04-01T19:37:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%B1%D0%B0%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-c-65-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок бальсовый C-65 Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/1.5_da74de5e-dd37-4779-984c-303168454a8a.jpg?v=1648810652"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802431606923</id>
+      <title>1.5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-65-1.5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802431606923</id>
+      <title>2.5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-65-2.5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802431606923</id>
+      <title>3.5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-65-3.5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802431606923</id>
+      <title>4.5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-65-4.5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6802430951563</id>
+    <published>2022-04-01T19:37:23+08:00</published>
+    <updated>2022-04-01T19:37:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%BA-%D0%B1%D0%B0%D0%BB%D1%8C%D1%81%D0%BE%D0%B2%D1%8B%D0%B9-c-64-smile-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поплавок бальсовый C-64 Smile 10шт/уп</title>
+    <s:type>Поплавок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/1.5_b0116a8a-5630-4d52-bc09-1db6d275071c.jpg?v=1648810621"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поплавок<br>
+        <strong>Price: </strong>
+            192.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802430951563</id>
+      <title>1.5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-64-1.5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802430951563</id>
+      <title>2.5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-64-2.5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802430951563</id>
+      <title>3.5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-64-3.5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6802430951563</id>
+      <title>4.5g</title>
+      <s:price currency="RUB">192.00</s:price>
+      <s:sku>C-64-4.5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

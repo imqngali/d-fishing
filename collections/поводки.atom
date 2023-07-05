@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B8.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-06-04T12:40:13+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6574727168139</id>
+    <published>2022-06-04T12:40:13+08:00</published>
+    <updated>2022-06-04T12:40:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D0%BE%D0%B2-%D1%86%D0%B2%D0%B5%D1%82%D0%BD%D1%8B%D0%B5-50-%D1%88%D1%82-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80-%D0%BC"/>
+    <title>Набор стопоров цветные 50 шт, размер L</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191017.jpg?v=1621685949"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574727168139</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">170.00</s:price>
+      <s:sku>цветные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574918074507</id>
+    <published>2022-02-26T16:42:55+08:00</published>
+    <updated>2022-02-26T16:42:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D0%BE%D0%B2-%D0%B4%D0%BB%D0%B8%D0%BD%D1%8B%D0%B9-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-50-%D1%88%D1%82-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80-m"/>
+    <title>Набор стопоров длиный Желтый 50 шт, размер M</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210523_124927.jpg?v=1621758834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            144.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>РАСПРОДАЖА</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574918074507</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">144.00</s:price>
+      <s:sku>длиный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574917943435</id>
+    <published>2022-02-26T16:42:13+08:00</published>
+    <updated>2022-02-26T16:42:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D0%BE%D0%B2-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-50-%D1%88%D1%82-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80-l"/>
+    <title>Набор стопоров  Желтый 50 шт, размер L</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210523_124844_7aa34d23-f6bf-4d83-a49f-5f0995b155fc.jpg?v=1621758690"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            144.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574917943435</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">144.00</s:price>
+      <s:sku>Желтый</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574917910667</id>
+    <published>2022-02-26T16:41:43+08:00</published>
+    <updated>2022-02-26T16:41:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D0%BE%D0%B2-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-50-%D1%88%D1%82-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80-m"/>
+    <title>Набор стопоров  Желтый 50 шт, размер M</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210523_124858.jpg?v=1621758659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            144.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574917910667</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">144.00</s:price>
+      <s:sku>Желтый</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574727299211</id>
+    <published>2022-02-07T19:28:42+08:00</published>
+    <updated>2022-02-07T19:28:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D0%BE%D0%B2-vt-%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B5-50-%D1%88%D1%82-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80-s"/>
+    <title>Набор стопоров чёрные 50 шт, размер S</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191103.jpg?v=1621686020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574727299211</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">170.00</s:price>
+      <s:sku>чёрные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574726578315</id>
+    <published>2022-02-05T17:23:11+08:00</published>
+    <updated>2022-02-05T17:23:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%BE%D0%B2-vitfishing-%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B5-60%D1%88%D1%82"/>
+    <title>Набор поводков VITFISHING (чёрные) 60шт</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220420101124.jpg?v=1650431582"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574726578315</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>чёрные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574726414475</id>
+    <published>2022-02-05T17:21:28+08:00</published>
+    <updated>2022-02-05T17:21:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%BE%D0%B2-vitfishing-%D0%B7%D0%B5%D0%BB%D1%91%D0%BD%D1%8B%D0%B5-60%D1%88%D1%82"/>
+    <title>Набор поводков VITFISHING (зелёные) 60шт</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210523_124043.jpg?v=1621756660"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574726414475</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>зелёные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574727626891</id>
+    <published>2022-01-12T13:22:26+08:00</published>
+    <updated>2022-01-12T13:22:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D0%BE%D0%B2-vt-%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B5-50-%D1%88%D1%82-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80-l"/>
+    <title>Набор стопоров чёрные 50 шт, размер L</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191103_b742acc2-c436-4db9-9a4c-54bae804877f.jpg?v=1621758925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574727626891</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">170.00</s:price>
+      <s:sku>чёрные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574917714059</id>
+    <published>2021-10-30T19:12:41+08:00</published>
+    <updated>2021-10-30T19:12:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D0%BE%D0%B2-%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B5-50-%D1%88%D1%82-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80-8"/>
+    <title>Набор стопоров  чёрные 50 шт, размер #8</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191118.jpg?v=1621758467"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574917714059</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">210.00</s:price>
+      <s:sku>чёрные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574918303883</id>
+    <published>2021-05-23T16:41:48+08:00</published>
+    <updated>2021-05-23T16:41:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D0%BE%D0%B2-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D0%B9%D0%BB%D1%8B"/>
+    <title>стопоров для бойлы</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191715.jpg?v=1621759261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            13.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574918303883</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">13.60</s:price>
+      <s:sku>для бойлы</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574918140043</id>
+    <published>2021-05-23T16:40:07+08:00</published>
+    <updated>2021-05-23T16:40:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BA%D0%B0%D1%80%D0%B0%D0%B1%D0%B8%D0%BD%D1%8B-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-50-%D1%88%D1%82-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80-m"/>
+    <title>Карабины  Желтый , размер M</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210523_125039.jpg?v=1621759204"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574918140043</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">15.00</s:price>
+      <s:sku>Желтый M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574918271115</id>
+    <published>2021-05-23T16:39:41+08:00</published>
+    <updated>2021-05-23T16:39:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BA%D0%B0%D1%80%D0%B0%D0%B1%D0%B8%D0%BD%D1%8B-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-50-%D1%88%D1%82-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80-l"/>
+    <title>Карабины Красный , размер L</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210523_125008.jpg?v=1621759162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            15.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574918271115</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">15.00</s:price>
+      <s:sku>Красный L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574916698251</id>
+    <published>2021-05-23T16:25:02+08:00</published>
+    <updated>2021-05-23T16:25:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B8-%D1%81%D0%B2%D0%B8%D0%BD%D1%86%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D0%B0%D0%BD%D0%B0%D1%82"/>
+    <title>Поводки Свинцовый канат</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210523_124313.jpg?v=1621758238"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            36.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574916698251</id>
+      <title>#1</title>
+      <s:price currency="RUB">36.80</s:price>
+      <s:sku>QS-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574916698251</id>
+      <title>#2</title>
+      <s:price currency="RUB">36.80</s:price>
+      <s:sku>QS-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574916698251</id>
+      <title>#3</title>
+      <s:price currency="RUB">36.80</s:price>
+      <s:sku>QS-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574916698251</id>
+      <title>#4</title>
+      <s:price currency="RUB">36.80</s:price>
+      <s:sku>QS-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574916599947</id>
+    <published>2021-05-23T16:21:15+08:00</published>
+    <updated>2021-05-23T16:21:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B8-%D1%81-%D1%82%D1%80%D0%B0%D0%B2%D0%B0-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D0%B9%D0%BB%D1%8B-1%D1%83%D0%BF-2%D1%88%D1%82"/>
+    <title>Набор Поводки с трава для бойлы 1уп/2шт</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191804.jpg?v=1621758113"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            58.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574916599947</id>
+      <title>#2</title>
+      <s:price currency="RUB">58.40</s:price>
+      <s:sku>#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574916599947</id>
+      <title>#4</title>
+      <s:price currency="RUB">58.40</s:price>
+      <s:sku>#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574916599947</id>
+      <title>#6</title>
+      <s:price currency="RUB">58.40</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574916567179</id>
+    <published>2021-05-23T16:18:49+08:00</published>
+    <updated>2021-05-23T16:18:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D0%B9%D0%BB%D1%8B-1%D1%83%D0%BF-2%D1%88%D1%82"/>
+    <title>Набор Поводки для бойлы 1уп/2шт</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191821.jpg?v=1621757850"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            36.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574916567179</id>
+      <title>#2</title>
+      <s:price currency="RUB">36.40</s:price>
+      <s:sku>#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574916567179</id>
+      <title>#4</title>
+      <s:price currency="RUB">36.40</s:price>
+      <s:sku>#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574916567179</id>
+      <title>#6</title>
+      <s:price currency="RUB">36.40</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574915846283</id>
+    <published>2021-05-23T16:15:49+08:00</published>
+    <updated>2021-05-23T16:15:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BE%D0%B9%D0%BB%D1%8B-1%D1%83%D0%BF-6%D1%88%D1%82"/>
+    <title>Набор Поводки для бойлы 1уп/6шт</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210523_125052.jpg?v=1621757734"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574915846283</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">72.00</s:price>
+      <s:sku>№7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574727430283</id>
+    <published>2021-05-23T13:25:13+08:00</published>
+    <updated>2021-05-23T13:25:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D0%BE%D0%B2-vt-%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B5-50-%D1%88%D1%82-%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80-m"/>
+    <title>Набор стопоров чёрные 50 шт, размер M</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191103_93b6be3c-cec9-40e2-9a79-89ef216fcb44.jpg?v=1621686069"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574727430283</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">170.00</s:price>
+      <s:sku>чёрные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574708916363</id>
+    <published>2021-05-23T12:49:13+08:00</published>
+    <updated>2021-05-23T12:49:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B8-%D0%B0%D0%BD%D1%82%D0%B8-%D0%BD%D0%B0%D0%BC%D0%BE%D1%82%D0%BA%D0%B0-3-%D0%B2%D0%B5%D1%80%D1%82%D0%BB%D1%8E%D0%B3%D0%B0-50%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Поводки с 5 крючоков оснащенные</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_190756.jpg?v=1621680725"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            292.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574708916363</id>
+      <title>№6</title>
+      <s:price currency="RUB">292.00</s:price>
+      <s:sku>№6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574708916363</id>
+      <title>№7</title>
+      <s:price currency="RUB">292.00</s:price>
+      <s:sku>№7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574705475723</id>
+    <published>2021-05-23T12:46:41+08:00</published>
+    <updated>2021-05-23T12:46:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B8-%D0%B0%D0%BD%D1%82%D0%B8-%D0%BD%D0%B0%D0%BC%D0%BE%D1%82%D0%BA%D0%B0-3-%D0%B2%D0%B5%D1%80%D1%82%D0%BB%D1%8E%D0%B3%D0%B0"/>
+    <title>Поводки с 3 вертлюга 50шт/уп анти-намотка</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_190833.jpg?v=1621680689"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            260.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574705475723</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">260.00</s:price>
+      <s:sku>LJQ-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574726611083</id>
+    <published>2021-05-23T12:45:42+08:00</published>
+    <updated>2021-05-23T12:45:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%B8-%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D1%82%D0%B8%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D1%8B%D0%B5-18%D1%81%D0%BC-10%D0%BA%D0%B3"/>
+    <title>Поводки оснащенные титановые</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210523_124025.jpg?v=1621757659"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            42.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574726611083</id>
+      <title>15cm/10kg</title>
+      <s:price currency="RUB">42.40</s:price>
+      <s:sku>15cm/10kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574726611083</id>
+      <title>18cm/10kg</title>
+      <s:price currency="RUB">42.40</s:price>
+      <s:sku>18cm/10kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574726611083</id>
+      <title>22cm/12kg</title>
+      <s:price currency="RUB">42.40</s:price>
+      <s:sku>22cm/12kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574726611083</id>
+      <title>25cm/16kg</title>
+      <s:price currency="RUB">42.40</s:price>
+      <s:sku>25cm/16kg</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574913945739</id>
+    <published>2021-05-23T12:43:09+08:00</published>
+    <updated>2021-05-23T12:43:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%BE%D0%B2-vitfishing-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%8B%D0%B5-30%D1%88%D1%82"/>
+    <title>Набор поводков VITFISHING (коричневые) 30шт</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210523_124122.jpg?v=1621757619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574913945739</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>коричневые</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574726447243</id>
+    <published>2021-05-23T12:42:15+08:00</published>
+    <updated>2021-05-23T12:42:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BF%D0%BE%D0%B2%D0%BE%D0%B4%D0%BA%D0%BE%D0%B2-vitfishing-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%8B%D0%B5-60%D1%88%D1%82"/>
+    <title>Набор поводков VITFISHING (коричневые) 60шт</title>
+    <s:type>Поводки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210523_124059.jpg?v=1621757601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Поводки<br>
+        <strong>Price: </strong>
+            208.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574726447243</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">208.00</s:price>
+      <s:sku>коричневые</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-05-22T19:13:29+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6573085720715</id>
+    <published>2022-05-22T19:13:29+08:00</published>
+    <updated>2022-05-22T19:13:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-cs-370200-qp-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D0%BA%D0%B0%D1%80%D0%BA%D0%B0%D1%81-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-70%D1%81%D0%BC"/>
+    <title>Подсак CS-370210-QP треугольный сетка из нитки</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220522160456.jpg?v=1653217990"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            522.00 - 572.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-cs-370200-qp-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D0%BA%D0%B0%D1%80%D0%BA%D0%B0%D1%81-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-70%D1%81%D0%BC">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>треугольный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573085720715</id>
+      <title>CS-370210 С</title>
+      <s:price currency="RUB">522.00</s:price>
+      <s:sku>CS-70-QP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573085720715</id>
+      <title>CS-380210 Б</title>
+      <s:price currency="RUB">572.00</s:price>
+      <s:sku>CS-80-QP</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573084999819</id>
+    <published>2022-05-22T18:02:52+08:00</published>
+    <updated>2022-05-22T18:02:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-sc-684535-%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B9-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9"/>
+    <title>Подсак SC-684535 круглый Черный</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_190511.jpg?v=1621670210"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            236.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>круглый</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573084999819</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">236.00</s:price>
+      <s:sku>SC-684535</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6730323132555</id>
+    <published>2022-02-09T20:44:05+08:00</published>
+    <updated>2022-02-09T20:44:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-ql-d-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B0"/>
+    <title>Подсак QL-D квадратный, алюм. сетка из леска</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220406151633.jpg?v=1649240318"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            418.00 - 465.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-ql-d-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B0">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>квадратный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6730323132555</id>
+      <title>QL-21504850D</title>
+      <s:price currency="RUB">418.00</s:price>
+      <s:sku>QL-4850Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6730323132555</id>
+      <title>QL-21506065D</title>
+      <s:price currency="RUB">465.00</s:price>
+      <s:sku>QL-4865Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573082574987</id>
+    <published>2022-02-09T20:43:33+08:00</published>
+    <updated>2022-02-09T20:43:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-sg104040-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9"/>
+    <title>Подсак SG104040 треугольный</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0870_f2859d14-57be-4a76-ad42-b14244e6b166.jpg?v=1621359337"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            252.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>треугольный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573082574987</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">252.00</s:price>
+      <s:sku>SG104040</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573080379531</id>
+    <published>2022-02-09T20:39:43+08:00</published>
+    <updated>2022-02-09T20:39:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-cl-21608065q-%D1%81%D0%B8%D0%BD%D0%B8%D0%B9-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8"/>
+    <title>Подсак CL-21608065Q синий квадратный, алюм. сетка из нитки</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210519_190331.jpg?v=1621582229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            670.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>квадратный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573080379531</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">670.00</s:price>
+      <s:sku>CL-65Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573081133195</id>
+    <published>2022-02-09T20:38:26+08:00</published>
+    <updated>2022-02-09T20:38:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-zd-q-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8"/>
+    <title>Подсак ZD-Q квадратный, алюм. сетка из нитки</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210519_185726.jpg?v=1621582426"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            631.00 - 678.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-zd-q-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>квадратный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573081133195</id>
+      <title>ZD-21606050Q</title>
+      <s:price currency="RUB">631.00</s:price>
+      <s:sku>ZD-50Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573081133195</id>
+      <title>ZD-21607060Q</title>
+      <s:price currency="RUB">678.00</s:price>
+      <s:sku>ZD-60Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5023559090315</id>
+    <published>2022-02-09T20:36:38+08:00</published>
+    <updated>2022-02-09T20:36:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D0%BA%D0%B0%D1%80%D0%BA%D0%B0%D1%81-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8"/>
+    <title>Подсак SG-DS треугольный, алюм. Каркас, сетка из лески</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0862_6bbc176f-873a-4b12-8604-45e7380c676f.jpg?v=1621359293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            315.00 - 362.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D0%BA%D0%B0%D1%80%D0%BA%D0%B0%D1%81-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>треугольный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023559090315</id>
+      <title>SG315040DS</title>
+      <s:price currency="RUB">315.00</s:price>
+      <s:sku>SG-40DS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023559090315</id>
+      <title>SG315050DS</title>
+      <s:price currency="RUB">339.00</s:price>
+      <s:sku>SG-50DS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023559090315</id>
+      <title>SG315060DS</title>
+      <s:price currency="RUB">362.00</s:price>
+      <s:sku>SG-60DS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5023560040587</id>
+    <published>2021-11-09T20:42:52+08:00</published>
+    <updated>2021-11-09T20:42:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D0%BA%D0%B0%D1%80%D0%BA%D0%B0%D1%81-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-1"/>
+    <title>Подсак SG треугольный, алюм. Каркас, сетка из нитки</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0700.jpg?v=1621359162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            291.00 - 339.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D0%BA%D0%B0%D1%80%D0%BA%D0%B0%D1%81-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-1">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>треугольный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023560040587</id>
+      <title>SG315040</title>
+      <s:price currency="RUB">291.00</s:price>
+      <s:sku>SG-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023560040587</id>
+      <title>SG315050</title>
+      <s:price currency="RUB">315.00</s:price>
+      <s:sku>SG-50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023560040587</id>
+      <title>SG315060</title>
+      <s:price currency="RUB">339.00</s:price>
+      <s:sku>SG-60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5024724353163</id>
+    <published>2021-11-04T20:13:29+08:00</published>
+    <updated>2021-11-04T20:13:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-y-221055q-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-55%D1%81%D0%BC-%D1%88%D1%82"/>
+    <title>Подсак Y-Q квадратный, металлический, сетка из нитки/лески</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0912_583516e9-a7b6-4437-bec9-e935e8ec07c4.jpg?v=1621359909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            536.00 - 575.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-y-221055q-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-55%D1%81%D0%BC-%D1%88%D1%82">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>квадратный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5024724353163</id>
+      <title>Y-221050Q</title>
+      <s:price currency="RUB">536.00</s:price>
+      <s:sku>Y-55Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5024724353163</id>
+      <title>Y-221060Q</title>
+      <s:price currency="RUB">575.00</s:price>
+      <s:sku>Y-65Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5024724222091</id>
+    <published>2021-11-04T20:12:55+08:00</published>
+    <updated>2021-11-04T20:12:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-y-221055d-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-55%D1%81%D0%BC"/>
+    <title>Подсак Y-D квадратный, металлический, сетка из лески</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0680_8f3673b5-7248-46c0-86ad-3e7be252e816.jpg?v=1621358864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            536.00 - 575.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-y-221055d-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-55%D1%81%D0%BC">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>квадратный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5024724222091</id>
+      <title>Y-221050D</title>
+      <s:price currency="RUB">536.00</s:price>
+      <s:sku>Y-55D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5024724222091</id>
+      <title>Y-221060D</title>
+      <s:price currency="RUB">575.00</s:price>
+      <s:sku>Y-65D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573079527563</id>
+    <published>2021-11-04T20:12:03+08:00</published>
+    <updated>2021-11-04T20:12:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-ql-q-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8"/>
+    <title>Подсак QL-Q квадратный, алюм. сетка из нитка</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_190614.jpg?v=1621670794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            418.00 - 465.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-ql-q-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>квадратный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573079527563</id>
+      <title>QL-21504850Q</title>
+      <s:price currency="RUB">418.00</s:price>
+      <s:sku>QL-4850Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573079527563</id>
+      <title>QL-21506065Q</title>
+      <s:price currency="RUB">465.00</s:price>
+      <s:sku>QL-4865Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5023546835083</id>
+    <published>2021-11-04T20:11:01+08:00</published>
+    <updated>2021-11-04T20:11:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-%D1%80%D1%83%D1%87%D0%BA%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF"/>
+    <title>Подсак BE треугольный, сетка из нитки, ручка телескоп</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0875_c9048235-c478-4307-a056-3f2fd9707794.jpg?v=1621359442"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            228.00 - 276.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-%D1%80%D1%83%D1%87%D0%BA%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>треугольный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023546835083</id>
+      <title>BE-315040</title>
+      <s:price currency="RUB">228.00</s:price>
+      <s:sku>BE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023546835083</id>
+      <title>BE-315050</title>
+      <s:price currency="RUB">252.00</s:price>
+      <s:sku>BE-50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023546835083</id>
+      <title>BE-315060</title>
+      <s:price currency="RUB">276.00</s:price>
+      <s:sku>BE-60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5023558500491</id>
+    <published>2021-11-04T20:10:31+08:00</published>
+    <updated>2021-11-04T20:10:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D0%BA%D0%B0%D1%80%D0%BA%D0%B0%D1%81-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8"/>
+    <title>Подсак CE треугольный, алюм. Каркас, сетка из нитки</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0885.jpg?v=1621359545"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            378.00 - 457.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D1%82%D1%80%D0%B5%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D0%BA%D0%B0%D1%80%D0%BA%D0%B0%D1%81-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>треугольный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023558500491</id>
+      <title>CE-318050</title>
+      <s:price currency="RUB">378.00</s:price>
+      <s:sku>CE-8050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023558500491</id>
+      <title>CE-318060</title>
+      <s:price currency="RUB">418.00</s:price>
+      <s:sku>CE-8060</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023558500491</id>
+      <title>CE-318070</title>
+      <s:price currency="RUB">457.00</s:price>
+      <s:sku>CE-8070</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573076643979</id>
+    <published>2021-11-04T19:55:06+08:00</published>
+    <updated>2021-11-04T19:55:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-a-d-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Подсак A-Q Круглый, металлический, сетка из нитки</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0918_677c174d-eeeb-4df2-993e-9670a26b9fd5.jpg?v=1621360061"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            560.00 - 591.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-a-d-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-%E7%9A%84%E5%89%AF%E6%9C%AC">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>круглый</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573076643979</id>
+      <title>A-221050Q</title>
+      <s:price currency="RUB">560.00</s:price>
+      <s:sku>A-60Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573076643979</id>
+      <title>A-222060Q</title>
+      <s:price currency="RUB">591.00</s:price>
+      <s:sku>A-65Q</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5023539921035</id>
+    <published>2021-11-04T19:54:32+08:00</published>
+    <updated>2021-11-04T19:54:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-a-221060d-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-60%D1%81%D0%BC"/>
+    <title>Подсак A-D Круглый, металлический, сетка из лески</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0922.jpg?v=1621360055"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            560.00 - 591.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-a-221060d-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-60%D1%81%D0%BC">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>круглый</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023539921035</id>
+      <title>A-221050D</title>
+      <s:price currency="RUB">560.00</s:price>
+      <s:sku>A-60D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023539921035</id>
+      <title>A-222060D</title>
+      <s:price currency="RUB">591.00</s:price>
+      <s:sku>A-65D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6575146205323</id>
+    <published>2021-05-24T11:37:38+08:00</published>
+    <updated>2021-05-24T11:37:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-%D0%BD%D0%B8%D1%82%D0%BA%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9"/>
+    <title>Подсак сетка из леска нитка черный</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210524_080527.jpg?v=1621826755"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            79.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>сетка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575146205323</id>
+      <title>из леска</title>
+      <s:price currency="RUB">79.00</s:price>
+      <s:sku>из леска</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575146205323</id>
+      <title>нитка</title>
+      <s:price currency="RUB">79.00</s:price>
+      <s:sku>нитка</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575146205323</id>
+      <title>черный</title>
+      <s:price currency="RUB">79.00</s:price>
+      <s:sku>черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573081723019</id>
+    <published>2021-05-21T15:35:09+08:00</published>
+    <updated>2021-05-21T15:35:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-zd-d-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8"/>
+    <title>Подсак ZD-D квадратный, алюм. сетка из лески</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/1000_3.jpg?v=1621582520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            631.00 - 678.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-zd-d-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BB%D1%8E%D0%BC-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>квадратный</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573081723019</id>
+      <title>ZD-21607050D</title>
+      <s:price currency="RUB">631.00</s:price>
+      <s:sku>ZD-50D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573081723019</id>
+      <title>ZD-21607060D</title>
+      <s:price currency="RUB">678.00</s:price>
+      <s:sku>ZD-60D</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5023546114187</id>
+    <published>2021-05-21T14:41:53+08:00</published>
+    <updated>2021-05-21T14:41:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-%D1%80%D1%83%D1%87%D0%BA%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF"/>
+    <title>Подсак AE круглый, сетка из нитки, ручка телескоп</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0872_8cc6db9b-5da2-45e3-b4b9-e6bc98ab8af7.jpg?v=1621359405"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            185.00 - 244.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-%D1%80%D1%83%D1%87%D0%BA%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Подсак AE круглый, сетка из нитки, ручка телескоп</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>круглый</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023546114187</id>
+      <title>AE-315040</title>
+      <s:price currency="RUB">185.00</s:price>
+      <s:sku>AE-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023546114187</id>
+      <title>AE-315050</title>
+      <s:price currency="RUB">216.00</s:price>
+      <s:sku>AE-50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023546114187</id>
+      <title>AE-315060</title>
+      <s:price currency="RUB">244.00</s:price>
+      <s:sku>AE-60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5023544770699</id>
+    <published>2021-05-21T14:40:21+08:00</published>
+    <updated>2021-05-21T14:40:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-%D1%80%D1%83%D1%87%D0%BA%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF"/>
+    <title>Подсак AE-DS круглый, сетка из лески, ручка телескоп</title>
+    <s:type>Подсак</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0845_4e0e763a-b090-4ad1-a9d4-5a6ace5649e8.jpg?v=1621359239"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подсак<br>
+        <strong>Price: </strong>
+            185.00 - 244.00
+            <a href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4-%D0%BF%D0%BE%D0%B4%D1%81%D0%B0%D0%BA-%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D1%8B%D0%B9-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-%D1%80%D1%83%D1%87%D0%BA%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">Подсак круглый, сетка из лески, ручка телескоп Ф60см, 50cm，40cm</td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>круглый</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023544770699</id>
+      <title>AE-315040DS</title>
+      <s:price currency="RUB">185.00</s:price>
+      <s:sku>AE-40DS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023544770699</id>
+      <title>AE-315050DS</title>
+      <s:price currency="RUB">216.00</s:price>
+      <s:sku>AE-50DS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5023544770699</id>
+      <title>AE-315060DS</title>
+      <s:price currency="RUB">244.00</s:price>
+      <s:sku>AE-60DS</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA%D0%B8-%D0%B8-%D1%87%D0%B5%D1%85%D0%BE%D0%BB.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-03-18T14:02:55+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6573155745931</id>
+    <published>2022-03-18T14:02:55+08:00</published>
+    <updated>2022-03-18T14:02:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D0%BF%D0%BE%D0%BB%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%B8%D0%B9-2-%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B8"/>
+    <title>Чехол vitfishing, полужесткий, 3 секции</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0913.jpg?v=1621357122"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            769.00 - 1025.00
+            <a href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D0%BF%D0%BE%D0%BB%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%B8%D0%B9-2-%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B8">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Чехлы</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573155745931</id>
+      <title>100CM</title>
+      <s:price currency="RUB">769.00</s:price>
+      <s:sku>100CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573155745931</id>
+      <title>135CM</title>
+      <s:price currency="RUB">828.00</s:price>
+      <s:sku>135CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573155745931</id>
+      <title>150CM</title>
+      <s:price currency="RUB">1025.00</s:price>
+      <s:sku>150CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573151158411</id>
+    <published>2022-02-25T17:47:23+08:00</published>
+    <updated>2022-02-25T17:47:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D0%BC%D1%83%D1%84%D0%BB%D1%8F%D0%B6-80l"/>
+    <title>Рюкзак зеленый камуфляж 80L</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_192627.jpg?v=1621672049"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573151158411</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">789.00</s:price>
+      <s:sku>BAO-80L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573150929035</id>
+    <published>2022-02-25T17:45:33+08:00</published>
+    <updated>2022-02-25T17:45:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-%D0%BA%D0%B0%D0%BC%D1%83%D1%84%D0%BB%D1%8F%D0%B6-80l"/>
+    <title>Рюкзак синий камуфляж 80L</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_192452.jpg?v=1621672004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            789.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573150929035</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">789.00</s:price>
+      <s:sku>80L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6594467430539</id>
+    <published>2022-01-05T16:12:17+08:00</published>
+    <updated>2022-01-05T16:12:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-xinxin-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-100cm-3-%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B8-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Чехол XINXIN, зелёный  100cm , 2 секции</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20210702153727.jpg?v=1625222745"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            359.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Чехлы</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6594467430539</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">359.00</s:price>
+      <s:sku>XINXIN 1m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573150339211</id>
+    <published>2021-11-20T20:10:37+08:00</published>
+    <updated>2021-11-20T20:10:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA-sport-%D0%BA%D0%B0%D0%BC%D1%83%D1%84%D0%BB%D1%8F%D0%B6%D0%BD%D1%8B%D0%B9"/>
+    <title>Рюкзак камуфляжный 70L</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0831_0ee44be9-fd59-4e59-ad88-c4a990f0aece.jpg?v=1621358080"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            631.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573150339211</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">631.00</s:price>
+      <s:sku>BAO-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573154566283</id>
+    <published>2021-11-18T12:09:30+08:00</published>
+    <updated>2021-11-18T12:09:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D1%81-%D0%BF%D1%80%D0%BE%D0%BF%D0%B8%D1%82%D0%BA%D0%BE%D0%B9-2-%D0%BE%D1%82%D1%81%D0%B5%D0%BA%D0%B0"/>
+    <title>Чехол CATCHER Цифровой камуфляж, 2 отсека</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20211118090345.jpg?v=1637208505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            287.00 - 394.00
+            <a href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D1%81-%D0%BF%D1%80%D0%BE%D0%BF%D0%B8%D1%82%D0%BA%D0%BE%D0%B9-2-%D0%BE%D1%82%D1%81%D0%B5%D0%BA%D0%B0">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Чехлы</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573154566283</id>
+      <title>100CM</title>
+      <s:price currency="RUB">287.00</s:price>
+      <s:sku>BAO-28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573154566283</id>
+      <title>130CM</title>
+      <s:price currency="RUB">369.00</s:price>
+      <s:sku>BAO-29</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573154566283</id>
+      <title>150CM</title>
+      <s:price currency="RUB">394.00</s:price>
+      <s:sku>BAO-30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574659928203</id>
+    <published>2021-08-27T11:49:08+08:00</published>
+    <updated>2021-08-27T11:49:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5-%D0%BF%D0%BE%D0%BB%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%B8%D0%B9-3-%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B8"/>
+    <title>Чехол vitfishing,черное полужесткий, 3 секции</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_192310.jpg?v=1621671368"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            789.00 - 1089.00
+            <a href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D1%87%D0%B5%D1%80%D0%BD%D0%BE%D0%B5-%D0%BF%D0%BE%D0%BB%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%B8%D0%B9-3-%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B8">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Чехлы</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574659928203</id>
+      <title>100CM</title>
+      <s:price currency="RUB">789.00</s:price>
+      <s:sku>100CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574659928203</id>
+      <title>135CM</title>
+      <s:price currency="RUB">986.00</s:price>
+      <s:sku>135CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574659928203</id>
+      <title>150CM</title>
+      <s:price currency="RUB">1089.00</s:price>
+      <s:sku>150CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6594467856523</id>
+    <published>2021-07-02T18:45:12+08:00</published>
+    <updated>2021-07-02T18:45:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-xinxin-%D0%BF%D0%BE%D0%BB%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%B8%D0%B9100cm-2-%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B8"/>
+    <title>Чехол XINXIN , полужесткий 100cm , 2 секции</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20210702153307.jpg?v=1625222696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            461.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Чехлы</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6594467856523</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">461.00</s:price>
+      <s:sku>полужесткий 100cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6587458355339</id>
+    <published>2021-06-18T12:51:38+08:00</published>
+    <updated>2021-06-18T12:51:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA-sports-%D0%B1%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%8B%D0%B9-50%D0%BB"/>
+    <title>Рюкзак Sports брезент коричневый 50л</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210618_094514.jpg?v=1623991889"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            564.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6587458355339</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">564.00</s:price>
+      <s:sku>50л</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576179347595</id>
+    <published>2021-05-27T14:10:05+08:00</published>
+    <updated>2021-05-27T14:10:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%B8%D0%B9-1-8m-1-%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B8"/>
+    <title>Чехол vitfishing жесткий 1.8M 1 секции</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20210527111916.jpg?v=1622096540"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            947.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Чехлы</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576179347595</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">947.00</s:price>
+      <s:sku>180CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573150142603</id>
+    <published>2021-05-22T16:32:15+08:00</published>
+    <updated>2021-05-22T16:32:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA-%D0%BA%D0%B0%D0%BC%D1%83%D1%84%D0%BB%D1%8F%D0%B6%D0%BD%D1%8B%D0%B9-70l"/>
+    <title>Рюкзак ROS камуфляжный 70L</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_192813.jpg?v=1621672327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            631.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573150142603</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">631.00</s:price>
+      <s:sku>BAO-70L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573156040843</id>
+    <published>2021-05-22T16:21:53+08:00</published>
+    <updated>2021-05-22T16:21:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%B8%D0%B9-2-%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B8"/>
+    <title>Чехол vitfishing жесткий 2 секции</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_192059.jpg?v=1621671706"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            789.00 - 868.00
+            <a href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%B8%D0%B9-2-%D1%81%D0%B5%D0%BA%D1%86%D0%B8%D0%B8">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Чехлы</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573156040843</id>
+      <title>135CM</title>
+      <s:price currency="RUB">789.00</s:price>
+      <s:sku>135CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573156040843</id>
+      <title>150CM</title>
+      <s:price currency="RUB">868.00</s:price>
+      <s:sku>150CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573156892811</id>
+    <published>2021-05-22T16:20:00+08:00</published>
+    <updated>2021-05-22T16:20:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%82%D1%83%D0%B1%D1%83%D1%81-%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%B8%D0%B9-2%D0%B21-130%D1%81%D0%BC-%D0%B8-150%D1%81%D0%BC"/>
+    <title>Тубус жесткий 2в1, 130см и 150см</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_190314.jpg?v=1621671597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            1025.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Чехлы</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573156892811</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1025.00</s:price>
+      <s:sku>1.3m-1.5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573157187723</id>
+    <published>2021-05-22T16:19:00+08:00</published>
+    <updated>2021-05-22T16:19:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%82%D1%83%D0%B1%D1%83%D1%81-%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%B8%D0%B9-%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%BE%D0%B9-150-%D1%81%D0%BC"/>
+    <title>Тубус жесткий двойной 150 см</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_190408.jpg?v=1621671508"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            1025.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Чехлы</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573157187723</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1025.00</s:price>
+      <s:sku>1.5m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573154336907</id>
+    <published>2021-05-21T16:07:12+08:00</published>
+    <updated>2021-05-21T16:07:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D0%BA%D0%B0%D0%BC%D1%8B%D1%88-2-%D0%BE%D1%82%D1%81%D0%B5%D0%BA%D0%B0-100%D1%81%D0%BC"/>
+    <title>Чехол vitfishing &quot;камыш&quot;, 2 отсека</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0835_897c698a-d637-4288-b3b2-37728cd51845.jpg?v=1621356290"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            287.00 - 394.00
+            <a href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D0%BA%D0%B0%D0%BC%D1%8B%D1%88-2-%D0%BE%D1%82%D1%81%D0%B5%D0%BA%D0%B0-100%D1%81%D0%BC">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Чехлы</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573154336907</id>
+      <title>100CM</title>
+      <s:price currency="RUB">287.00</s:price>
+      <s:sku>100CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573154336907</id>
+      <title>130CM</title>
+      <s:price currency="RUB">369.00</s:price>
+      <s:sku>130CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573154336907</id>
+      <title>150CM</title>
+      <s:price currency="RUB">394.00</s:price>
+      <s:sku>150CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573151387787</id>
+    <published>2021-05-21T16:06:37+08:00</published>
+    <updated>2021-05-21T16:06:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D0%BA%D0%B0%D0%BC%D1%83%D1%84%D0%BB%D1%8F%D0%B6-2-%D0%BE%D1%82%D1%81%D0%B5%D0%BA%D0%B0"/>
+    <title>Чехол vitfishing &quot;камуфляж&quot;, 2 отсека</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0832.jpg?v=1621356245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            229.00 - 394.00
+            <a href="https://vitfishing.store/products/%D1%87%D0%B5%D1%85%D0%BE%D0%BB-vitfishing-%D0%BA%D0%B0%D0%BC%D1%83%D1%84%D0%BB%D1%8F%D0%B6-2-%D0%BE%D1%82%D1%81%D0%B5%D0%BA%D0%B0">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Чехлы</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573151387787</id>
+      <title>80CM</title>
+      <s:price currency="RUB">229.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573151387787</id>
+      <title>100CM</title>
+      <s:price currency="RUB">287.00</s:price>
+      <s:sku>100CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573151387787</id>
+      <title>130CM</title>
+      <s:price currency="RUB">369.00</s:price>
+      <s:sku>130CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573151387787</id>
+      <title>150CM</title>
+      <s:price currency="RUB">394.00</s:price>
+      <s:sku>150CM</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573150634123</id>
+    <published>2021-05-21T16:03:26+08:00</published>
+    <updated>2021-05-21T16:03:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D1%8E%D0%BA%D0%B7%D0%B0%D0%BA-sports-%D0%B1%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%8B%D0%B9-40%D0%BB"/>
+    <title>Рюкзак Sports брезент коричневый 40л</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0843_7d17843c-a325-41da-b7a5-683be38e01cc.jpg?v=1621357423"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            513.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573150634123</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">513.00</s:price>
+      <s:sku>40л</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573149683851</id>
+    <published>2021-05-21T16:01:00+08:00</published>
+    <updated>2021-05-21T16:01:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B2%D0%B5%D1%89%D0%BC%D0%B5%D1%88%D0%BE%D0%BA-%D0%B0%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B8%D0%B7-%D0%BB%D1%8C%D0%BD%D1%8F%D0%BD%D0%BE%D0%B9-%D1%82%D0%BA%D0%B0%D0%BD%D0%B8"/>
+    <title>Вещмешок армейский из льняной ткани</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0852.jpg?v=1621357361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            359.00 - 670.00
+            <a href="https://vitfishing.store/products/%D0%B2%D0%B5%D1%89%D0%BC%D0%B5%D1%88%D0%BE%D0%BA-%D0%B0%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B8%D0%B7-%D0%BB%D1%8C%D0%BD%D1%8F%D0%BD%D0%BE%D0%B9-%D1%82%D0%BA%D0%B0%D0%BD%D0%B8">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573149683851</id>
+      <title>30L</title>
+      <s:price currency="RUB">359.00</s:price>
+      <s:sku>30L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573149683851</id>
+      <title>40L</title>
+      <s:price currency="RUB">410.00</s:price>
+      <s:sku>40L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573149683851</id>
+      <title>50L</title>
+      <s:price currency="RUB">461.00</s:price>
+      <s:sku>50L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573149683851</id>
+      <title>60L</title>
+      <s:price currency="RUB">513.00</s:price>
+      <s:sku>60L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573149683851</id>
+      <title>70L</title>
+      <s:price currency="RUB">564.00</s:price>
+      <s:sku>70L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573149683851</id>
+      <title>80L</title>
+      <s:price currency="RUB">615.00</s:price>
+      <s:sku>80L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573149683851</id>
+      <title>90L</title>
+      <s:price currency="RUB">670.00</s:price>
+      <s:sku>90L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573148930187</id>
+    <published>2021-05-21T16:00:05+08:00</published>
+    <updated>2021-05-21T16:00:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B2%D0%B5%D1%89%D0%BC%D0%B5%D1%88%D0%BE%D0%BA-%D0%B0%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B8%D0%B7-%D0%B1%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%D0%BE%D0%B9-%D1%82%D0%BA%D0%B0%D0%BD%D0%B8"/>
+    <title>Вещмешок армейский из брезентовой ткани</title>
+    <s:type>Рюкзаки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/1.jpg?v=1621357334"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Рюкзаки<br>
+        <strong>Price: </strong>
+            461.00 - 749.00
+            <a href="https://vitfishing.store/products/%D0%B2%D0%B5%D1%89%D0%BC%D0%B5%D1%88%D0%BE%D0%BA-%D0%B0%D1%80%D0%BC%D0%B5%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B8%D0%B7-%D0%B1%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%D0%BE%D0%B9-%D1%82%D0%BA%D0%B0%D0%BD%D0%B8">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573148930187</id>
+      <title>30L</title>
+      <s:price currency="RUB">461.00</s:price>
+      <s:sku>30L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573148930187</id>
+      <title>40L</title>
+      <s:price currency="RUB">517.00</s:price>
+      <s:sku>40L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573148930187</id>
+      <title>50L</title>
+      <s:price currency="RUB">572.00</s:price>
+      <s:sku>50L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573148930187</id>
+      <title>60L</title>
+      <s:price currency="RUB">635.00</s:price>
+      <s:sku>60L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573148930187</id>
+      <title>70L</title>
+      <s:price currency="RUB">663.00</s:price>
+      <s:sku>70L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573148930187</id>
+      <title>80L</title>
+      <s:price currency="RUB">734.00</s:price>
+      <s:sku>80L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573148930187</id>
+      <title>90L</title>
+      <s:price currency="RUB">749.00</s:price>
+      <s:sku>90L</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

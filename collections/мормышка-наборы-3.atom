@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%BA%D0%B0-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80%D1%8B-3.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-11-23T19:10:59+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6674163892363</id>
+    <published>2021-11-23T19:10:59+08:00</published>
+    <updated>2021-11-23T19:10:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-1-50%D1%88%D1%82-%D1%83%D0%BF-28"/>
+    <title>Набор мормышек #1 50шт/уп №28</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0994_e8166a25-1d2c-4007-adee-13c2541c87f5.jpg?v=1637665784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674163892363</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">700.00</s:price>
+      <s:sku>y-№28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674163269771</id>
+    <published>2021-11-23T19:10:58+08:00</published>
+    <updated>2021-11-23T19:10:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-2-50%D1%88%D1%82-%D1%83%D0%BF-27"/>
+    <title>Набор мормышек #2 50шт/уп №27</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0992_d400a222-bbca-4ea4-bb1f-d67c64756e66.jpg?v=1637665751"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674163269771</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">700.00</s:price>
+      <s:sku>y-№27</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674162385035</id>
+    <published>2021-11-23T19:10:57+08:00</published>
+    <updated>2021-11-23T19:10:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-6-50%D1%88%D1%82-%D1%83%D0%BF-26"/>
+    <title>Набор мормышек #6 50шт/уп №26</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0989_b8f3c773-d835-4456-88cd-df0e0bc94088.jpg?v=1637665710"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674162385035</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">700.00</s:price>
+      <s:sku>y-№26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674161336459</id>
+    <published>2021-11-23T19:10:55+08:00</published>
+    <updated>2021-11-23T19:10:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-4-50%D1%88%D1%82-%D1%83%D0%BF-25"/>
+    <title>Набор мормышек #4 50шт/уп №25</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0987_43588330-5598-4e66-b234-10f03da749f3.jpg?v=1637665661"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674161336459</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">900.00</s:price>
+      <s:sku>y-№25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674159992971</id>
+    <published>2021-11-23T19:10:55+08:00</published>
+    <updated>2021-11-23T19:10:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-3-50%D1%88%D1%82-%D1%83%D0%BF-24"/>
+    <title>Набор мормышек #3 50шт/уп №24</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0985_5ea628e0-e242-4136-84f1-7dc1dc01000d.jpg?v=1637665593"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674159992971</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">900.00</s:price>
+      <s:sku>y-№24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674158420107</id>
+    <published>2021-11-23T19:10:54+08:00</published>
+    <updated>2021-11-23T19:10:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-1-100%D1%88%D1%82-%D1%83%D0%BF-23"/>
+    <title>Набор мормышек #1 50шт/уп №23</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0982_6922fa2e-1db5-418a-a3a2-f2df64f16e64.jpg?v=1637665505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674158420107</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">900.00</s:price>
+      <s:sku>y-№23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674155733131</id>
+    <published>2021-11-23T19:10:54+08:00</published>
+    <updated>2021-11-23T19:10:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-2-100%D1%88%D1%82-%D1%83%D0%BF-22"/>
+    <title>Набор мормышек #2 50шт/уп №22</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0979_ad20c9ea-126d-4b83-beb8-74e1a68dce48.jpg?v=1637665346"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674155733131</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">750.00</s:price>
+      <s:sku>y-№22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674154455179</id>
+    <published>2021-11-23T19:10:53+08:00</published>
+    <updated>2021-11-23T19:10:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-1-50%D1%88%D1%82-%D1%83%D0%BF-21"/>
+    <title>Набор мормышек #1 100шт/уп №21</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0977_24b5b9b2-50e2-4c72-a235-feb3c7b6ccea.jpg?v=1637665296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            1800.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674154455179</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1800.00</s:price>
+      <s:sku>y-№21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674152816779</id>
+    <published>2021-11-23T19:10:53+08:00</published>
+    <updated>2021-11-23T19:10:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-4-50%D1%88%D1%82-%D1%83%D0%BF-20"/>
+    <title>Набор мормышек #4 50шт/уп №20</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0974_8bb5605a-8743-4639-8764-55d13b9282b8.jpg?v=1637665199"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674152816779</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1000.00</s:price>
+      <s:sku>y-№20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674152128651</id>
+    <published>2021-11-23T19:10:52+08:00</published>
+    <updated>2021-11-23T19:10:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-4-50%D1%88%D1%82-%D1%83%D0%BF-19"/>
+    <title>Набор мормышек #4 50шт/уп №19</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0971_08f9b247-a67f-493b-abb0-b6b0659bfd1f.jpg?v=1637665154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674152128651</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1000.00</s:price>
+      <s:sku>y-№19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674151342219</id>
+    <published>2021-11-23T19:10:52+08:00</published>
+    <updated>2021-11-23T19:10:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-3-50%D1%88%D1%82-%D1%83%D0%BF-18"/>
+    <title>Набор мормышек #3 50шт/уп №18</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0969_74f55f29-26df-4856-ada5-ebe7c96560a5.jpg?v=1637665115"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674151342219</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1000.00</s:price>
+      <s:sku>y-№18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674148556939</id>
+    <published>2021-11-23T19:10:52+08:00</published>
+    <updated>2021-11-23T19:10:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-3-50%D1%88%D1%82-%D1%83%D0%BF-17"/>
+    <title>Набор мормышек #2 50шт/уп №17</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0966_258faf75-4c11-42dc-af21-579dcec3daeb.jpg?v=1637665028"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            1000.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674148556939</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1000.00</s:price>
+      <s:sku>y-№17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674147606667</id>
+    <published>2021-11-23T19:10:51+08:00</published>
+    <updated>2021-11-23T19:10:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-2-50%D1%88%D1%82-%D1%83%D0%BF-16"/>
+    <title>Набор мормышек #2 50шт/уп №16</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0965_789266eb-ee46-413e-b875-22de3efb683a.jpg?v=1637664917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674147606667</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">900.00</s:price>
+      <s:sku>Шар-№16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674146721931</id>
+    <published>2021-11-23T19:10:51+08:00</published>
+    <updated>2021-11-23T19:10:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%845-50%D1%88%D1%82-%D1%83%D0%BF-15"/>
+    <title>Набор мормышек ф5 50шт/уп №15</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0962_9c3d2d0d-3703-480e-8868-dc40fc6cdff3.jpg?v=1637664871"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            850.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674146721931</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">850.00</s:price>
+      <s:sku>Шар-№15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674144362635</id>
+    <published>2021-11-23T19:10:50+08:00</published>
+    <updated>2021-11-23T19:10:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%88%D0%B0%D1%80-%D1%843-50%D1%88%D1%82-%D1%83%D0%BF-14-0-3g"/>
+    <title>Набор мормышек &quot;Шар ф3&quot; 50шт/уп №14-0.3g</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0032_3c2767d1-fc8b-47f6-8df3-6f27f6592297.jpg?v=1637664731"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674144362635</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">700.00</s:price>
+      <s:sku>Шар-№14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674141315211</id>
+    <published>2021-11-23T19:10:50+08:00</published>
+    <updated>2021-11-23T19:10:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%88%D0%B0%D1%80-%D1%844-50%D1%88%D1%82-%D1%83%D0%BF-13-0-7g"/>
+    <title>Набор мормышек &quot;Шар ф4&quot; 50шт/уп №13-0.7g</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0029_0f286657-9ed8-491c-9caa-cd7696e7c906.jpg?v=1637664671"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            700.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674141315211</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">700.00</s:price>
+      <s:sku>Шар-№13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674140823691</id>
+    <published>2021-11-23T19:10:49+08:00</published>
+    <updated>2021-11-23T19:10:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%88%D0%B0%D1%80-%D1%845-50%D1%88%D1%82-%D1%83%D0%BF-12-1-0g"/>
+    <title>Набор мормышек &quot;Шар ф5&quot; 50шт/уп №12-1.0g</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0026_d682e652-24ea-4ac5-9c6f-a04dc7f60ae4.jpg?v=1637664473"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674140823691</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">900.00</s:price>
+      <s:sku>Шар-№12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674139676811</id>
+    <published>2021-11-23T19:10:49+08:00</published>
+    <updated>2021-11-23T19:10:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%88%D0%B0%D1%80-%D1%846-50%D1%88%D1%82-%D1%83%D0%BF-11-1-1g"/>
+    <title>Набор мормышек &quot;Шар ф6&quot; 50шт/уп №11-1.1g</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0023_12f1a472-b074-40e9-8c69-576f55bda1ae.jpg?v=1637664411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674139676811</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">900.00</s:price>
+      <s:sku>Шар-№11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674138693771</id>
+    <published>2021-11-23T19:10:49+08:00</published>
+    <updated>2021-11-23T19:10:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%88%D0%B0%D1%80-%D1%843-50%D1%88%D1%82-%D1%83%D0%BF-10-0-3g"/>
+    <title>Набор мормышек &quot;Шар ф3&quot; 50шт/уп №10-0.3g</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0020_ef2af22a-f912-4dac-b9df-7352cb0d1b62.jpg?v=1637664349"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            1100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674138693771</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1100.00</s:price>
+      <s:sku>Шар-№10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674138005643</id>
+    <published>2021-11-23T19:10:48+08:00</published>
+    <updated>2021-11-23T19:10:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%88%D0%B0%D1%80-%D1%844-50%D1%88%D1%82-%D1%83%D0%BF-9-0-7g"/>
+    <title>Набор мормышек &quot;Шар ф4&quot; 50шт/уп №9-0.7g</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0017_e0947551-f70d-4b4b-a24a-8a38b3ea706e.jpg?v=1637664312"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            1100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674138005643</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1100.00</s:price>
+      <s:sku>Шар-№9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674137415819</id>
+    <published>2021-11-23T19:10:48+08:00</published>
+    <updated>2021-11-23T19:10:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%88%D0%B0%D1%80-%D1%845-50%D1%88%D1%82-%D1%83%D0%BF-8-0-9g"/>
+    <title>Набор мормышек &quot;Шар ф5&quot; 50шт/уп №8-0.9g</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0014_f73b025f-775b-4396-86dc-10935bb1c812.jpg?v=1637664266"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            1100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674137415819</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1100.00</s:price>
+      <s:sku>Шар-№8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674136727691</id>
+    <published>2021-11-23T19:10:47+08:00</published>
+    <updated>2021-11-23T19:10:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%88%D0%B0%D1%80-%D1%846-50%D1%88%D1%82-%D1%83%D0%BF-7-1-1g"/>
+    <title>Набор мормышек &quot;Шар ф6&quot; 50шт/уп №7-1.1g</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0011_d04253e9-a2fa-4890-b0e2-6cab77572885.jpg?v=1637664227"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            1100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674136727691</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1100.00</s:price>
+      <s:sku>Шар-№7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674136039563</id>
+    <published>2021-11-23T19:10:47+08:00</published>
+    <updated>2021-11-23T19:10:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%88%D0%B0%D1%80-%D1%847-50%D1%88%D1%82-%D1%83%D0%BF-6-2-0g"/>
+    <title>Набор мормышек &quot;Шар ф7&quot; 50шт/уп №6-2.0g</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0008_8a1b2d21-53f7-4aa7-ba32-039041e5fb83.jpg?v=1637664163"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            1250.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674136039563</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1250.00</s:price>
+      <s:sku>Шар-№6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674135384203</id>
+    <published>2021-11-23T19:10:46+08:00</published>
+    <updated>2021-11-23T19:10:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%88%D0%B0%D1%80-%D1%843-50%D1%88%D1%82-%D1%83%D0%BF-5-0-3g"/>
+    <title>Набор мормышек &quot;Шар ф3&quot; 50шт/уп №5-0.3g</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0005_adf05354-520a-4500-b8ca-90d09a7da91c.jpg?v=1637664111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674135384203</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">900.00</s:price>
+      <s:sku>Шар-№5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674134237323</id>
+    <published>2021-11-23T19:10:46+08:00</published>
+    <updated>2021-11-23T19:10:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BC%D0%BE%D1%80%D0%BC%D1%8B%D1%88%D0%B5%D0%BA-%D1%88%D0%B0%D1%80-%D1%844-50%D1%88%D1%82-%D1%83%D0%BF-4-0-7g"/>
+    <title>Набор мормышек &quot;Шар ф4&quot; 50шт/уп №4-0.7g</title>
+    <s:type>Мормышка наборы-3</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0002_e77686fe-59c5-4a07-a609-197808cb2c18.jpg?v=1637664046"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мормышка наборы-3<br>
+        <strong>Price: </strong>
+            900.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674134237323</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">900.00</s:price>
+      <s:sku>Шар-№4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

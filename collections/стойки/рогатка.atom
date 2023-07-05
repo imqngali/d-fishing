@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B8.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-05-23T12:50:15+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6573037420683</id>
+    <published>2022-05-23T12:50:15+08:00</published>
+    <updated>2022-05-23T12:50:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%82%D1%80%D0%B8%D0%BD%D0%BE%D0%B3%D0%B0-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%8B%D0%B9-%D0%B0%D0%BB%D0%BB%D1%8E%D0%BC-3-%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0"/>
+    <title>Тринога  коричневый аллюм. 3 колена</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            508.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Стойки</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573037420683</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">508.00</s:price>
+      <s:sku>ZJ 23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573031850123</id>
+    <published>2021-11-09T20:39:22+08:00</published>
+    <updated>2021-11-09T20:39:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-1-2-%D0%BC"/>
+    <title>Стойка металлическая 1,2 м 1.5M 1.8M</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_180907.jpg?v=1621351568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            49.00 - 65.00
+            <a href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-1-2-%D0%BC">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Стойки</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573031850123</id>
+      <title>1.2M</title>
+      <s:price currency="RUB">49.00</s:price>
+      <s:sku>1,2м</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573031850123</id>
+      <title>1.5M</title>
+      <s:price currency="RUB">57.00</s:price>
+      <s:sku>1,5м</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573031850123</id>
+      <title>1.8M</title>
+      <s:price currency="RUB">65.00</s:price>
+      <s:sku>1,8м</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573033750667</id>
+    <published>2021-11-09T20:37:27+08:00</published>
+    <updated>2021-11-09T20:37:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%B3%D0%B0%D0%B9%D0%BA%D0%B0-%D0%BF%D0%BE%D0%B4-%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB-1-5-%D0%BC"/>
+    <title>Стойка металлическая 1.5M 1.8M + гайка под сигнал</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_181149.jpg?v=1621351648"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            63.00 - 70.00
+            <a href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%B3%D0%B0%D0%B9%D0%BA%D0%B0-%D0%BF%D0%BE%D0%B4-%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB-1-5-%D0%BC">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Стойки</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573033750667</id>
+      <title>1.5M</title>
+      <s:price currency="RUB">63.00</s:price>
+      <s:sku>1.5M+</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573033750667</id>
+      <title>1.8M</title>
+      <s:price currency="RUB">70.00</s:price>
+      <s:sku>1.8M+</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573037551755</id>
+    <published>2021-11-04T20:16:55+08:00</published>
+    <updated>2021-11-04T20:16:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%82%D1%80%D0%B8%D0%BD%D0%BE%D0%B3%D0%B0-%D1%81-%D0%B3%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%B0%D0%BC-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D1%8B%D0%B9-%D0%B0%D0%BB%D0%BB%D1%8E%D0%BC-3-%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0"/>
+    <title>Тринога с гребенкам коричневый аллюм. 3 колена</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_182653.jpg?v=1621351353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            579.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Стойки</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573037551755</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">579.00</s:price>
+      <s:sku>Тринога 3+</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573037289611</id>
+    <published>2021-05-21T14:07:33+08:00</published>
+    <updated>2021-05-21T14:07:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%82%D1%80%D0%B8%D0%BD%D0%BE%D0%B3%D0%B0-%D1%81%D0%B8%D0%BD%D1%8F%D1%8F-%D0%B0%D0%BB%D0%BB%D1%8E%D0%BC-3-%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0"/>
+    <title>Тринога синяя аллюм. 3 колена</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_182621.jpg?v=1621351380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            430.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Стойки</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573037289611</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">430.00</s:price>
+      <s:sku>Тринога 3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573037224075</id>
+    <published>2021-05-21T14:07:02+08:00</published>
+    <updated>2021-05-21T14:07:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%82%D1%80%D0%B8%D0%BD%D0%BE%D0%B3%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D0%B0%D0%BB%D0%BB%D1%8E%D0%BC-2-%D0%BA%D0%BE%D0%BB%D0%B5%D0%BD%D0%B0"/>
+    <title>Тринога черная аллюм. 2 колена</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_182537.jpg?v=1621351406"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            352.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Стойки</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573037224075</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">352.00</s:price>
+      <s:sku>Тринога 2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573037060235</id>
+    <published>2021-05-21T14:06:20+08:00</published>
+    <updated>2021-05-21T14:06:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-4-%D1%80%D0%BE%D0%B3%D0%B0%D1%82%D0%BA%D0%B8-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB-%D1%81-%D1%81%D0%B8%D0%BB%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%BC-%D0%BF%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5%D0%BC"/>
+    <title>Набор 4 рогатки метал. с силиконовым покрытием</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_182346.jpg?v=1621351129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            121.00 - 145.00
+            <a href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-4-%D1%80%D0%BE%D0%B3%D0%B0%D1%82%D0%BA%D0%B8-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB-%D1%81-%D1%81%D0%B8%D0%BB%D0%B8%D0%BA%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%BC-%D0%BF%D0%BE%D0%BA%D1%80%D1%8B%D1%82%D0%B8%D0%B5%D0%BC">(2 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Рогатка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573037060235</id>
+      <title>маленький</title>
+      <s:price currency="RUB">121.00</s:price>
+      <s:sku>Набор 5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573037060235</id>
+      <title>Большой</title>
+      <s:price currency="RUB">145.00</s:price>
+      <s:sku>Набор 6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573036863627</id>
+    <published>2021-05-21T14:05:30+08:00</published>
+    <updated>2021-05-21T14:05:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%BE%D0%B3%D0%B0%D1%82%D0%BA%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D1%83"/>
+    <title>Рогатка пластик на стойку</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_182237.jpg?v=1621351154"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Рогатка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573036863627</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">8.00</s:price>
+      <s:sku>ZJ 19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573036798091</id>
+    <published>2021-05-21T14:05:05+08:00</published>
+    <updated>2021-05-21T14:05:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%BE%D0%B3%D0%B0%D1%82%D0%BA%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA-%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D1%83"/>
+    <title>Рогатка пластик винтовая на стойку</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_182220.jpg?v=1621351241"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Рогатка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573036798091</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">9.00</s:price>
+      <s:sku>ZJ 18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573036601483</id>
+    <published>2021-05-21T14:04:43+08:00</published>
+    <updated>2021-05-21T14:04:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%BE%D0%B3%D0%B0%D1%82%D0%BA%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA-%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D1%83-%D1%81-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BD%D1%8B%D0%BC"/>
+    <title>Рогатка пластик винтовая на стойку с фосфорным</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_182244.jpg?v=1621351262"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            9.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Рогатка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573036601483</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">9.00</s:price>
+      <s:sku>ZJ 17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573036535947</id>
+    <published>2021-05-21T14:04:22+08:00</published>
+    <updated>2021-05-21T14:04:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%BE%D0%B3%D0%B0%D1%82%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB-%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BD%D0%B0-%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D1%83-%D1%81-%D1%84%D0%BE%D1%81%D1%84%D0%BE%D1%80%D0%BD%D1%8B%D0%BC"/>
+    <title>Рогатка метал винтовая на стойку с фосфорным</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_182228.jpg?v=1621351281"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            22.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Рогатка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573036535947</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">22.00</s:price>
+      <s:sku>ZJ 16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573035749515</id>
+    <published>2021-05-21T14:03:03+08:00</published>
+    <updated>2021-05-21T14:03:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B3%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%B0-%D0%BD%D0%B0-10-%D1%83%D0%B4%D0%BE%D1%87%D0%B5%D0%BA"/>
+    <title>Гребенка на 10 удочек</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_182141.jpg?v=1621351306"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            91.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Рогатка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573035749515</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">91.00</s:price>
+      <s:sku>Гребенка10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573035651211</id>
+    <published>2021-05-21T14:02:10+08:00</published>
+    <updated>2021-05-21T14:02:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B3%D1%80%D0%B5%D0%B1%D0%B5%D0%BD%D0%BA%D0%B0-%D0%BD%D0%B0-6-%D1%83%D0%B4%D0%BE%D1%87%D0%B5%D0%BA"/>
+    <title>Гребенка на 6 удочек</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_182051.jpg?v=1621351325"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            78.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Рогатка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573035651211</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">78.00</s:price>
+      <s:sku>Гребенка 6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573034438795</id>
+    <published>2021-05-21T14:01:11+08:00</published>
+    <updated>2021-05-21T14:01:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-80%D1%81%D0%BC-%D1%82%D0%BE%D0%BD%D0%BA%D0%B8%D0%B9"/>
+    <title>Стойка металлическая 52см тонкий</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_181637.jpg?v=1621351447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            20.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Стойки</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573034438795</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">20.00</s:price>
+      <s:sku>80cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573034340491</id>
+    <published>2021-05-21T14:00:38+08:00</published>
+    <updated>2021-05-21T14:00:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-80%D1%81%D0%BC-%D1%82%D0%BE%D1%81%D1%82%D1%8B%D0%B9"/>
+    <title>Стойка металлическая 62см тостый</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_181656.jpg?v=1621351491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            41.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Стойки</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573034340491</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">41.00</s:price>
+      <s:sku>80см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573034209419</id>
+    <published>2021-05-21T14:00:02+08:00</published>
+    <updated>2021-05-21T14:00:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0-1-5m-%D0%B0%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B8%D0%B5%D0%B2%D0%B0%D1%8F-%D0%B3%D0%B0%D0%B9%D0%BA%D0%B0-%D0%BF%D0%BE%D0%B4-%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB-%D0%B1%D1%83%D1%80"/>
+    <title>Стойка 1.5M алюминиевая + гайка под сигнал.+ бур</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_181601.jpg?v=1621351909"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            81.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Стойки</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573034209419</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">81.00</s:price>
+      <s:sku>бур 1.5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573034111115</id>
+    <published>2021-05-21T13:59:08+08:00</published>
+    <updated>2021-05-21T13:59:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D0%B9%D0%BA%D0%B0-1-5m-%D0%BA%D0%BE%D1%80%D0%B8%D1%87%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B9-%D0%B3%D0%B0%D0%B9%D0%BA%D0%B0-%D0%BF%D0%BE%D0%B4-%D1%81%D0%B8%D0%B3%D0%BD%D0%B0%D0%BB-%D0%B1%D1%83%D1%80"/>
+    <title>Стойка 1.5M коричневный +гайка под сигнал.+ бур</title>
+    <s:type>Стойки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210518_181451.jpg?v=1621351696"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Стойки<br>
+        <strong>Price: </strong>
+            122.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Стойки</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573034111115</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">122.00</s:price>
+      <s:sku>бур 1.5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BA%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-05-21T10:15:41+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6574729003147</id>
+    <published>2022-05-21T10:15:41+08:00</published>
+    <updated>2022-05-21T10:15:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B9-%D0%BA%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Набор Золотой крючков 10шт/уп</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191235.jpg?v=1621687245"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            176.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729003147</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">176.00</s:price>
+      <s:sku>HG-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576892379275</id>
+    <published>2021-05-31T15:18:27+08:00</published>
+    <updated>2021-05-31T15:18:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E5%B0%8F%E5%88%80-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Карабин с вертлюгом коробочка набор</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20210531123557.jpg?v=1622446704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            248.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576892379275</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">248.00</s:price>
+      <s:sku>LJQ-12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576892772491</id>
+    <published>2021-05-31T15:17:36+08:00</published>
+    <updated>2021-05-31T15:17:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E7%9B%92%E8%A3%85%E8%BD%AC%E7%8E%AF"/>
+    <title>Кольца коробочка набор</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20210531123612.jpg?v=1622446742"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            152.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576892772491</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">152.00</s:price>
+      <s:sku>Кольца</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574909522059</id>
+    <published>2021-05-27T21:24:39+08:00</published>
+    <updated>2021-05-27T21:24:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%82%D1%80%D0%B8-%D0%B3%D0%BE%D0%BB%D0%BE%D0%B2%D1%8B-vit-fishing-tf-301"/>
+    <title>вертлюгом Три головы “Vit-fishing” TF 301</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210527_181928.jpg?v=1622121813"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909522059</id>
+      <title>#1</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909522059</id>
+      <title>#2</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909522059</id>
+      <title>#3</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909522059</id>
+      <title>#4</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909522059</id>
+      <title>#5</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909522059</id>
+      <title>#6</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909522059</id>
+      <title>#7</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909522059</id>
+      <title>#8</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909522059</id>
+      <title>#9</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909522059</id>
+      <title>#10</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909522059</id>
+      <title>#2/0</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#2/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574908670091</id>
+    <published>2021-05-27T21:17:09+08:00</published>
+    <updated>2021-05-27T21:17:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E9%B2%A4%E9%B1%BC%E9%92%A9%E5%AD%90"/>
+    <title>крючок КАРП A6008</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210527_173415.jpg?v=1622121364"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            6.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908670091</id>
+      <title>№6</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>№6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908670091</id>
+      <title>№7</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>№7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908670091</id>
+      <title>№8</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>№8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908670091</id>
+      <title>№9</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>№9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908670091</id>
+      <title>№10</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>№10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908670091</id>
+      <title>№11</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>№11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908670091</id>
+      <title>№12</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>№12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908670091</id>
+      <title>№13</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>№13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908670091</id>
+      <title>№14</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>№14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908670091</id>
+      <title>№15</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>№15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574908866699</id>
+    <published>2021-05-27T21:15:14+08:00</published>
+    <updated>2021-05-27T21:15:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E8%9B%87%E9%92%A9%E5%AD%90-%E9%BB%91"/>
+    <title>крючок COBRA A6006</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210527_173553.jpg?v=1622121172"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            6.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#7</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#8</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#9</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#10</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#11</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#12</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#13</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#14</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#15</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#15</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#16</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#17</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#18</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#19</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908866699</id>
+      <title>#20</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574909030539</id>
+    <published>2021-05-27T21:12:08+08:00</published>
+    <updated>2021-05-27T21:12:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E5%A4%A7%E9%92%A9%E5%AD%90-%E7%99%BD"/>
+    <title>Большой Рыболовный Крючок A6046</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210527_173306.jpg?v=1622121102"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            10.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909030539</id>
+      <title>1/0</title>
+      <s:price currency="RUB">10.40</s:price>
+      <s:sku>1/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909030539</id>
+      <title>2/0</title>
+      <s:price currency="RUB">10.40</s:price>
+      <s:sku>2/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909030539</id>
+      <title>3/0</title>
+      <s:price currency="RUB">10.40</s:price>
+      <s:sku>3/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909030539</id>
+      <title>4/0</title>
+      <s:price currency="RUB">10.40</s:price>
+      <s:sku>4/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909030539</id>
+      <title>5/0</title>
+      <s:price currency="RUB">10.40</s:price>
+      <s:sku>5/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576449028235</id>
+    <published>2021-05-27T21:02:02+08:00</published>
+    <updated>2021-05-27T21:02:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D1%80%D1%8E%D1%87%D0%BE%D0%BA-%E7%8B%97%E9%B1%BC%E9%92%A9"/>
+    <title>крючок ЩУКА</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210527_173123.jpg?v=1622120432"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            6.16 - 8.00
+            <a href="https://vitfishing.store/products/%D0%BA%D1%80%D1%8E%D1%87%D0%BE%D0%BA-%E7%8B%97%E9%B1%BC%E9%92%A9">(15 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#6</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#7</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#9</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#10</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#11</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#12</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#13</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#13</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#14</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#17</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#18</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#19</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#20</title>
+      <s:price currency="RUB">8.00</s:price>
+      <s:sku>#20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#22</title>
+      <s:price currency="RUB">8.00</s:price>
+      <s:sku>#22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#24</title>
+      <s:price currency="RUB">8.00</s:price>
+      <s:sku>#24</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449028235</id>
+      <title>#26</title>
+      <s:price currency="RUB">8.00</s:price>
+      <s:sku>#26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576449552523</id>
+    <published>2021-05-27T20:56:30+08:00</published>
+    <updated>2021-05-27T20:56:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%B0%D1%80%D0%B0%D0%B1%D0%B8%D0%BD-%D1%81-%D0%B2%D0%B5%D1%80%D1%82%D0%BB%D1%8E%D0%B3%D0%BE%D0%BC-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-vit-fishing-tf-101d"/>
+    <title>Карабин с вертлюгом набор “Vit-fishing” TF 101D</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210527_174108.jpg?v=1622120156"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449552523</id>
+      <title>#1</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449552523</id>
+      <title>#2</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449552523</id>
+      <title>#3</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449552523</id>
+      <title>#4</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449552523</id>
+      <title>#5</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449552523</id>
+      <title>#6</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449552523</id>
+      <title>#7</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449552523</id>
+      <title>#8</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449552523</id>
+      <title>#9</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576449749131</id>
+    <published>2021-05-27T20:53:11+08:00</published>
+    <updated>2021-05-27T20:53:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B2%D0%B5%D1%80%D1%82%D0%BB%D1%8E%D0%B3%D0%BE%D0%BC-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-vit-fishing-tf-101d"/>
+    <title>вертлюгом набор “Vit-fishing” TF 101D</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210527_174143.jpg?v=1622119917"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            112.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#1</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#2</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#3</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#4</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#5</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#6</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#7</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#8</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#9</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#10</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#11</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576449749131</id>
+      <title>#12</title>
+      <s:price currency="RUB">112.00</s:price>
+      <s:sku>#12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574909456523</id>
+    <published>2021-05-27T19:58:42+08:00</published>
+    <updated>2021-05-27T19:58:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E8%BF%9E%E6%8E%A5%E5%99%A8-%E6%99%AE%E9%80%9A"/>
+    <title>Карабин с вертлюгом “Vit-fishing” TF 303B</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0608.jpg?v=1621742150"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909456523</id>
+      <title>#5</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909456523</id>
+      <title>#6</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909456523</id>
+      <title>#7</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909456523</id>
+      <title>#8</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909456523</id>
+      <title>#9</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909456523</id>
+      <title>#10</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909456523</id>
+      <title>#11</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909456523</id>
+      <title>#12</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909456523</id>
+      <title>#14</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574909784203</id>
+    <published>2021-05-27T19:46:36+08:00</published>
+    <updated>2021-05-27T19:46:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E7%BE%8E%E5%BC%8F-%E8%BD%AC%E7%8E%AF"/>
+    <title>вертлюгом “Vit-fishing” TF 102D</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220604114544.jpg?v=1654326491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909784203</id>
+      <title>#1</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909784203</id>
+      <title>#2</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909784203</id>
+      <title>#3</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909784203</id>
+      <title>#4</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909784203</id>
+      <title>#5</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909784203</id>
+      <title>#6</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909784203</id>
+      <title>#7</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909784203</id>
+      <title>#8</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909784203</id>
+      <title>#9</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909784203</id>
+      <title>#10</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909784203</id>
+      <title>#12</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574909292683</id>
+    <published>2021-05-27T19:43:38+08:00</published>
+    <updated>2021-05-27T19:43:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E7%BE%8E%E5%BC%8F%E8%BF%9E%E6%8E%A5%E5%99%A8"/>
+    <title>Карабин с вертлюгом “Vit-fishing” TF 101D</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220604114414.jpg?v=1654325651"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#1</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#2</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#3</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#4</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#5</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#6</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#7</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#8</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#9</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#10</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#11</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#12</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909292683</id>
+      <title>#14</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574908506251</id>
+    <published>2021-05-27T19:21:59+08:00</published>
+    <updated>2021-05-27T19:21:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E8%BD%AC%E7%8E%AF-%E6%99%AE%E9%80%9A"/>
+    <title>вертлюгом “Vit-fishing” TF 303</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0564_4eeaa1df-7250-47a7-96ff-8c92ea4530d1.jpg?v=1621741825"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908506251</id>
+      <title>#6</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908506251</id>
+      <title>#7</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908506251</id>
+      <title>#8</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908506251</id>
+      <title>#9</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908506251</id>
+      <title>#12</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908506251</id>
+      <title>#14</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574908375179</id>
+    <published>2021-05-27T19:16:56+08:00</published>
+    <updated>2021-05-27T19:16:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E7%8E%AF-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>палочка TF 021</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0559_4f2cf8d9-982e-45ce-abcd-1ea6225fd2ae.jpg?v=1621741756"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            6.16
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908375179</id>
+      <title>#11</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908375179</id>
+      <title>#14</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908375179</id>
+      <title>#18</title>
+      <s:price currency="RUB">6.16</s:price>
+      <s:sku>#18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574908342411</id>
+    <published>2021-05-27T19:14:35+08:00</published>
+    <updated>2021-05-27T19:14:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E7%8E%AF"/>
+    <title>Кольца “DODGER” TF 517</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0551_9d55a0f5-f4a1-4a4e-a3a2-d33abf9cb25d.jpg?v=1621741717"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908342411</id>
+      <title>#2</title>
+      <s:price currency="RUB">10.00</s:price>
+      <s:sku>#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908342411</id>
+      <title>#3</title>
+      <s:price currency="RUB">10.00</s:price>
+      <s:sku>#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908342411</id>
+      <title>#4</title>
+      <s:price currency="RUB">10.00</s:price>
+      <s:sku>#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908342411</id>
+      <title>#5</title>
+      <s:price currency="RUB">10.00</s:price>
+      <s:sku>#5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908342411</id>
+      <title>#6</title>
+      <s:price currency="RUB">10.00</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908342411</id>
+      <title>#7</title>
+      <s:price currency="RUB">10.00</s:price>
+      <s:sku>#7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908342411</id>
+      <title>#8</title>
+      <s:price currency="RUB">10.00</s:price>
+      <s:sku>#8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574908342411</id>
+      <title>#9</title>
+      <s:price currency="RUB">10.00</s:price>
+      <s:sku>#9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574909685899</id>
+    <published>2021-05-27T19:04:58+08:00</published>
+    <updated>2021-05-27T19:04:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E7%BE%8E%E5%BC%8F-%E8%BF%9E%E6%8E%A5%E5%99%A8%E5%A4%B4"/>
+    <title>Карабин  “Vit-fishing” TF 053</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0628_9a367fa7-7b11-49b5-b51a-0f4d1ccb96fa.jpg?v=1621742254"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            14.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909685899</id>
+      <title>#0</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909685899</id>
+      <title>#1</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909685899</id>
+      <title>#2</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909685899</id>
+      <title>#3</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909685899</id>
+      <title>#4</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909685899</id>
+      <title>#5</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574909685899</id>
+      <title>#6</title>
+      <s:price currency="RUB">14.40</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574729592971</id>
+    <published>2021-05-23T15:01:40+08:00</published>
+    <updated>2021-05-23T15:01:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D1%80%D1%8E%D1%87%D0%BE%D0%BA-%D0%B4%D0%B2%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA-dodger-premium-hook-4715-2-0"/>
+    <title>Крючок-двойник DODGER  4715 15шт/уп</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0231_b9e1d058-150c-4e5b-935d-7779cd987430.jpg?v=1621741215"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729592971</id>
+      <title>#1/0</title>
+      <s:price currency="RUB">72.00</s:price>
+      <s:sku>#1/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729592971</id>
+      <title>#2/0</title>
+      <s:price currency="RUB">72.00</s:price>
+      <s:sku>#2/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729592971</id>
+      <title>#3/0</title>
+      <s:price currency="RUB">72.00</s:price>
+      <s:sku>#3/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574729527435</id>
+    <published>2021-05-23T14:59:12+08:00</published>
+    <updated>2021-05-23T14:59:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D1%80%D1%8E%D1%87%D0%BE%D0%BA-%D0%BD%D0%B5%D0%B7%D0%B0%D1%86%D0%B5%D0%BF%D0%BB%D1%8F%D0%B9%D0%BA%D0%B0-dodger-premium-hook-3369-1-0"/>
+    <title>Крючок-незацепляйка DODGER 3369 10шт/уп</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191543.jpg?v=1621687753"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            92.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729527435</id>
+      <title>#1/0</title>
+      <s:price currency="RUB">92.00</s:price>
+      <s:sku>#1/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729527435</id>
+      <title>#2/0</title>
+      <s:price currency="RUB">92.00</s:price>
+      <s:sku>#2/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729527435</id>
+      <title>#3/0</title>
+      <s:price currency="RUB">92.00</s:price>
+      <s:sku>#3/0</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574729494667</id>
+    <published>2021-05-23T14:56:12+08:00</published>
+    <updated>2021-05-23T14:56:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D1%80%D1%8E%D1%87%D0%BE%D0%BA-%D0%BD%D0%B5%D0%B7%D0%B0%D1%86%D0%B5%D0%BF%D0%BB%D1%8F%D0%B9%D0%BA%D0%B0-%D1%82%D1%80%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA-dodger-premium-hook-3551-6"/>
+    <title>Крючок-незацепляйка тройник DODGER 3551</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191629.jpg?v=1621687644"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729494667</id>
+      <title>#1</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729494667</id>
+      <title>#2</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729494667</id>
+      <title>#3</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729494667</id>
+      <title>#4</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729494667</id>
+      <title>#5</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729494667</id>
+      <title>#6</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574729461899</id>
+    <published>2021-05-23T14:49:44+08:00</published>
+    <updated>2021-05-23T14:49:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D1%80%D1%8E%D1%87%D0%BA%D0%B8-%D1%82%D1%80%D0%BE%D0%B9%D0%BD%D0%B8%D0%BA%D0%B8-miracle-treble-10-25%D1%88%D1%82"/>
+    <title>Крючки тройники TREBLE 18шт.</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191850.jpg?v=1621687552"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            76.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729461899</id>
+      <title>#1</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729461899</id>
+      <title>#2</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729461899</id>
+      <title>#3</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729461899</id>
+      <title>#4</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729461899</id>
+      <title>#5</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729461899</id>
+      <title>#6</title>
+      <s:price currency="RUB">76.00</s:price>
+      <s:sku>#6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574729265291</id>
+    <published>2021-05-23T14:30:54+08:00</published>
+    <updated>2021-05-23T14:30:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BA%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-x8"/>
+    <title>Набор крючков красный X8</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191213.jpg?v=1621687273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            88.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729265291</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">88.00</s:price>
+      <s:sku>HG-X8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574729166987</id>
+    <published>2021-05-23T14:30:26+08:00</published>
+    <updated>2021-05-23T14:30:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BA%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-x8"/>
+    <title>Набор крючков Черный X8</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191200.jpg?v=1621687261"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574729166987</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>HG-X8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574728511627</id>
+    <published>2021-05-23T14:28:35+08:00</published>
+    <updated>2021-05-23T14:28:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BA%D1%80%D1%8E%D1%87%D0%BA%D0%BE%D0%B2"/>
+    <title>Набор крючков Синий 10шт/уп</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/712133118_w640_h640_nabor-kryuchkov-razmer.jpg?v=1621687198"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            140.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574728511627</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">140.00</s:price>
+      <s:sku>HG-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574728937611</id>
+    <published>2021-05-23T13:15:28+08:00</published>
+    <updated>2021-05-23T13:15:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BA%D0%B5%D0%BC%D0%B1%D1%80%D0%B8%D0%BA%D0%BE%D0%B2-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Набор кембриков 10шт/уп</title>
+    <s:type>крючков</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_191246.jpg?v=1621687223"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>крючков<br>
+        <strong>Price: </strong>
+            116.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574728937611</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">116.00</s:price>
+      <s:sku>HG-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

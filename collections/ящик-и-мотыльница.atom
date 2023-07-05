@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D1%8F%D1%89%D0%B8%D0%BA-%D0%B8-%D0%BC%D0%BE%D1%82%D1%8B%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-03-06T12:14:30+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6620948824203</id>
+    <published>2022-03-06T12:14:30+08:00</published>
+    <updated>2022-03-06T12:14:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B7%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9-%D1%8F%D1%89%D0%B8%D0%BA-30%D0%BB"/>
+    <title>Зимний ящик 30л</title>
+    <s:type>Зимни ящик</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210923111548.png?v=1632377830"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Зимни ящик<br>
+        <strong>Price: </strong>
+            650.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620948824203</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">650.00</s:price>
+      <s:sku>30л</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6686279237771</id>
+    <published>2021-12-05T12:20:14+08:00</published>
+    <updated>2021-12-05T12:20:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%82%D1%8B%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0-85%D1%8570%D1%8533%D0%BC%D0%BC"/>
+    <title>Мотыльница 85Х70Х33мм</title>
+    <s:type>Мотыльница</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/22079b7d-1.jpg?v=1638677972"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мотыльница<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6686279237771</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>85</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6675679641739</id>
+    <published>2021-12-05T12:18:28+08:00</published>
+    <updated>2021-12-05T12:18:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%82%D1%8B%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0-%D1%81-%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D1%8C-80%D1%8555%D1%8530-%D0%BC%D0%BC"/>
+    <title>Мотыльница с ремень 80Х55Х30 мм</title>
+    <s:type>Мотыльница</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/motylnitsa-ural-sport-600x600.jpg?v=1638677905"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мотыльница<br>
+        <strong>Price: </strong>
+            80.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6675679641739</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">80.00</s:price>
+      <s:sku>с ремень</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6685358555275</id>
+    <published>2021-12-04T15:44:48+08:00</published>
+    <updated>2021-12-04T15:44:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%B0%D0%BD-%D0%B6%D0%B8%D0%B2%D1%86%D0%BE%D0%B2%D1%8B%D0%B9-%D0%B1%D0%B5%D0%BB%D1%8B%D0%B9-10-%D0%BB-helios"/>
+    <title>Кан живцовый белый 10 л, Helios</title>
+    <s:type>Зимни ящик</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/0fc773b19f38757033884a9ee3a12c38.jpg?v=1638603870"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Зимни ящик<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6685358555275</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">400.00</s:price>
+      <s:sku>белый</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6685357965451</id>
+    <published>2021-12-04T15:42:49+08:00</published>
+    <updated>2021-12-04T15:42:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%B0%D0%BD-%D0%B6%D0%B8%D0%B2%D1%86%D0%BE%D0%B2%D1%8B%D0%B9-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-10-%D0%BB-helios"/>
+    <title>Кан живцовый черный 10 л, Helios</title>
+    <s:type>Зимни ящик</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/orig_7ee8569e-15e4-4509-b103-6662a1b6a752.jpg?v=1638603744"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Зимни ящик<br>
+        <strong>Price: </strong>
+            400.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6685357965451</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">400.00</s:price>
+      <s:sku>черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6656214696075</id>
+    <published>2021-11-07T17:37:50+08:00</published>
+    <updated>2021-11-07T17:37:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%82%D1%8B%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0-%D1%8D%D0%BB%D0%B8%D1%82-%D1%81-%D1%80%D0%B5%D0%BC%D0%BD%D0%B5%D0%BC-80%D1%8590%D1%8530-%D0%BC%D0%BC"/>
+    <title>Мотыльница 80Х90Х30 мм</title>
+    <s:type>Мотыльница</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/c9b2dfe8-1f2b-11eb-80bc-38eaa78e3f8a.jpg?v=1636273579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мотыльница<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6656214696075</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620960850059</id>
+    <published>2021-11-07T17:37:07+08:00</published>
+    <updated>2021-11-07T17:37:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%82%D1%8B%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0-%D1%8D%D0%BB%D0%B8%D1%82-%D1%81-%D1%80%D0%B5%D0%BC%D0%BD%D0%B5%D0%BC-70%D1%8550%D1%8530-%D0%BC%D0%BC"/>
+    <title>Мотыльница 70Х90Х30 мм</title>
+    <s:type>Мотыльница</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/700-nw_9b90530c-7345-41bd-805a-fd4144efeb80.jpg?v=1636273597"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мотыльница<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620960850059</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620960325771</id>
+    <published>2021-11-07T17:10:17+08:00</published>
+    <updated>2021-11-07T17:10:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D1%82%D1%8B%D0%BB%D1%8C%D0%BD%D0%B8%D1%86%D0%B0-%D0%BC%D0%BC-50%D1%8580%D1%8530-%D0%BC%D0%BC"/>
+    <title>Мотыльница с магнит ММ 35Х65Х30 мм</title>
+    <s:type>Мотыльница</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/14b71a9a36c4a828e3240e737d7de1e2.jpg?v=1636273530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мотыльница<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620960325771</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>ММ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620961407115</id>
+    <published>2021-09-25T14:32:13+08:00</published>
+    <updated>2021-09-25T14:32:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%87%D0%B5%D1%80%D0%B2%D1%8F%D1%87%D0%BD%D0%B8%D1%86%D0%B0-%D0%BF%D0%BB%D0%B0%D1%81%D1%82-%D0%B4%D0%B2%D1%83%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D1%8F%D1%8F"/>
+    <title>Червячница пласт. двусторонняя Высота: 45 мм, Диаметр: 100мм</title>
+    <s:type>Мотыльница</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210923091405.png?v=1632370767"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Мотыльница<br>
+        <strong>Price: </strong>
+            30.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620961407115</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">30.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573407109259</id>
+    <published>2021-05-21T17:53:34+08:00</published>
+    <updated>2021-05-21T17:53:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%B0%D0%BD-%D1%8D%D0%B2%D0%B0-7%D0%BB-%D1%81-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%BE%D0%BC-%D1%82%D0%B5%D1%80%D0%BC%D0%BE%D1%81%D0%B0"/>
+    <title>Кан ЭВА 7л. С эффектом термоса</title>
+    <s:type>Зимни ящик</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/Kan-E_va.jpg?v=1621419820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Зимни ящик<br>
+        <strong>Price: </strong>
+            600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573407109259</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">600.00</s:price>
+      <s:sku>ЭВА 7л.</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

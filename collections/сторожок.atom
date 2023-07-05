@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-11-23T19:25:01+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6674177589387</id>
+    <published>2021-11-23T19:25:01+08:00</published>
+    <updated>2021-11-23T19:25:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BB%D0%B0%D0%B2%D1%81%D0%B0%D0%BD-3-25%D1%88%D1%82-%D1%83%D0%BF-8-0g-16-0g"/>
+    <title>СТОРОЖОК &quot;Лавсан&quot;#3 25шт/уп 8.0g-16.0g</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0043_8c81874c-f5db-4d43-8255-329ded73f705.jpg?v=1637666673"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            625.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674177589387</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">625.00</s:price>
+      <s:sku>L-#3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674176966795</id>
+    <published>2021-11-23T19:25:00+08:00</published>
+    <updated>2021-11-23T19:25:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BB%D0%B0%D0%B2%D1%81%D0%B0%D0%BD-2-25%D1%88%D1%82-%D1%83%D0%BF-3-0g-9-0g"/>
+    <title>СТОРОЖОК &quot;Лавсан&quot;#2 25шт/уп 3.0g-9.0g</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0040_33cd3d39-9534-4030-b377-88123a1fd9f3.jpg?v=1637666619"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            625.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674176966795</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">625.00</s:price>
+      <s:sku>L-#2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6674175819915</id>
+    <published>2021-11-23T19:21:57+08:00</published>
+    <updated>2021-11-23T19:21:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BB%D0%B0%D0%B2%D1%81%D0%B0%D0%BD-1-25%D1%88%D1%82-%D1%83%D0%BF-1-0g-4-0g"/>
+    <title>СТОРОЖОК &quot;Лавсан&quot;#1 25шт/уп 1.0g-4.0g</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0035_0593eb91-14c9-4444-8486-548097eae3e4.jpg?v=1637666527"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            625.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6674175819915</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">625.00</s:price>
+      <s:sku>L-#1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631806468235</id>
+    <published>2021-11-11T15:04:59+08:00</published>
+    <updated>2021-11-11T15:04:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-4%D1%84-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-1-0-5-0%D0%B3"/>
+    <title>Сторожок М-4Ф КРАСНЫЙ (1,0-5,0г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/60.png?v=1633596740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631806468235</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">375.00</s:price>
+      <s:sku>М-4Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631805845643</id>
+    <published>2021-11-11T15:04:58+08:00</published>
+    <updated>2021-11-11T15:04:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-4%D1%84-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-1-0-5-0%D0%B3"/>
+    <title>Сторожок М-4Ф ЗЕЛЕНЫЙ (1,0-5,0г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/59.png?v=1633596700"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631805845643</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">375.00</s:price>
+      <s:sku>М-4Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631805419659</id>
+    <published>2021-11-11T15:04:58+08:00</published>
+    <updated>2021-11-11T15:04:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-4%D1%84-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-1-0-5-0%D0%B3"/>
+    <title>Сторожок М-4Ф ЖЕЛТЫЙ (1,0-5,0г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/58.png?v=1633596663"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            375.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631805419659</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">375.00</s:price>
+      <s:sku>М-4Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631805124747</id>
+    <published>2021-11-11T15:04:57+08:00</published>
+    <updated>2021-11-11T15:04:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-3%D1%84-%D1%81%D0%B8%D0%BD%D0%B8%D0%B9-0-8-3-0%D0%B3-1"/>
+    <title>Сторожок М-3Ф@ СИНИЙ (0,8-3,0г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/57.png?v=1633596623"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631805124747</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">370.00</s:price>
+      <s:sku>М-3Ф@</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631804665995</id>
+    <published>2021-11-11T15:04:57+08:00</published>
+    <updated>2021-11-11T15:04:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-3%D1%84-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-0-8-3-0%D0%B3-1"/>
+    <title>Сторожок М-3Ф@ КРАСНЫЙ (0,8-3,0г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/56.png?v=1633596586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631804665995</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">370.00</s:price>
+      <s:sku>М-3Ф@</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631804272779</id>
+    <published>2021-11-11T15:04:57+08:00</published>
+    <updated>2021-11-11T15:04:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-3%D1%84-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-0-8-3-0%D0%B3-1"/>
+    <title>Сторожок М-3Ф@ ЗЕЛЕНЫЙ  (0,8-3,0г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/55.png?v=1633596539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            370.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631804272779</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">370.00</s:price>
+      <s:sku>М-3Ф@</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631803781259</id>
+    <published>2021-11-11T15:04:56+08:00</published>
+    <updated>2021-11-11T15:04:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-3%D1%84-%D1%81%D0%B8%D0%BD%D0%B8%D0%B9-0-8-3-0%D0%B3"/>
+    <title>Сторожок М-3Ф СИНИЙ (0,8-3,0г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/54.png?v=1633596486"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631803781259</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">350.00</s:price>
+      <s:sku>М-3Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631803224203</id>
+    <published>2021-11-11T15:04:56+08:00</published>
+    <updated>2021-11-11T15:04:56+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-3%D1%84-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-0-8-3-0%D0%B3"/>
+    <title>Сторожок М-3Ф КРАСНЫЙ (0,8-3,0г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/53.png?v=1633596445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631803224203</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">350.00</s:price>
+      <s:sku>М-3Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631802863755</id>
+    <published>2021-11-11T15:04:55+08:00</published>
+    <updated>2021-11-11T15:04:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-3%D1%84-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-0-8-3-0%D0%B3"/>
+    <title>Сторожок М-3Ф ЗЕЛЕНЫЙ (0,8-3,0г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/52.png?v=1633596409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631802863755</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">350.00</s:price>
+      <s:sku>М-3Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631802601611</id>
+    <published>2021-11-11T15:04:55+08:00</published>
+    <updated>2021-11-11T15:04:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-3%D1%84-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-0-8-3-0%D0%B3"/>
+    <title>Сторожок М-3Ф ЖЕЛТЫЙ (0,8-3,0г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/51.png?v=1633596372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631802601611</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">350.00</s:price>
+      <s:sku>М-3Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631801880715</id>
+    <published>2021-11-11T15:04:55+08:00</published>
+    <updated>2021-11-11T15:04:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-2%D1%84-%D1%81%D0%B8%D0%BD%D0%B8%D0%B9-0-5-1-7%D0%B3"/>
+    <title>Сторожок М-2Ф@ СИНИЙ (0,5-1,7г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/50.png?v=1633596303"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631801880715</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">350.00</s:price>
+      <s:sku>М-2Ф@</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631801389195</id>
+    <published>2021-11-11T15:04:54+08:00</published>
+    <updated>2021-11-11T15:04:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-2%D1%84-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-0-5-1-7%D0%B3"/>
+    <title>Сторожок М-2Ф@ ЗЕЛЕНЫЙ  (0,5-1,7г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/49.png?v=1633596256"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631801389195</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">350.00</s:price>
+      <s:sku>М-2Ф@</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631800963211</id>
+    <published>2021-11-11T15:04:54+08:00</published>
+    <updated>2021-11-11T15:04:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-2%D1%84-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-0-5-1-7%D0%B3"/>
+    <title>Сторожок М-2Ф@ ЖЕЛТЫЙ (0,5-1,7г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/45_4d372fd9-7d71-4679-9d24-d63ac970f5cf.png?v=1633596208"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            350.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631800963211</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">350.00</s:price>
+      <s:sku>М-2Ф@</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631800111243</id>
+    <published>2021-11-11T15:04:54+08:00</published>
+    <updated>2021-11-11T15:04:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-2%D1%84-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-0-5-1-7%D0%B3%D1%80"/>
+    <title>Сторожок М-2Ф КРАСНЫЙ (0,5-1,7гр),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/47.png?v=1633596129"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631800111243</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">325.00</s:price>
+      <s:sku>М-2Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631799685259</id>
+    <published>2021-11-11T15:04:53+08:00</published>
+    <updated>2021-11-11T15:04:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-2%D1%84-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-0-5-1-7%D0%B3%D1%80"/>
+    <title>Сторожок М-2Ф ЗЕЛЕНЫЙ (0,5-1,7гр),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/46.png?v=1633596091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631799685259</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">325.00</s:price>
+      <s:sku>М-2Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631798866059</id>
+    <published>2021-11-11T15:04:53+08:00</published>
+    <updated>2021-11-11T15:04:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-2%D1%84-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-0-5-1-7%D0%B3%D1%80"/>
+    <title>Сторожок М-2Ф ЖЕЛТЫЙ (0,5-1,7гр),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/45.png?v=1633596033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631798866059</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">325.00</s:price>
+      <s:sku>М-2Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631798341771</id>
+    <published>2021-11-11T15:04:52+08:00</published>
+    <updated>2021-11-11T15:04:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-1%D1%84-%D1%81%D0%B8%D0%BD%D0%B8%D0%B9-0-2-0-8%D0%B3-1"/>
+    <title>Сторожок М-1Ф@ СИНИЙ (0,2-0,8г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/44.png?v=1633595973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631798341771</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">325.00</s:price>
+      <s:sku>М-1Ф@</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631798079627</id>
+    <published>2021-11-11T15:04:50+08:00</published>
+    <updated>2021-11-11T15:04:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-1%D1%84-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-0-2-0-8%D0%B3-1"/>
+    <title>Сторожок М-1Ф@ КРАСНЫЙ (0,2-0,8г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/43.png?v=1633595936"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631798079627</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">325.00</s:price>
+      <s:sku>М-1Ф@</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631797522571</id>
+    <published>2021-11-11T15:04:49+08:00</published>
+    <updated>2021-11-11T15:04:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-1%D1%84-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-0-2-0-8%D0%B3"/>
+    <title>Сторожок М-1Ф@ ЗЕЛЕНЫЙ (0,2-0,8г),25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/42.png?v=1633595890"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            325.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631797522571</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">325.00</s:price>
+      <s:sku>М-1Ф@</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631797194891</id>
+    <published>2021-11-11T15:04:48+08:00</published>
+    <updated>2021-11-11T15:04:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-1%D1%84-%D1%81%D0%B8%D0%BD%D0%B8%D0%B9-0-2-0-8%D0%B3"/>
+    <title>Сторожок М-1Ф СИНИЙ (0,2-0,8г)10шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/41.png?v=1633595843"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631797194891</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>М-1Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631796801675</id>
+    <published>2021-11-11T15:04:48+08:00</published>
+    <updated>2021-11-11T15:04:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%BC-1%D1%84-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-0-2-0-8%D0%B3"/>
+    <title>Сторожок М-1Ф КРАСНЫЙ  (0,2-0,8г) 10шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/40.png?v=1633595803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631796801675</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>М-1Ф</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6631793885323</id>
+    <published>2021-11-11T15:04:48+08:00</published>
+    <updated>2021-11-11T15:04:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%BE%D0%BA-%D0%B2-4-%D0%B2%D0%B8%D1%82%D0%BE%D0%B9-%D0%BC%D0%B0%D0%BB%D0%B8%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-4-8%D0%B3%D1%80"/>
+    <title>Сторожок В-4 витой МАЛИНОВЫЙ  4-8гр,25шт/уп</title>
+    <s:type>Сторожок</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/39.png?v=1633595329"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Сторожок<br>
+        <strong>Price: </strong>
+            300.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6631793885323</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">300.00</s:price>
+      <s:sku>МАЛИНОВЫЙ</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

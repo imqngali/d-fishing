@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-12-03T20:33:30+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6684833120395</id>
+    <published>2021-12-03T20:33:30+08:00</published>
+    <updated>2021-12-03T20:33:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-057-70%D0%BC%D0%BC-18%D0%B3-10-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №057,70мм,18г,10#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0285_80402f3d-c8bf-484d-8425-771f72123411.jpg?v=1638534530"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684833120395</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№057-10#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684833087627</id>
+    <published>2021-12-03T20:33:30+08:00</published>
+    <updated>2021-12-03T20:33:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-057-70%D0%BC%D0%BC-18%D0%B3-2-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №057,70мм,18г,2#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0281_676f069a-33a6-46d4-accf-6fa6a02e03d1.jpg?v=1638533411"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684833087627</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№057-2#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684832628875</id>
+    <published>2021-12-03T20:33:29+08:00</published>
+    <updated>2021-12-03T20:33:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-057-70%D0%BC%D0%BC-18%D0%B3-7-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №057,70мм,18г,7#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0276_7926b5f2-07a0-4b08-b35b-6a0a65c7ecb7.jpg?v=1638534574"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684832628875</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№057-7#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684832202891</id>
+    <published>2021-12-03T20:33:29+08:00</published>
+    <updated>2021-12-03T20:33:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-057-50%D0%BC%D0%BC-6%D0%B3-2-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №057,50мм,6г,2#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0271_f93b6e49-702f-43b0-b5db-90a4fa666191.jpg?v=1638534579"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684832202891</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№057-2#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684831842443</id>
+    <published>2021-12-03T20:33:28+08:00</published>
+    <updated>2021-12-03T20:33:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-057-50%D0%BC%D0%BC-6%D0%B3-5-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №057,50мм,6г,5#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0267_219558b4-b9fe-4fe3-8cc8-df939a8b95f2.jpg?v=1638533285"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            91.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684831842443</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">91.00</s:price>
+      <s:sku>№057-5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684831547531</id>
+    <published>2021-12-03T20:33:28+08:00</published>
+    <updated>2021-12-03T20:33:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-057-50%D0%BC%D0%BC-6%D0%B3-6-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №057,50мм,6г,6#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0263_19adb8f6-9c19-4833-bfc9-aac4330e089a.jpg?v=1638533242"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684831547531</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№057-6#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684831219851</id>
+    <published>2021-12-03T20:33:27+08:00</published>
+    <updated>2021-12-03T20:33:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-057-50%D0%BC%D0%BC-6%D0%B3-7-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №057,50мм,6г,7#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0259_452fa0f3-8811-4984-b045-841a905e90e5.jpg?v=1638533206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684831219851</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№057-7#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684830892171</id>
+    <published>2021-12-03T20:33:27+08:00</published>
+    <updated>2021-12-03T20:33:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-057-50%D0%BC%D0%BC-6%D0%B3-9-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №057,50мм,6г,9#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0255_93e2aab8-f577-44f2-831a-5f1b831ee415.jpg?v=1638533175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684830892171</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№057-9#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684825354379</id>
+    <published>2021-12-03T20:33:27+08:00</published>
+    <updated>2021-12-03T20:33:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-057-70%D0%BC%D0%BC-18%D0%B3-5-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №057,70мм,18г,5#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0250_f6273df2-48ca-415a-bfaf-65d2b4482821.jpg?v=1638533117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684825354379</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№057-5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684824993931</id>
+    <published>2021-12-03T20:33:26+08:00</published>
+    <updated>2021-12-03T20:33:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-057-60%D0%BC%D0%BC-10%D0%B3-9-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №057,60мм,10г,9#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0245_d03df994-d5ba-4b42-a7fa-9aa2076b68c0.jpg?v=1638533073"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684824993931</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№057-9#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684824764555</id>
+    <published>2021-12-03T20:33:25+08:00</published>
+    <updated>2021-12-03T20:33:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-057-60%D0%BC%D0%BC-10%D0%B3-1-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №057,60мм,10г,1#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0240_4ce10748-4282-4041-a076-9572c99fe8c1.jpg?v=1638534589"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684824764555</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№057-1#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684823879819</id>
+    <published>2021-12-03T20:33:25+08:00</published>
+    <updated>2021-12-03T20:33:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-051-70%D0%BC%D0%BC-18%D0%B3-2-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №051,70мм,18г,2#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0235_baff0efe-e5f2-4026-b8f5-47dd04ba2730.jpg?v=1638534594"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684823879819</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№051-2#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684823584907</id>
+    <published>2021-12-03T20:33:25+08:00</published>
+    <updated>2021-12-03T20:33:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-051-70%D0%BC%D0%BC-18%D0%B3-3-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №051,70мм,18г,3#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0230_f52124e6-47a4-48b1-bdee-b4a68275e179.jpg?v=1638532938"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684823584907</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№051-4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684823388299</id>
+    <published>2021-12-03T20:33:24+08:00</published>
+    <updated>2021-12-03T20:33:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-051-70%D0%BC%D0%BC-18%D0%B3-4-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №051,70мм,18г,4#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0225_ba350d24-585a-46cc-9a0c-86bec842a095.jpg?v=1638532902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684823388299</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№051-4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684822732939</id>
+    <published>2021-12-03T20:33:24+08:00</published>
+    <updated>2021-12-03T20:33:24+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-051-70%D0%BC%D0%BC-18%D0%B3-9-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №051,70мм,18г,9#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0220_0fe333ce-0bcf-4f5c-93b6-2a40f31ece7c.jpg?v=1638532834"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684822732939</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№051-9#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684822274187</id>
+    <published>2021-12-03T20:33:23+08:00</published>
+    <updated>2021-12-03T20:33:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-051-70%D0%BC%D0%BC-18%D0%B3-7-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №051,70мм,18г,7#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0215_4036d756-fb29-48b5-8e84-14423204fcb1.jpg?v=1638534606"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684822274187</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№051-7#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684821815435</id>
+    <published>2021-12-03T20:33:23+08:00</published>
+    <updated>2021-12-03T20:33:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-051-45%D0%BC%D0%BC-6%D0%B3-10-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №051,45мм,6г,10#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0210_31795ac3-b05e-47fd-bdce-f9e1bdcf60ae.jpg?v=1638534611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684821815435</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№051-10#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684821454987</id>
+    <published>2021-12-03T20:33:22+08:00</published>
+    <updated>2021-12-03T20:33:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-051-45%D0%BC%D0%BC-6%D0%B3-5-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №051,45мм,6г,5#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0205_35d3ee95-b131-48a0-b2cd-87000e2f6d6f.jpg?v=1638532672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684821454987</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№051-5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684820865163</id>
+    <published>2021-12-03T20:33:22+08:00</published>
+    <updated>2021-12-03T20:33:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-033-55%D0%BC%D0%BC-10%D0%B3-8-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №033,55мм,10г,8#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0201_57b1f992-178e-4d0f-af82-c5d59f08c1f4.jpg?v=1638532592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684820865163</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№033-8#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684809691275</id>
+    <published>2021-12-03T20:33:21+08:00</published>
+    <updated>2021-12-03T20:33:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-033-55%D0%BC%D0%BC-10%D0%B3-4-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №033,55мм,10г,4#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0196_57f1a2a6-8ba1-4d49-aba7-b813fe3bdf54.jpg?v=1638532543"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684809691275</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№033-4#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684807037067</id>
+    <published>2021-12-03T20:33:21+08:00</published>
+    <updated>2021-12-03T20:33:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-033-55%D0%BC%D0%BC-10%D0%B3-1-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №033,55мм,10г,1#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0191_ee8429aa-b827-4c9e-b212-4955e0d3cc34.jpg?v=1638532392"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684807037067</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№033-1#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684804415627</id>
+    <published>2021-12-03T20:33:20+08:00</published>
+    <updated>2021-12-03T20:33:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-033-60%D0%BC%D0%BC-12%D0%B3-10-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №033,60мм,12г,10#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0186_54b69d82-5412-4628-9704-c5570bc1df1c.jpg?v=1638532352"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684804415627</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№033-10#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684796846219</id>
+    <published>2021-12-03T20:33:20+08:00</published>
+    <updated>2021-12-03T20:33:20+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-033-60%D0%BC%D0%BC-12%D0%B3-1-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №033,60мм,12г,1#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0181_da173bee-5e26-4ba4-8f19-3c386743f7aa.jpg?v=1638532309"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684796846219</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№033-1#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684647686283</id>
+    <published>2021-12-03T20:33:19+08:00</published>
+    <updated>2021-12-03T20:33:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-033-75%D0%BC%D0%BC-23%D0%B3-5-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №033,75мм,23г,5#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0176_02f63503-c8f6-4acd-94e7-468ed33c34bf.jpg?v=1638525375"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684647686283</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№033-5#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6684647391371</id>
+    <published>2021-12-03T20:33:19+08:00</published>
+    <updated>2021-12-03T20:33:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%B0%D0%BD%D1%81%D0%B8%D1%80-%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-033-65%D0%BC%D0%BC-16%D0%B3-8-10%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Балансир набор №033,65мм,16г,8#,10шт/уп</title>
+    <s:type>Балансир набор</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0172_86e4335e-cf51-4280-bc9a-b45458467b1f.jpg?v=1638525314"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Балансир набор<br>
+        <strong>Price: </strong>
+            910.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6684647391371</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">910.00</s:price>
+      <s:sku>№033-8#</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

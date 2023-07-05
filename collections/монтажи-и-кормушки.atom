@@ -1,0 +1,1096 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6%D0%B8-%D0%B8-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%B8.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-02-26T16:17:13+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6573498859659</id>
+    <published>2022-02-26T16:17:13+08:00</published>
+    <updated>2022-02-26T16:17:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%B0-%D0%B0%D1%80%D0%B1%D1%83%D0%B7-5%D1%88%D1%82-%D1%83%D0%BF"/>
+    <title>Кормушка &quot;арбуз&quot;</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210519_173756.jpg?v=1621596235"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573498859659</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">13.00</s:price>
+      <s:sku>арбуз</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6748265906315</id>
+    <published>2022-02-10T19:46:26+08:00</published>
+    <updated>2022-02-10T19:46:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%B5%D0%BA-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D0%B4%D0%B5%D1%84%D0%B5%D0%BA%D1%82-30g-40g-50g-60g-%D0%BF%D1%80%D0%B5%D1%81%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0"/>
+    <title>Набор кормушек  с дефиктом&quot;Метод&quot; 30g 40g 50g 60g+ прессформа</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220210163932.jpg?v=1644493609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6748265906315</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">100.00</s:price>
+      <s:sku>30-40g-50g-60g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6748260204683</id>
+    <published>2022-02-10T19:45:19+08:00</published>
+    <updated>2022-02-10T19:45:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%B5%D0%BA-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D0%B5%D1%81%D0%B0-5%D1%88%D1%82-%D1%83%D0%BF-%D0%BF%D1%80%D0%B5%D1%81%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0"/>
+    <title>Набор кормушек с дефектом&quot;Метод&quot; 15g 20g 25g 35g+ прессформа</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220210163906.jpg?v=1644493445"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6748260204683</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">100.00</s:price>
+      <s:sku>15-20g-25g-35g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574736474251</id>
+    <published>2022-02-10T12:25:38+08:00</published>
+    <updated>2022-02-10T12:25:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%BA%D1%80%D1%83%D1%87%D0%B8%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C-%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BE%D1%80%D0%BE%D0%BC%D1%8B%D1%81%D0%BB%D0%BE%D0%BC-%D0%B8-%D0%BA%D1%80%D1%8E%D1%87%D0%BA%D0%B0%D0%BC%D0%B8"/>
+    <title>Антизакручиватель оснащенный коромыслом и крючками</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_193901.jpg?v=1621690300"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            20.51
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574736474251</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">20.51</s:price>
+      <s:sku>EL-135</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601611575435</id>
+    <published>2021-07-17T19:27:25+08:00</published>
+    <updated>2021-07-17T19:27:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%B0-%D1%81-%D0%BA%D1%80%D1%8B%D1%88%D0%BA%D0%BE%D0%B9-%D1%81%D0%B5%D1%80%D1%8B%D0%B9-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D0%BA-%D0%B4%D0%BB%D1%8F-%D1%80%D1%8B%D0%B1%D1%8B-agp-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%B0-%D1%80%D1%8B%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F"/>
+    <title>Кормушка с крышкой серый металлик для рыбы AGP Кормушка рыболовная</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210717_141512.jpg?v=1626521480"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            25.64
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601611575435</id>
+      <title>Маленькие</title>
+      <s:price currency="RUB">25.64</s:price>
+      <s:sku>Маленькие</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601611575435</id>
+      <title>Средние</title>
+      <s:price currency="RUB">25.64</s:price>
+      <s:sku>Средние</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601611575435</id>
+      <title>Большие</title>
+      <s:price currency="RUB">25.64</s:price>
+      <s:sku>Большие</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601605251211</id>
+    <published>2021-07-17T19:19:53+08:00</published>
+    <updated>2021-07-17T19:19:53+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%B5%D0%BA-%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B5-%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D1%8B%D0%B5-30%D1%88%D1%82-%D1%83%D0%BF-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>бусины для кормушек Маленькие твердые 30шт/уп</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210717_141305.jpg?v=1626520824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            18.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601605251211</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">18.28</s:price>
+      <s:sku>твердые</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601603874955</id>
+    <published>2021-07-17T19:18:17+08:00</published>
+    <updated>2021-07-17T19:18:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%B5%D0%BA-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B8%D0%B5-%D0%BC%D1%8F%D0%B3%D0%BA%D0%B8%D0%B5-30%D1%88%D1%82-%D1%83%D0%BF-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>бусины для кормушек большие мягкие 30шт/уп</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210717_141247.jpg?v=1626520711"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            20.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601603874955</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">20.33</s:price>
+      <s:sku>большие</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601598632075</id>
+    <published>2021-07-17T19:17:54+08:00</published>
+    <updated>2021-07-17T19:17:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D1%83%D1%81%D0%B8%D0%BD%D1%8B-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%B5%D0%BA-%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B5"/>
+    <title>бусины для кормушек Маленькие мягкие 30шт/уп</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210717_141313.jpg?v=1626520595"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            18.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601598632075</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">18.28</s:price>
+      <s:sku>Маленькие</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601595879563</id>
+    <published>2021-07-17T19:11:57+08:00</published>
+    <updated>2021-07-17T19:11:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0-%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B8%D0%BA%D0%BE%D1%80%D0%BC%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F"/>
+    <title>Ракета Новый квадратный прикормочная пластиковая</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210717_141020.jpg?v=1626520345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            71.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601595879563</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">71.78</s:price>
+      <s:sku>большой</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601595715723</id>
+    <published>2021-07-17T19:11:45+08:00</published>
+    <updated>2021-07-17T19:11:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D0%BF%D1%80%D0%B8%D0%BA%D0%BE%D1%80%D0%BC%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F-1"/>
+    <title>Ракета большой прикормочная пластиковая</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210717_140944.jpg?v=1626520291"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601595715723</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>большой</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573416448139</id>
+    <published>2021-07-15T20:57:01+08:00</published>
+    <updated>2021-07-15T20:57:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0-%D0%BF%D1%80%D0%B8%D0%BA%D0%BE%D1%80%D0%BC%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F"/>
+    <title>Ракета Маленький прикормочная пластиковая</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0059_c077805f-03b0-48a1-9aab-95c5904ddb3d.jpg?v=1621429409"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            47.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573416448139</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">47.00</s:price>
+      <s:sku>Ракета</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576896966795</id>
+    <published>2021-05-31T13:17:16+08:00</published>
+    <updated>2021-05-31T13:17:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%BA%D1%80%D1%83%D1%87%D0%B8%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-15%D1%81%D0%BC"/>
+    <title>Антизакручиватель Зеленый пластиковый 15см</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20210531101349.jpg?v=1622438229"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            4.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576896966795</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">4.73</s:price>
+      <s:sku>15cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576896770187</id>
+    <published>2021-05-31T13:15:49+08:00</published>
+    <updated>2021-05-31T13:15:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%BA%D1%80%D1%83%D1%87%D0%B8%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-25%D1%81%D0%BC"/>
+    <title>Антизакручиватель Зеленый пластиковый 20см</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20210531101358.jpg?v=1622438206"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            4.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576896770187</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">4.73</s:price>
+      <s:sku>20cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573417136267</id>
+    <published>2021-05-28T17:29:13+08:00</published>
+    <updated>2021-05-28T17:29:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%BA%D1%80%D1%83%D1%87%D0%B8%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-15%D1%81%D0%BC"/>
+    <title>Антизакручиватель Черный пластиковый 15см</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0475_ba661fc1-381d-4dab-8593-eeee0f0e5de9.jpg?v=1622194142"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            4.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573417136267</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">4.73</s:price>
+      <s:sku>15cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573417103499</id>
+    <published>2021-05-28T17:28:49+08:00</published>
+    <updated>2021-05-28T17:28:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D0%BD%D1%82%D0%B8%D0%B7%D0%B0%D0%BA%D1%80%D1%83%D1%87%D0%B8%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D1%8B%D0%B9-25%D1%81%D0%BC"/>
+    <title>Антизакручиватель Черный пластиковый 20см</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0473_e339ce1c-f99a-42d0-ae71-c4b05a815ee2.jpg?v=1622194161"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            4.73
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573417103499</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">4.73</s:price>
+      <s:sku>20cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576208674955</id>
+    <published>2021-05-28T17:19:23+08:00</published>
+    <updated>2021-05-28T17:19:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B5%D1%82%D0%BA%D0%B8-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%B0"/>
+    <title>Сетки Кормушка</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0318_322d00cd-fd62-4d91-a2db-0b8190d826ac.jpg?v=1622193504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            26.03 - 35.50
+            <a href="https://vitfishing.store/products/%D1%81%D0%B5%D1%82%D0%BA%D0%B8-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%B0">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576208674955</id>
+      <title>40cm</title>
+      <s:price currency="RUB">26.03</s:price>
+      <s:sku>40cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576208674955</id>
+      <title>60cm</title>
+      <s:price currency="RUB">31.55</s:price>
+      <s:sku>60cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576208674955</id>
+      <title>80cm</title>
+      <s:price currency="RUB">35.50</s:price>
+      <s:sku>80cm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576888447115</id>
+    <published>2021-05-28T16:56:42+08:00</published>
+    <updated>2021-05-28T16:56:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D0%BF%D1%83%D0%BB%D1%8F"/>
+    <title>Кормушка Зеленый &quot;пуля&quot;</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210519_173525.jpg?v=1622192360"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            33.13 - 39.44
+            <a href="https://vitfishing.store/products/%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%B0-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D0%BF%D1%83%D0%BB%D1%8F">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576888447115</id>
+      <title>30g</title>
+      <s:price currency="RUB">33.13</s:price>
+      <s:sku>30g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576888447115</id>
+      <title>40g</title>
+      <s:price currency="RUB">33.13</s:price>
+      <s:sku>40g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576888447115</id>
+      <title>50g</title>
+      <s:price currency="RUB">33.13</s:price>
+      <s:sku>50g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576888447115</id>
+      <title>60g</title>
+      <s:price currency="RUB">33.13</s:price>
+      <s:sku>60g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576888447115</id>
+      <title>70g</title>
+      <s:price currency="RUB">33.13</s:price>
+      <s:sku>70g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576888447115</id>
+      <title>80g</title>
+      <s:price currency="RUB">39.44</s:price>
+      <s:sku>80g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576888447115</id>
+      <title>90g</title>
+      <s:price currency="RUB">39.44</s:price>
+      <s:sku>90g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576888447115</id>
+      <title>100g</title>
+      <s:price currency="RUB">39.44</s:price>
+      <s:sku>100g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573416743051</id>
+    <published>2021-05-28T16:54:07+08:00</published>
+    <updated>2021-05-28T16:54:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%B0%D0%BA%D0%B5%D1%82%D0%B0-%D0%BF%D1%80%D0%B8%D0%BA%D0%BE%D1%80%D0%BC%D0%BE%D1%87%D0%BD%D0%B0%D1%8F-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D0%B0%D1%8F-%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F"/>
+    <title>Коромысло двумя крючками 10шт</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_194112.jpg?v=1622192066"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            132.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573416743051</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">132.00</s:price>
+      <s:sku>EL-135</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574735425675</id>
+    <published>2021-05-28T16:52:32+08:00</published>
+    <updated>2021-05-28T16:52:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6-%D1%81%D0%B5%D1%82%D1%87%D0%B0%D1%82%D1%8B%D0%B9-%D0%B4%D0%BB%D1%8F-%D0%BA%D0%BE%D1%80%D0%BC%D0%B0"/>
+    <title>Монтаж Сетчатый для корма</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_194618.jpg?v=1621689499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            82.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574735425675</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">82.00</s:price>
+      <s:sku>EL-46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573409730699</id>
+    <published>2021-05-28T16:52:14+08:00</published>
+    <updated>2021-05-28T16:52:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6-%D0%BD%D0%B0-%D0%BC%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%BB%D0%B5-%D1%81-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%BE%D0%B9-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4"/>
+    <title>Монтаж Сетчатый для корма 9шт/уп</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_194611.jpg?v=1621689308"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            157.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573409730699</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">157.00</s:price>
+      <s:sku>EL-43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573495124107</id>
+    <published>2021-05-21T19:44:22+08:00</published>
+    <updated>2021-05-21T19:44:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6-%D1%83%D0%B1%D0%B8%D0%B9%D1%86%D0%B0-%D1%82%D0%BE%D0%BB%D1%81%D1%82%D0%BE%D0%BB%D0%BE%D0%B1%D0%B8%D0%BA%D0%B0"/>
+    <title>Монтаж Убийца толстолобика</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210519_174708.jpg?v=1621429891"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            61.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573495124107</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">61.00</s:price>
+      <s:sku>EL-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573497057419</id>
+    <published>2021-05-21T19:42:22+08:00</published>
+    <updated>2021-05-21T19:42:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6-%D0%BD%D0%B0-%D0%BC%D0%BE%D1%82%D0%BE%D0%B2%D0%B8%D0%BB%D0%B5-%D1%81-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%BE%D0%B9-%D0%BB%D1%8B%D0%B6%D0%B0"/>
+    <title>Монтаж на мотовиле с кормушкой &quot;лыжа&quot;</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210519_175059.jpg?v=1621430502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            51.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573497057419</id>
+      <title>20g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>20g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573497057419</id>
+      <title>30g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>30g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573497057419</id>
+      <title>40g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>40g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573497057419</id>
+      <title>50g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>50g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573497057419</id>
+      <title>60g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>60g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573497057419</id>
+      <title>70g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>70g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573497057419</id>
+      <title>80g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>80g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573497057419</id>
+      <title>90g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>90g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573497057419</id>
+      <title>100g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>100g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573494501515</id>
+    <published>2021-05-21T19:38:40+08:00</published>
+    <updated>2021-05-21T19:38:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6-vitfishing-%D1%81-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%BE%D0%B9-%D0%BF%D1%83%D0%BB%D1%8F"/>
+    <title>Монтаж Vitfishing с Зеленый кормушкой &quot;пуля&quot;</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210519_175004.jpg?v=1621596903"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            51.27 - 56.40
+            <a href="https://vitfishing.store/products/%D0%BC%D0%BE%D0%BD%D1%82%D0%B0%D0%B6-vitfishing-%D1%81-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%BA%D0%BE%D0%B9-%D0%BF%D1%83%D0%BB%D1%8F">(8 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573494501515</id>
+      <title>30g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>30g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573494501515</id>
+      <title>40g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>40g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573494501515</id>
+      <title>50g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>50g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573494501515</id>
+      <title>60g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>60g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573494501515</id>
+      <title>70g</title>
+      <s:price currency="RUB">51.27</s:price>
+      <s:sku>70g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573494501515</id>
+      <title>80g</title>
+      <s:price currency="RUB">56.40</s:price>
+      <s:sku>80g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573494501515</id>
+      <title>90g</title>
+      <s:price currency="RUB">56.40</s:price>
+      <s:sku>90g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573494501515</id>
+      <title>100g</title>
+      <s:price currency="RUB">56.40</s:price>
+      <s:sku>100g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573501448331</id>
+    <published>2021-05-21T19:34:45+08:00</published>
+    <updated>2021-05-21T19:34:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%B5%D0%BA-%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D0%B5%D1%81%D0%B0-4%D1%88%D1%82-%D1%83%D0%BF-%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BA%D0%B8"/>
+    <title>Набор кормушек  разного веса 4шт/уп + Поплавки</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0324_c2469b08-9a7c-4791-9d5f-a093ec12292a.jpg?v=1621431927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            82.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573501448331</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">82.00</s:price>
+      <s:sku>EL-122</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573416415371</id>
+    <published>2021-05-21T19:19:48+08:00</published>
+    <updated>2021-05-21T19:19:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%BA%D0%BE%D1%80%D0%BC%D1%83%D1%88%D0%B5%D0%BA-%D0%BC%D0%B5%D1%82%D0%BE%D0%B4-%D1%80%D0%B0%D0%B7%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B2%D0%B5%D1%81%D0%B0-4%D1%88%D1%82-%D1%83%D0%BF-%D0%BF%D1%80%D0%B5%D1%81%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0"/>
+    <title>Набор кормушек &quot;Метод&quot; разного веса 4шт/уп + прессформа</title>
+    <s:type>кормушки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210519_173933.jpg?v=1621431483"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>кормушки<br>
+        <strong>Price: </strong>
+            165.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573416415371</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">165.00</s:price>
+      <s:sku>20g-30g-40g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

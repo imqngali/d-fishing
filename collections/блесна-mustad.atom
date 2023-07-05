@@ -1,0 +1,911 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-12-10T18:08:22+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6690704326795</id>
+    <published>2021-12-10T18:08:22+08:00</published>
+    <updated>2021-12-10T18:08:22+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%BA%D0%B0%D1%81%D1%82%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80-24g"/>
+    <title>Блесна Кастмастер 24g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/24g.jpg?v=1639130851"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6690704326795</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>24g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6690702819467</id>
+    <published>2021-12-10T18:08:21+08:00</published>
+    <updated>2021-12-10T18:08:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%BA%D0%B0%D1%81%D1%82%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80-14g-1"/>
+    <title>Блесна Кастмастер 14g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/14g.jpg?v=1639130769"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6690702819467</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>14g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6690703933579</id>
+    <published>2021-12-10T18:07:12+08:00</published>
+    <updated>2021-12-10T18:07:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%BA%D0%B0%D1%81%D1%82%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80-21g"/>
+    <title>Блесна Кастмастер 21g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/21g.jpg?v=1639130826"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6690703933579</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>21g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6690703343755</id>
+    <published>2021-12-10T18:06:44+08:00</published>
+    <updated>2021-12-10T18:06:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%BA%D0%B0%D1%81%D1%82%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80-18g"/>
+    <title>Блесна Кастмастер 18g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/18g.jpg?v=1639130802"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6690703343755</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>18g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6690701574283</id>
+    <published>2021-12-10T18:05:21+08:00</published>
+    <updated>2021-12-10T18:05:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%BA%D0%B0%D1%81%D1%82%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80-10-5g"/>
+    <title>Блесна Кастмастер 10.5g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/10.5g.jpg?v=1639130719"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6690701574283</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>10.5g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6690699608203</id>
+    <published>2021-12-10T18:04:48+08:00</published>
+    <updated>2021-12-10T18:04:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-%D0%BA%D0%B0%D1%81%D1%82%D0%BC%D0%B0%D1%81%D1%82%D0%B5%D1%80-7-0g"/>
+    <title>Блесна Кастмастер 7.0g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/7.0g.jpg?v=1639130609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6690699608203</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>7.0g</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669297418379</id>
+    <published>2021-11-19T13:45:13+08:00</published>
+    <updated>2021-11-19T13:45:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-51"/>
+    <title>Блесна Mustad 3шт/уп №50-2.0g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0582.jpg?v=1637234512"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669297418379</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669296566411</id>
+    <published>2021-11-19T13:45:12+08:00</published>
+    <updated>2021-11-19T13:45:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-50"/>
+    <title>Блесна Mustad 3шт/уп №49-2.3g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0580.jpg?v=1637234487"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669296566411</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №49</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669296107659</id>
+    <published>2021-11-19T13:45:12+08:00</published>
+    <updated>2021-11-19T13:45:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-49"/>
+    <title>Блесна Mustad 3шт/уп №48-3.4g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0578_76dfc208-9c30-415d-9ded-d94194cb65df.jpg?v=1637234468"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669296107659</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №48</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669295747211</id>
+    <published>2021-11-19T13:45:12+08:00</published>
+    <updated>2021-11-19T13:45:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-48"/>
+    <title>Блесна Mustad 3шт/уп №47-5.2g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0576_0c4c5352-aa3b-4537-b89b-c40b3cf6087e.jpg?v=1637234455"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669295747211</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №47</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669288669323</id>
+    <published>2021-11-19T13:45:11+08:00</published>
+    <updated>2021-11-19T13:45:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-47"/>
+    <title>Блесна Mustad 3шт/уп №46-2.8g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0574_40bd708b-2517-47ae-a110-4f397c967e93.jpg?v=1637234438"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669288669323</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №46</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669288046731</id>
+    <published>2021-11-19T13:45:11+08:00</published>
+    <updated>2021-11-19T13:45:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-46"/>
+    <title>Блесна Mustad 3шт/уп №45-3.0g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0572_408b440d-b05f-4714-8916-d43a686bbda2.jpg?v=1637234190"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669288046731</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669287325835</id>
+    <published>2021-11-19T13:45:10+08:00</published>
+    <updated>2021-11-19T13:45:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-45"/>
+    <title>Блесна Mustad 3шт/уп №44-5.5g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0570.jpg?v=1637234171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669287325835</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №44</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669286277259</id>
+    <published>2021-11-19T13:45:10+08:00</published>
+    <updated>2021-11-19T13:45:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-44"/>
+    <title>Блесна Mustad 3шт/уп №43-6.8g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0568_d125f197-eb65-41df-ad38-51a890e6910b.jpg?v=1637234144"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669286277259</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №43</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669285294219</id>
+    <published>2021-11-19T13:45:09+08:00</published>
+    <updated>2021-11-19T13:45:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-43"/>
+    <title>Блесна Mustad 3шт/уп №42-3.3g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0566_b357f736-f3e0-4bcf-9db9-22823f006e02.jpg?v=1637234119"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669285294219</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №42</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669271007371</id>
+    <published>2021-11-19T13:45:09+08:00</published>
+    <updated>2021-11-19T13:45:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-42"/>
+    <title>Блесна Mustad 3шт/уп №41-5.7g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0564_a55661e3-de9d-441f-a662-23bde3cfca19.jpg?v=1637233638"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669271007371</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №41</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669270450315</id>
+    <published>2021-11-19T13:45:08+08:00</published>
+    <updated>2021-11-19T13:45:08+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-41"/>
+    <title>Блесна Mustad 3шт/уп №40-6.5g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0562_79c3b196-0fe1-4437-8de6-378a3df84a0c.jpg?v=1637233622"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669270450315</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669270057099</id>
+    <published>2021-11-19T13:45:07+08:00</published>
+    <updated>2021-11-19T13:45:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-40"/>
+    <title>Блесна Mustad 3шт/уп №39-6.5g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0560_273e9eec-81e1-4628-ad79-c2061a3ea97c.jpg?v=1637233601"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669270057099</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №39</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669269565579</id>
+    <published>2021-11-19T13:45:06+08:00</published>
+    <updated>2021-11-19T13:45:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-39"/>
+    <title>Блесна Mustad 3шт/уп №38-2.8g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0558_8ff3213a-3079-4096-b1d0-0309b06e02b9.jpg?v=1637233584"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669269565579</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №38</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669268746379</id>
+    <published>2021-11-19T13:45:05+08:00</published>
+    <updated>2021-11-19T13:45:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-38"/>
+    <title>Блесна Mustad 3шт/уп №37-3.3g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0556_f7e2d3e5-9809-472b-8a3f-682b720c8a41.jpg?v=1637233569"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669268746379</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №37</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669268320395</id>
+    <published>2021-11-19T13:45:04+08:00</published>
+    <updated>2021-11-19T13:45:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-37"/>
+    <title>Блесна Mustad 3шт/уп №36-3.7g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0554_eac95197-ed3a-452d-a4b4-704d45e77c47.jpg?v=1637233555"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669268320395</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №36</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669267894411</id>
+    <published>2021-11-19T13:45:04+08:00</published>
+    <updated>2021-11-19T13:45:04+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-36"/>
+    <title>Блесна Mustad 3шт/уп №35-6.8g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0552_2de6d805-9f6b-47fc-a547-07c5f5416d15.jpg?v=1637233539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669267894411</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669267402891</id>
+    <published>2021-11-19T13:45:03+08:00</published>
+    <updated>2021-11-19T13:45:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-35"/>
+    <title>Блесна Mustad 3шт/уп №34-3.8g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0550_9d11c487-5c99-4788-8761-264ffb79322d.jpg?v=1637233523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669267402891</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №34</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669267009675</id>
+    <published>2021-11-19T13:45:03+08:00</published>
+    <updated>2021-11-19T13:45:03+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-34"/>
+    <title>Блесна Mustad 3шт/уп №33-5.4g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0548_0e2031b1-d3ab-4fef-be69-646947dcb6e8.jpg?v=1637233505"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669267009675</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №33</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6669266485387</id>
+    <published>2021-11-19T13:45:02+08:00</published>
+    <updated>2021-11-19T13:45:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B0-mustad-3%D1%88%D1%82-%D1%83%D0%BF-33"/>
+    <title>Блесна Mustad 3шт/уп №32-3.0g</title>
+    <s:type>Блесна Mustad</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0546_6a117d4e-2e02-4de3-8cdf-6e36927a9497.jpg?v=1637233485"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Блесна Mustad<br>
+        <strong>Price: </strong>
+            120.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6669266485387</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">120.00</s:price>
+      <s:sku>Mustad №32</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

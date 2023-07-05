@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-12-30T13:48:52+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6620994371723</id>
+    <published>2021-12-30T13:48:52+08:00</published>
+    <updated>2021-12-30T13:48:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-%D0%B1%D0%B0%D0%BB%D0%B0%D0%BB%D0%B0%D0%B9%D0%BA%D0%B0-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD"/>
+    <title>Удочка   зимняя «Балалайка» телефон</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0579.jpg?v=1632378296"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            37.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620994371723</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>Балалайка</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6626685059211</id>
+    <published>2021-12-21T11:25:31+08:00</published>
+    <updated>2021-12-21T11:25:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%81%D1%82%D0%B0%D0%B2%D0%BA%D0%B0-%D0%BF%D0%BE%D0%B4-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8E%D1%8E-%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D1%83"/>
+    <title>Подставка под зимнюю удочку</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210925173813.png?v=1632573516"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626685059211</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>Подставка</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6656213745803</id>
+    <published>2021-11-07T16:13:48+08:00</published>
+    <updated>2021-11-07T16:13:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%84%D0%B8%D0%B4%D0%B5%D1%80-%D0%B7%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9-%D1%81%D0%B8%D0%BD%D1%8C-3-%D1%85%D0%BB%D1%8B%D1%81%D1%82%D0%B0-65-%D1%81%D0%BC"/>
+    <title>Фидер зимний синь, 3 хлыста, 65 см</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0925_1cd89c84-0565-44a1-9590-a2f1cc1d3fed.jpg?v=1636272814"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            225.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6656213745803</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">225.00</s:price>
+      <s:sku>65 см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6656213680267</id>
+    <published>2021-11-07T16:12:59+08:00</published>
+    <updated>2021-11-07T16:12:59+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%84%D0%B8%D0%B4%D0%B5%D1%80-%D0%B7%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9-%D1%81%D0%B8%D0%BD%D1%8C-3-%D1%85%D0%BB%D1%8B%D1%81%D1%82%D0%B0-60-%D1%81%D0%BC"/>
+    <title>Фидер зимний синь, 3 хлыста, 60 см</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0925_e12c2720-9d2f-4eb5-a340-8c0f08599d46.jpg?v=1636272754"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            210.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6656213680267</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">210.00</s:price>
+      <s:sku>60 см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6656213418123</id>
+    <published>2021-11-07T16:12:01+08:00</published>
+    <updated>2021-11-07T16:12:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%84%D0%B8%D0%B4%D0%B5%D1%80-%D0%B7%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9-%D1%81%D0%B8%D0%BD%D1%8C-3-%D1%85%D0%BB%D1%8B%D1%81%D1%82%D0%B0-50-%D1%81%D0%BC"/>
+    <title>Фидер зимний синь, 3 хлыста, 50 см</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0925_b0234d18-701f-49b7-9de8-61f5314ec875.jpg?v=1636272705"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6656213418123</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">195.00</s:price>
+      <s:sku>50 см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6621881925771</id>
+    <published>2021-09-25T22:13:01+08:00</published>
+    <updated>2021-09-25T22:13:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-%D0%B4%D0%BB%D1%8F-%D0%B1%D0%BB%D0%B5%D1%81%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F-d-55%D0%BC%D0%BC-%D1%81-%D0%BF%D0%BB%D0%B0%D1%81%D1%82%D0%B8%D0%BA%D0%BE%D0%B2%D0%BE%D0%B9-%D1%80%D1%83%D1%87%D0%BA%D0%BE%D0%B9-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F"/>
+    <title>Удочка зимняя зеленая d-55мм с пластиковой ручкой</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0272_da69c845-91d3-4f98-aef9-e6dc7ca3c8d3.jpg?v=1632578252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            46.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6621881925771</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">46.00</s:price>
+      <s:sku>пластиковой</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6626694660235</id>
+    <published>2021-09-25T21:20:18+08:00</published>
+    <updated>2021-09-25T21:20:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%B4%D0%BB%D1%8F-%D0%B7%D0%B8%D0%BC%D0%BD%D0%B5%D0%B9-%D1%80%D1%8B%D0%B1%D0%B0%D0%BB%D0%BA%D0%B8-ice-master-%D0%B2-%D0%B1%D0%BB%D0%B8%D1%81%D1%82%D0%B5%D1%80%D0%B5-1"/>
+    <title>Набор для зимней рыбалки Ice Master в блистере №1</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210925181206.png?v=1632575610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626694660235</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>№1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6625989656715</id>
+    <published>2021-09-25T19:33:25+08:00</published>
+    <updated>2021-09-25T19:33:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-hfb-5df-75%D0%BC%D0%BC-%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9-%D1%80%D1%83%D1%87%D0%BA%D0%BE%D0%B9-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F"/>
+    <title>Удочка зимняя HFB-5DF 75мм  неопреновой ручкой, зеленая</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0278.jpg?v=1632578298"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6625989656715</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">105.00</s:price>
+      <s:sku>HFB-5DF</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6621881499787</id>
+    <published>2021-09-25T19:32:12+08:00</published>
+    <updated>2021-09-25T19:32:12+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-d-65%D0%BC%D0%BC-%D1%81-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%BC-%D0%BC%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%B7%D0%BC%D0%BE%D0%BC-%D0%B8-%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9-%D1%80%D1%83%D1%87%D0%BA%D0%BE%D0%B9-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F"/>
+    <title>Удочка зимняя HFB-26F 65мм  неопреновой ручкой, зеленая</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0485_44a93b40-3d4e-49fa-a08e-6dba284c3a6e.jpg?v=1632388927"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6621881499787</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>HFB-26F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6621881303179</id>
+    <published>2021-09-25T19:31:42+08:00</published>
+    <updated>2021-09-25T19:31:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-hbf-5-d-55%D0%BC%D0%BC-%D1%81-%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9-%D1%80%D1%83%D1%87%D0%BA%D0%BE%D0%B9-%D1%86%D0%B2%D0%B5%D1%82-%D0%B2-%D0%B0%D1%81%D1%81%D0%BE%D1%80%D1%82%D0%B8%D0%BC%D0%B5%D0%BD%D1%82%D0%B5"/>
+    <title>Удочка зимняя HBF-5 d-55мм с неопреновой ручкой, цвет в ассортименте</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0541.jpg?v=1632385916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6621881303179</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>HBF-5 d</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6621881172107</id>
+    <published>2021-09-25T19:31:29+08:00</published>
+    <updated>2021-09-25T19:31:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-hbf-6f-2-d-75%D0%BC%D0%BC-%D1%81-%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9-%D1%80%D1%83%D1%87%D0%BA%D0%BE%D0%B9-%D0%B6%D0%B5%D0%BB%D1%82%D0%B0%D1%8F"/>
+    <title>Удочка зимняя HBF-4F d-55мм с неопреновой ручкой, желтая</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0520.jpg?v=1632386188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            95.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6621881172107</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">95.00</s:price>
+      <s:sku>HBF-4F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6621881073803</id>
+    <published>2021-09-25T19:31:17+08:00</published>
+    <updated>2021-09-25T19:31:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-hbf-6f-1-d-75%D0%BC%D0%BC-%D1%81-%D0%BD%D0%B5%D0%BE%D0%BF%D1%80%D0%B5%D0%BD%D0%BE%D0%B2%D0%BE%D0%B9-%D1%80%D1%83%D1%87%D0%BA%D0%BE%D0%B9-%D0%B6%D0%B5%D0%BB%D1%82%D0%B0%D1%8F"/>
+    <title>Удочка зимняя HBF-3F d-75мм с неопреновой ручкой, желтая</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0513.jpg?v=1632386040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            105.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6621881073803</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">105.00</s:price>
+      <s:sku>HBF-3F</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620993716363</id>
+    <published>2021-09-25T15:31:46+08:00</published>
+    <updated>2021-09-25T15:31:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-%D0%B1%D0%B0%D0%BB%D0%B0%D0%BB%D0%B0%D0%B9%D0%BA%D0%B0-%D1%83%D1%81-3-%D1%86%D0%B2%D0%B5%D1%82-%D1%86%D0%B2%D0%B5%D1%82-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BE%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D1%8B%D0%B9"/>
+    <title>Удочка   зимняя «Балалайка» УС-3</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0564_e0d60dc4-62e9-4834-b8d7-4debaf6a9a31.jpg?v=1632378672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620993716363</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>УС-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620993323147</id>
+    <published>2021-09-25T15:31:33+08:00</published>
+    <updated>2021-09-25T15:31:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-%D0%B1%D0%B0%D0%BB%D0%B0%D0%BB%D0%B0%D0%B9%D0%BA%D0%B0-%D1%83%D1%81-2-%D1%86%D0%B2%D0%B5%D1%82-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BE%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D1%8B%D0%B9"/>
+    <title>Удочка   зимняя «Балалайка» УС-2</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0565_ed2f8d61-595c-4f64-9993-395f7c1a7e5f.jpg?v=1632378610"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620993323147</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>УС-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620992602251</id>
+    <published>2021-09-25T15:31:18+08:00</published>
+    <updated>2021-09-25T15:31:18+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8F%D1%8F-%D0%B1%D0%B0%D0%BB%D0%B0%D0%BB%D0%B0%D0%B9%D0%BA%D0%B0-%D1%83%D1%81-1-%D1%86%D0%B2%D0%B5%D1%82-%D0%B6%D0%B5%D0%BB%D1%82%D1%8B%D0%B9-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BE%D1%80%D0%B0%D0%BD%D0%B6%D0%B5%D0%B2%D1%8B%D0%B9"/>
+    <title>Удочка   зимняя «Балалайка» УС-1</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0573.jpg?v=1632378463"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620992602251</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>УС-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620996042891</id>
+    <published>2021-09-25T15:28:52+08:00</published>
+    <updated>2021-09-25T15:28:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%BF%D0%B8%D0%BD%D0%BD%D0%B8%D0%BD%D0%B3-%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF-vitfishing-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-60-%D1%81%D0%BC"/>
+    <title>Спиннинг телескоп, vitfishing, черный 60 см</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0439.jpg?v=1632379632"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620996042891</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">170.00</s:price>
+      <s:sku>черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620996370571</id>
+    <published>2021-09-25T15:27:54+08:00</published>
+    <updated>2021-09-25T15:27:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%BF%D0%B8%D0%BD%D0%BD%D0%B8%D0%BD%D0%B3-%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF-vitfishing-%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9-70-%D1%81%D0%BC"/>
+    <title>Спиннинг телескоп, vitfishing, прозрачный 70 см</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0444_5bb68e75-1300-44f3-9102-c9ccc01a4feb.jpg?v=1632379849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            185.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620996370571</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">185.00</s:price>
+      <s:sku>прозрачный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620996206731</id>
+    <published>2021-09-25T15:27:43+08:00</published>
+    <updated>2021-09-25T15:27:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%BF%D0%B8%D0%BD%D0%BD%D0%B8%D0%BD%D0%B3-%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF-vitfishing-%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9-60-%D1%81%D0%BC"/>
+    <title>Спиннинг телескоп, vitfishing, прозрачный 60 см</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0444.jpg?v=1632379833"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            170.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620996206731</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">170.00</s:price>
+      <s:sku>прозрачный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620996141195</id>
+    <published>2021-09-25T15:27:33+08:00</published>
+    <updated>2021-09-25T15:27:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%BF%D0%B8%D0%BD%D0%BD%D0%B8%D0%BD%D0%B3-%D1%82%D0%B5%D0%BB%D0%B5%D1%81%D0%BA%D0%BE%D0%BF-vitfishing-%D0%BF%D1%80%D0%BE%D0%B7%D1%80%D0%B0%D1%87%D0%BD%D1%8B%D0%B9-50-%D1%81%D0%BC"/>
+    <title>Спиннинг телескоп, vitfishing, прозрачный 50 см</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0427.jpg?v=1632379784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620996141195</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>прозрачный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620959506571</id>
+    <published>2021-09-25T13:28:21+08:00</published>
+    <updated>2021-09-25T13:28:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%85%D0%BB%D1%8B%D1%81%D1%82-%D0%BD%D0%B0-%D0%B7%D0%B8%D0%BC%D0%BD%D1%8E%D1%8E-%D1%83%D0%B4%D0%BE%D1%87%D0%BA%D1%83"/>
+    <title>Хлыст на зимнюю удочку</title>
+    <s:type>Удочка зимняя</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0269.jpg?v=1632578037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Удочка зимняя<br>
+        <strong>Price: </strong>
+            195.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620959506571</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">195.00</s:price>
+      <s:sku>Хлыст</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

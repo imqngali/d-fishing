@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%B0%D0%BA%D1%81%D0%B5%D1%81%D1%81%D1%83%D0%B0%D1%80%D1%8B-%D1%80%D1%8B%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D1%8B%D0%B5.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-08-07T12:27:34+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6576197271691</id>
+    <published>2022-08-07T12:27:34+08:00</published>
+    <updated>2022-08-07T12:27:34+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%88%D0%BD%D1%83%D1%80-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-4%D0%BC%D0%BC-70-%D0%BC"/>
+    <title>Шнур Зеленая 4мм 80 м</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210527_151644.jpg?v=1622112697"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            70.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>резинка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576197271691</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">70.00</s:price>
+      <s:sku>4мм70м</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576197075083</id>
+    <published>2022-08-07T12:26:49+08:00</published>
+    <updated>2022-08-07T12:26:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%88%D0%BD%D1%83%D1%80-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-4%D0%BC%D0%BC-50-%D0%BC"/>
+    <title>Шнур Зеленая 4мм 80 м</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210527_151627.jpg?v=1622112750"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            50.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>резинка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576197075083</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>4мм50м</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576201269387</id>
+    <published>2022-08-07T12:22:21+08:00</published>
+    <updated>2022-08-07T12:22:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%8F%D0%BA%D0%BE%D1%80%D1%8C"/>
+    <title>Якорь</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0145_deb62b50-477d-47c0-8567-18b6ad3dc860.jpg?v=1622108568"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            135.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576201269387</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">135.00</s:price>
+      <s:sku>Якорь</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574738669707</id>
+    <published>2022-06-27T13:52:06+08:00</published>
+    <updated>2022-06-27T13:52:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B1%D0%B0%D0%BB%D0%BB%D0%BE%D0%BD-%D1%81%D0%BE2-12-%D0%B3%D1%80"/>
+    <title>Баллон СО2 12 гр</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210521_194030.jpg?v=1621697585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            35.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574738669707</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>Баллон</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574738440331</id>
+    <published>2022-05-19T13:37:37+08:00</published>
+    <updated>2022-05-19T13:37:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D0%BB-mingrui-%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9"/>
+    <title>Набор грузил &quot;Mingrui&quot; маленький</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220126093944.png?v=1643172044"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            20.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574738440331</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>XDX-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6574738374795</id>
+    <published>2022-05-19T13:36:38+08:00</published>
+    <updated>2022-05-19T13:36:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D0%BB-mingrui-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B96-%D1%8F%D1%87%D0%B5%D0%B5%D0%BA-%D1%81%D1%82%D0%BE%D0%BF%D0%BE%D1%80%D0%B0"/>
+    <title>Набор грузил &quot;Mingrui&quot; большой(6 ячеек,)</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220126093944_abc412c5-0978-4391-b64b-d674cf5c6e19.png?v=1652938611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6574738374795</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>XDX-40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573385285771</id>
+    <published>2022-02-09T20:13:32+08:00</published>
+    <updated>2022-02-09T20:13:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B7%D0%B0%D0%B3%D1%83%D0%B1%D0%BD%D0%B8%D0%BA-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9"/>
+    <title>Загубник большой</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0379.jpg?v=1621416876"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            172.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573385285771</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">172.00</s:price>
+      <s:sku>XDX-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6745282904203</id>
+    <published>2022-02-07T16:31:37+08:00</published>
+    <updated>2022-02-07T16:31:37+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%BA%D0%B0-%D1%80%D1%8B%D0%B1%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0%D1%8F-20m-3-0%D0%BC%D0%BC"/>
+    <title>Резинка рыболовная 20M 3,0мм</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220207133151.jpg?v=1644222732"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            130.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>резинка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6745282904203</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">130.00</s:price>
+      <s:sku>20M 3,0мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6745276252299</id>
+    <published>2022-02-07T16:16:19+08:00</published>
+    <updated>2022-02-07T16:16:19+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%BD%D0%B8%D1%86%D1%8B-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Ножницы пластик</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220207131550.png?v=1644221791"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            14.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6745276252299</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">14.80</s:price>
+      <s:sku>XDX-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6745275170955</id>
+    <published>2022-02-07T16:12:41+08:00</published>
+    <updated>2022-02-07T16:12:41+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%83%D1%85%D0%BE%D0%B5-%D0%B3%D0%BE%D1%80%D1%8E%D1%87%D0%B5%D0%B5-8%D1%82%D0%B0%D0%B1%D0%BB-%D0%BF%D0%B0%D1%87%D0%BA%D0%B0-10"/>
+    <title>Сухое горючее 8табл.</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220207131156.png?v=1644221585"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            33.28
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6745275170955</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">33.28</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6745270943883</id>
+    <published>2022-02-07T16:06:50+08:00</published>
+    <updated>2022-02-07T16:06:50+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%BD%D0%B8%D1%86%D1%8B-%D0%B2-%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80%D0%B5-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Ножницы с кольцо</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220207130426.png?v=1644221130"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            20.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6745270943883</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>XDX-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573383319691</id>
+    <published>2022-02-07T16:01:45+08:00</published>
+    <updated>2022-02-07T16:01:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%BD%D0%B8%D1%86%D1%8B-%D0%B2-%D1%84%D1%83%D1%82%D0%BB%D1%8F%D1%80%D0%B5"/>
+    <title>Ножницы в футляре</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/2_5245cab5-7e66-4e1c-a03e-ab5eae2aed71.jpg?v=1621416678"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            33.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573383319691</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">33.00</s:price>
+      <s:sku>XDX-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573383254155</id>
+    <published>2022-02-07T16:01:45+08:00</published>
+    <updated>2022-02-07T16:01:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%BE%D0%B6%D0%BD%D0%B8%D1%86%D1%8B-%D1%81%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D1%8B%D0%B5"/>
+    <title>Ножницы складные</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/62f84c17bef05f3e63ef9c769851c129.jpg?v=1621416804"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573383254155</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>XDX-16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573382172811</id>
+    <published>2022-02-07T15:56:57+08:00</published>
+    <updated>2022-02-07T15:56:57+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B7%D0%B0%D0%B6%D0%B8%D0%BC-%D0%BF%D1%80%D0%BE%D1%80%D0%B5%D0%B7%D0%B8%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D1%80%D1%83%D1%87%D0%BA%D0%B8"/>
+    <title>Медицинский зажим прорезиненные ручки</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0401_2.jpg?v=1621417592"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573382172811</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>XDX-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573381943435</id>
+    <published>2022-02-07T15:56:45+08:00</published>
+    <updated>2022-02-07T15:56:45+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BC%D0%B5%D0%B4%D0%B8%D1%86%D0%B8%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B7%D0%B0%D0%B6%D0%B8%D0%BC"/>
+    <title>Медицинский зажим</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/b9ba9ca569ea87a3e25b6d2b166369ec.jpg?v=1621417539"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            152.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573381943435</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">152.00</s:price>
+      <s:sku>XDX-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6743904878731</id>
+    <published>2022-02-06T18:14:47+08:00</published>
+    <updated>2022-02-06T18:14:47+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%BA%D1%80%D0%B5%D0%B1%D0%BE%D0%BA-%D0%B4%D0%BB%D1%8F-%D1%80%D1%8B%D0%B1%D1%8B-1"/>
+    <title>Скребок для рыбы длинный</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220206150834.png?v=1644142542"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            38.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6743904878731</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">38.40</s:price>
+      <s:sku>для рыбы 2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6743902814347</id>
+    <published>2022-02-06T18:13:07+08:00</published>
+    <updated>2022-02-06T18:13:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%BA%D1%80%D0%B5%D0%B1%D0%BE%D0%BA-%D0%B4%D0%BB%D1%8F-%D1%80%D1%8B%D0%B1%D1%8B"/>
+    <title>Скребок для рыбы квадратный</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220206150642.png?v=1644142302"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            38.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6743902814347</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">38.40</s:price>
+      <s:sku>для рыбы</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6730262085771</id>
+    <published>2022-01-26T12:04:58+08:00</published>
+    <updated>2022-01-26T12:04:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BD%D0%B0%D0%B1%D0%BE%D1%80-%D0%B3%D1%80%D1%83%D0%B7%D0%B8%D0%BB-%D0%BC%D0%B0%D0%BB%D0%B5%D0%BD%D1%8C%D0%BA%D0%B8%D0%B9"/>
+    <title>Набор грузил маленький</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_20210519_175158_dd5aab84-e7d8-4f3f-b1d2-c4458e8cff28.jpg?v=1643169899"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            18.72
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6730262085771</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">18.72</s:price>
+      <s:sku>XDX-49</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576891854987</id>
+    <published>2021-12-29T11:08:44+08:00</published>
+    <updated>2021-12-29T11:08:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E7%8B%97%E9%B1%BC%E9%92%A9-%E5%8F%8C%E9%BD%BF"/>
+    <title>капкан с двойной крючком</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0223_bf1e7528-82bb-4d8c-a0cd-a4d5c5b452b8.jpg?v=1622193022"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            41.60
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576891854987</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">41.60</s:price>
+      <s:sku>XJ-02</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6576891756683</id>
+    <published>2021-12-15T15:09:23+08:00</published>
+    <updated>2021-12-15T15:09:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%E7%8B%97%E9%B1%BC%E9%92%A9-%E5%8D%95%E9%BD%BF"/>
+    <title>капкан с одним крючком</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0215_cf6479c1-bf8c-49ef-825c-9b7d63f03aba.jpg?v=1622193040"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            36.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6576891756683</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">36.40</s:price>
+      <s:sku>XJ-01</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6626661990539</id>
+    <published>2021-09-25T20:14:54+08:00</published>
+    <updated>2021-09-25T20:14:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B8%D0%B4%D0%BA%D0%B0%D1%8F-%D0%BB%D0%B0%D1%82%D0%BA%D0%B024-25%D0%B3%D1%80-%D1%86%D0%B2-%D0%B1%D0%BE%D0%BB%D0%BE%D1%82%D0%BD%D1%8B%D0%B9"/>
+    <title>Жидкая ЛАТКА24 25гр. цв. зеленый</title>
+    <s:type>ремкомплекты</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210925171355.png?v=1632572082"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>ремкомплекты<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626661990539</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">100.00</s:price>
+      <s:sku>зеленый</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6626660384907</id>
+    <published>2021-09-25T20:06:02+08:00</published>
+    <updated>2021-09-25T20:06:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B8%D0%B4%D0%BA%D0%B0%D1%8F-%D0%BB%D0%B0%D1%82%D0%BA%D0%B024-25%D0%B3%D1%80-%D1%86%D0%B2-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9"/>
+    <title>Жидкая ЛАТКА24 25гр. цв. черный</title>
+    <s:type>ремкомплекты</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210925170536.png?v=1632571550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>ремкомплекты<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626660384907</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">100.00</s:price>
+      <s:sku>черный</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6626659172491</id>
+    <published>2021-09-25T20:04:13+08:00</published>
+    <updated>2021-09-25T20:04:13+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B8%D0%B4%D0%BA%D0%B0%D1%8F-%D0%BB%D0%B0%D1%82%D0%BA%D0%B024-25%D0%B3%D1%80-%D1%86%D0%B2-%D1%82%D0%B5%D0%BC%D0%BD%D0%BE-%D1%81%D0%B5%D1%80%D1%8B%D0%B9"/>
+    <title>Жидкая ЛАТКА24 25гр. цв. темно-серый</title>
+    <s:type>ремкомплекты</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210925170429.png?v=1632571496"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>ремкомплекты<br>
+        <strong>Price: </strong>
+            100.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626659172491</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">100.00</s:price>
+      <s:sku>серый</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6626654486667</id>
+    <published>2021-09-25T20:02:55+08:00</published>
+    <updated>2021-09-25T20:02:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B0%D1%80%D0%BC%D0%B8%D1%80%D1%83%D1%8E%D1%89%D0%B8%D0%B9-%D0%BA%D0%BE%D1%80%D0%B4-%D0%BB%D0%B0%D1%82%D0%BA%D0%B024-%D0%B4%D0%BB%D1%8F-%D1%80%D0%B5%D0%BC%D0%BE%D0%BD%D1%82%D0%B0-%D0%B8%D0%B7%D0%B4%D0%B5%D0%BB%D0%B8%D0%B9-%D0%BF%D0%B2%D1%85"/>
+    <title>Армирующий корд ЛАТКА24 (для ремонта изделий ПВХ)</title>
+    <s:type>ремкомплекты</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatScreenshot_20210925170203.png?v=1632571353"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>ремкомплекты<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626654486667</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>ZHQ-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573386268811</id>
+    <published>2021-08-28T15:57:40+08:00</published>
+    <updated>2021-08-28T15:57:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%B8"/>
+    <title>ОСТРОГА ТЕЛЕСКОПИЧЕСКАЯ 5 ЗУБОВ 1.7M</title>
+    <s:type>Аксессуары</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/3be5c262e0fd3cea5b7ab7f675a73e6e.jpg?v=1630137451"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Аксессуары<br>
+        <strong>Price: </strong>
+            270.00 - 350.00
+            <a href="https://vitfishing.store/products/%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B3%D0%B8">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573386268811</id>
+      <title>Малый</title>
+      <s:price currency="RUB">270.00</s:price>
+      <s:sku>Малый</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573386268811</id>
+      <title>средний</title>
+      <s:price currency="RUB">290.00</s:price>
+      <s:sku>средний</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573386268811</id>
+      <title>большой</title>
+      <s:price currency="RUB">320.00</s:price>
+      <s:sku>большой</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573386268811</id>
+      <title>широкий</title>
+      <s:price currency="RUB">350.00</s:price>
+      <s:sku>широкий</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

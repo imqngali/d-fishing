@@ -1,0 +1,1234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA%D0%B8-%D0%B8-%D1%81%D0%B0%D0%B4%D0%BA%D0%B8.atom"/>
+  <title>vitfishing</title>
+  <updated>2022-05-22T19:09:29+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6867516883083</id>
+    <published>2022-05-22T19:09:29+08:00</published>
+    <updated>2022-05-22T19:09:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B0%D0%B4%D0%BE%D0%BA-%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81-%D1%80%D1%83%D1%87%D0%BA%D0%B0"/>
+    <title>Садок береговой с ручка</title>
+    <s:type>Садки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220522160741.jpg?v=1653217740"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Садки<br>
+        <strong>Price: </strong>
+            265.00 - 337.00
+            <a href="https://vitfishing.store/products/%D1%81%D0%B0%D0%B4%D0%BE%D0%BA-%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81-%D1%80%D1%83%D1%87%D0%BA%D0%B0">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6867516883083</id>
+      <title>3кольца</title>
+      <s:price currency="RUB">265.00</s:price>
+      <s:sku>YH-17</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6867516883083</id>
+      <title>4кольца</title>
+      <s:price currency="RUB">305.00</s:price>
+      <s:sku>YH-18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6867516883083</id>
+      <title>5кольца</title>
+      <s:price currency="RUB">337.00</s:price>
+      <s:sku>YH-19</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573072056459</id>
+    <published>2022-05-05T21:03:29+08:00</published>
+    <updated>2022-05-05T21:03:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B0%D0%B4%D0%BE%D0%BA-%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-40"/>
+    <title>Садок береговой квадратный 40</title>
+    <s:type>Садки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6875_5c30422c-1ff0-4932-8f21-02a32efb4e6b.jpg?v=1621353803"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Садки<br>
+        <strong>Price: </strong>
+            673.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573072056459</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">673.00</s:price>
+      <s:sku>YH-22</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573071958155</id>
+    <published>2022-05-05T21:03:14+08:00</published>
+    <updated>2022-05-05T21:03:14+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B0%D0%B4%D0%BE%D0%BA-%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-33"/>
+    <title>Садок береговой квадратный 33</title>
+    <s:type>Садки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6875_6b5e9b68-6aa8-4330-a2fb-e96b14e907ca.jpg?v=1621353818"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Садки<br>
+        <strong>Price: </strong>
+            645.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573071958155</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">645.00</s:price>
+      <s:sku>YH-21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6792708653195</id>
+    <published>2022-03-24T14:14:15+08:00</published>
+    <updated>2022-03-24T14:14:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0-15-20-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B4%D0%BB%D0%B8%D0%BD%D0%B0-1-9%D0%BC"/>
+    <title>Раколовка 15*20 квадратная, зеленая сетка, длина 1,9м</title>
+    <s:type>Раколовка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220324110300.jpg?v=1648102509"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Раколовка<br>
+        <strong>Price: </strong>
+            156.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6792708653195</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">156.00</s:price>
+      <s:sku>27*35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6751031853195</id>
+    <published>2022-02-13T18:21:58+08:00</published>
+    <updated>2022-02-13T18:21:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D1%83%D0%BA%D0%B0%D0%BD-%D0%BD%D0%B0-%D1%82%D1%80%D0%BE%D1%81%D0%B5-%D1%81-%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BA%D0%BE%D0%BC-10-%D0%BA%D0%B0%D1%80%D0%B0%D0%B1%D0%B8%D0%BD%D0%BE%D0%B2-%D0%B4%D0%BB%D0%B8%D0%BD%D0%B0-5-%D0%BC"/>
+    <title>Кукан на тросе с поплавком 10 карабинов длина 5 м</title>
+    <s:type>Садки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220213152016_e07754ee-3410-4127-9f80-b4c6200269bb.jpg?v=1646808518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Садки<br>
+        <strong>Price: </strong>
+            223.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6751031853195</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">223.00</s:price>
+      <s:sku>YH-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6751029723275</id>
+    <published>2022-02-13T18:21:42+08:00</published>
+    <updated>2022-02-13T18:21:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D1%83%D0%BA%D0%B0%D0%BD-%D0%BD%D0%B0-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%BC-%D1%82%D1%80%D0%BE%D1%81%D0%B5-%D1%81-%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BA%D0%BE%D0%BC-1"/>
+    <title>Кукан на тросе с поплавком 7 карабинов длина 5 м</title>
+    <s:type>Садки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20220309114651.jpg?v=1646808466"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Садки<br>
+        <strong>Price: </strong>
+            164.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6751029723275</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">164.00</s:price>
+      <s:sku>YH-26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573065339019</id>
+    <published>2021-11-06T16:38:27+08:00</published>
+    <updated>2021-11-06T16:38:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B0%D0%B4%D0%BE%D0%BA-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9"/>
+    <title>Садок металлический</title>
+    <s:type>Садки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6923.jpg?v=1621353111"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Садки<br>
+        <strong>Price: </strong>
+            172.00 - 325.00
+            <a href="https://vitfishing.store/products/%D1%81%D0%B0%D0%B4%D0%BE%D0%BA-%D0%BC%D0%B5%D1%82%D0%B0%D0%BB%D0%BB%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573065339019</id>
+      <title>2510</title>
+      <s:price currency="RUB">172.00</s:price>
+      <s:sku>YH-1</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573065339019</id>
+      <title>3010</title>
+      <s:price currency="RUB">203.00</s:price>
+      <s:sku>YH-2</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573065339019</id>
+      <title>3310</title>
+      <s:price currency="RUB">227.00</s:price>
+      <s:sku>YH-3</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573065339019</id>
+      <title>3510</title>
+      <s:price currency="RUB">242.00</s:price>
+      <s:sku>YH-4</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573065339019</id>
+      <title>3810</title>
+      <s:price currency="RUB">258.00</s:price>
+      <s:sku>YH-5</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573065339019</id>
+      <title>4510</title>
+      <s:price currency="RUB">325.00</s:price>
+      <s:sku>YH-6</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573147750539</id>
+    <published>2021-11-01T20:35:33+08:00</published>
+    <updated>2021-11-01T20:35:33+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F"/>
+    <title>Сушилка квадратная</title>
+    <s:type>Раколовка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/HTB16CADPIfpK1RjSZFOq6y6nFXa1.jpg?v=1621355372"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Раколовка<br>
+        <strong>Price: </strong>
+            273.00 - 355.00
+            <a href="https://vitfishing.store/products/%D1%81%D1%83%D1%88%D0%B8%D0%BB%D0%BA%D0%B0-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F">(3 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573147750539</id>
+      <title>40см</title>
+      <s:price currency="RUB">273.00</s:price>
+      <s:sku>40см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573147750539</id>
+      <title>45см</title>
+      <s:price currency="RUB">312.00</s:price>
+      <s:sku>45см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573147750539</id>
+      <title>50см</title>
+      <s:price currency="RUB">355.00</s:price>
+      <s:sku>50см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573117079691</id>
+    <published>2021-11-01T20:12:51+08:00</published>
+    <updated>2021-11-01T20:12:51+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA-%D0%B7%D0%B8%D0%BC%D0%BD%D0%B8%D0%B9-%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9-80-80-cm"/>
+    <title>Подъемник зимний автоматический 80*80 CM</title>
+    <s:type>Подъемники</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/podemnik-zimniq-big_d1ebf211-29bc-4d59-b098-d17f09fee05f.jpg?v=1621354816"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подъемники<br>
+        <strong>Price: </strong>
+            508.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573117079691</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">508.00</s:price>
+      <s:sku>BW-04</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573072089227</id>
+    <published>2021-07-24T19:41:23+08:00</published>
+    <updated>2021-07-24T19:41:23+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B0%D0%B4%D0%BE%D0%BA-%D0%B1%D0%B5%D1%80%D0%B5%D0%B3%D0%BE%D0%B2%D0%BE%D0%B9-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D1%8B%D0%B9-45-30%D1%81%D0%BC"/>
+    <title>Садок береговой квадратный 45*30см</title>
+    <s:type>Садки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6875.jpg?v=1621353381"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Садки<br>
+        <strong>Price: </strong>
+            876.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573072089227</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">876.00</s:price>
+      <s:sku>YH-23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573065896075</id>
+    <published>2021-07-24T19:38:26+08:00</published>
+    <updated>2021-07-24T19:38:26+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B0%D0%B4%D0%BE%D0%BA-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D0%BF%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9"/>
+    <title>Садок черный капроновый</title>
+    <s:type>Садки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/3_f83184a0-2cc1-4aea-98c3-c0c13e3f0040.jpg?v=1621354335"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Садки<br>
+        <strong>Price: </strong>
+            65.00 - 313.00
+            <a href="https://vitfishing.store/products/%D1%81%D0%B0%D0%B4%D0%BE%D0%BA-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B9-%D0%BA%D0%B0%D0%BF%D1%80%D0%BE%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9">(5 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573065896075</id>
+      <title>3 кольца</title>
+      <s:price currency="RUB">65.00</s:price>
+      <s:sku>YH-7</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573065896075</id>
+      <title>4 кольца</title>
+      <s:price currency="RUB">86.00</s:price>
+      <s:sku>YH-8</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573065896075</id>
+      <title>5 кольца</title>
+      <s:price currency="RUB">113.00</s:price>
+      <s:sku>YH-9</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573065896075</id>
+      <title>6 кольца</title>
+      <s:price currency="RUB">258.00</s:price>
+      <s:sku>YH-10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573065896075</id>
+      <title>7 кольца</title>
+      <s:price currency="RUB">313.00</s:price>
+      <s:sku>YH-11</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601647456395</id>
+    <published>2021-07-17T20:34:09+08:00</published>
+    <updated>2021-07-17T20:34:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D1%8C-%D0%B1%D0%B5%D0%B7-%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%D0%BC-%D0%B4%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80-3%D0%BC-%D0%BB%D0%B5%D1%81%D0%BA%D0%B0"/>
+    <title>Кастинговая сеть без кольцом диаметр 3м Леска</title>
+    <s:type>Раколовка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/65cf2e1f-33d6-4b36-b9d6-43c3a6e767d5.jpg?v=1626525236"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Раколовка<br>
+        <strong>Price: </strong>
+            1475.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601647456395</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1475.00</s:price>
+      <s:sku>без кольцом Леска</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601647554699</id>
+    <published>2021-07-17T20:29:11+08:00</published>
+    <updated>2021-07-17T20:29:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D1%8C-%D0%B1%D0%B5%D0%B7-%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%D0%BC-%D0%B4%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80-3%D0%BC-%D1%8F%D1%87-10%D0%BC%D0%BC"/>
+    <title>Кастинговая сеть без кольцом диаметр 3м яч 10мм</title>
+    <s:type>Раколовка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6824_8360084c-ca55-4e80-8acc-8124ab37dc2e.jpg?v=1626524921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Раколовка<br>
+        <strong>Price: </strong>
+            1527.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601647554699</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1527.00</s:price>
+      <s:sku>3м яч 10мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601647521931</id>
+    <published>2021-07-17T20:28:17+08:00</published>
+    <updated>2021-07-17T20:28:17+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D1%8C-%D0%B1%D0%B5%D0%B7-%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%D0%BC-%D0%B4%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80-3%D0%BC-%D0%BD%D0%B8%D1%82%D0%BA%D0%B0"/>
+    <title>Кастинговая сеть без кольцом диаметр 3м Нитка</title>
+    <s:type>Раколовка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6818.jpg?v=1626524881"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Раколовка<br>
+        <strong>Price: </strong>
+            1475.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601647521931</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1475.00</s:price>
+      <s:sku>3м Нитка</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601647685771</id>
+    <published>2021-07-17T20:26:52+08:00</published>
+    <updated>2021-07-17T20:26:52+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D1%8C-%D1%81-%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%D0%BC-%D0%B4%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80-3%D0%BC-%D0%BB%D0%B5%D1%81%D0%BA%D0%B0"/>
+    <title>Кастинговая сеть с кольцом диаметр 4м высота-2,3м Леска</title>
+    <s:type>Раколовка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6803.jpg?v=1626524809"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Раколовка<br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601647685771</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1600.00</s:price>
+      <s:sku>с кольцом  Леска</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6601647718539</id>
+    <published>2021-07-17T20:24:30+08:00</published>
+    <updated>2021-07-17T20:24:30+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%B0%D1%81%D1%82%D0%B8%D0%BD%D0%B3%D0%BE%D0%B2%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D1%8C-%D1%81-%D0%BA%D0%BE%D0%BB%D1%8C%D1%86%D0%BE%D0%BC-%D0%B4%D0%B8%D0%B0%D0%BC%D0%B5%D1%82%D1%80-3%D0%BC-%D0%BD%D0%B8%D1%82%D0%BA%D0%B0"/>
+    <title>Кастинговая сеть с кольцом диаметр 4м высота-2,3м  Нитка</title>
+    <s:type>Раколовка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6802.jpg?v=1626524712"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Раколовка<br>
+        <strong>Price: </strong>
+            1600.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6601647718539</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">1600.00</s:price>
+      <s:sku>с кольцом Нитка</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6579026362507</id>
+    <published>2021-05-31T17:09:07+08:00</published>
+    <updated>2021-05-31T17:09:07+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA-%D0%B0%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B8%D0%B9-%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9-1-3m-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Косынка рыбаловная</title>
+    <s:type>Подъемники</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20210531135129.jpg?v=1622451419"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подъемники<br>
+        <strong>Price: </strong>
+            18.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026362507</id>
+      <title>16мм</title>
+      <s:price currency="RUB">18.40</s:price>
+      <s:sku>16мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026362507</id>
+      <title>18мм</title>
+      <s:price currency="RUB">18.40</s:price>
+      <s:sku>18мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026362507</id>
+      <title>20мм</title>
+      <s:price currency="RUB">18.40</s:price>
+      <s:sku>20мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026362507</id>
+      <title>22мм</title>
+      <s:price currency="RUB">18.40</s:price>
+      <s:sku>22мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026362507</id>
+      <title>25мм</title>
+      <s:price currency="RUB">18.40</s:price>
+      <s:sku>25мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026362507</id>
+      <title>27мм</title>
+      <s:price currency="RUB">18.40</s:price>
+      <s:sku>27мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026362507</id>
+      <title>30мм</title>
+      <s:price currency="RUB">18.40</s:price>
+      <s:sku>30мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026362507</id>
+      <title>35мм</title>
+      <s:price currency="RUB">18.40</s:price>
+      <s:sku>35мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026362507</id>
+      <title>40мм</title>
+      <s:price currency="RUB">18.40</s:price>
+      <s:sku>40мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6579026460811</id>
+    <published>2021-05-31T17:07:11+08:00</published>
+    <updated>2021-05-31T17:07:11+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA-%D0%B0%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B8%D0%B9-%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9-1-3m-%E7%9A%84%E5%89%AF%E6%9C%AC-%E7%9A%84%E5%89%AF%E6%9C%AC"/>
+    <title>Супер снасть сетка</title>
+    <s:type>Подъемники</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_0011.jpg?v=1622451491"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подъемники<br>
+        <strong>Price: </strong>
+            102.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026460811</id>
+      <title>25mm</title>
+      <s:price currency="RUB">102.00</s:price>
+      <s:sku>28mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026460811</id>
+      <title>30mm</title>
+      <s:price currency="RUB">102.00</s:price>
+      <s:sku>30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026460811</id>
+      <title>35mm</title>
+      <s:price currency="RUB">102.00</s:price>
+      <s:sku>32mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026460811</id>
+      <title>40mm</title>
+      <s:price currency="RUB">102.00</s:price>
+      <s:sku>40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026460811</id>
+      <title>45mm</title>
+      <s:price currency="RUB">102.00</s:price>
+      <s:sku>45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579026460811</id>
+      <title>50mm</title>
+      <s:price currency="RUB">102.00</s:price>
+      <s:sku>50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6579025674379</id>
+    <published>2021-05-31T16:54:00+08:00</published>
+    <updated>2021-05-31T16:54:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA-%D0%B0%D0%BB%D1%8E%D0%BC%D0%B8%D0%BD%D0%B8%D0%B9-%D0%BB%D0%B5%D1%82%D0%BD%D0%B8%D0%B9-1"/>
+    <title>Подъемник Алюминий летний 1.3M</title>
+    <s:type>Подъемники</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20210531135111.jpg?v=1622451317"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подъемники<br>
+        <strong>Price: </strong>
+            182.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6579025674379</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">182.00</s:price>
+      <s:sku>1.3*1.3м</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573067665547</id>
+    <published>2021-05-30T19:54:44+08:00</published>
+    <updated>2021-05-30T19:54:44+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B0%D0%B4%D0%BE%D0%BA-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D1%81-%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BA%D0%BE%D0%BC-%D0%BA%D0%B0%D0%BF%D1%80%D0%BE%D0%B2%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9"/>
+    <title>Садок зеленый с поплавком капровновый</title>
+    <s:type>Садки</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6949.jpg?v=1621578815"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Садки<br>
+        <strong>Price: </strong>
+            121.00 - 274.00
+            <a href="https://vitfishing.store/products/%D1%81%D0%B0%D0%B4%D0%BE%D0%BA-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D1%8B%D0%B9-%D1%81-%D0%BF%D0%BE%D0%BF%D0%BB%D0%B0%D0%B2%D0%BA%D0%BE%D0%BC-%D0%BA%D0%B0%D0%BF%D1%80%D0%BE%D0%B2%D0%BD%D0%BE%D0%B2%D1%8B%D0%B9">(4 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573067665547</id>
+      <title>3 кольца Ф40см</title>
+      <s:price currency="RUB">121.00</s:price>
+      <s:sku>Ф40см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573067665547</id>
+      <title>3 кольца Ф45см</title>
+      <s:price currency="RUB">137.00</s:price>
+      <s:sku>Ф45см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573067665547</id>
+      <title>3 кольца Ф50см</title>
+      <s:price currency="RUB">152.00</s:price>
+      <s:sku>Ф50см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573067665547</id>
+      <title>6 кольца Ф50см</title>
+      <s:price currency="RUB">274.00</s:price>
+      <s:sku>6-Ф50см</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573147357323</id>
+    <published>2021-05-21T15:57:39+08:00</published>
+    <updated>2021-05-21T15:57:39+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-%D1%87%D1%8F20-%CF%860-20"/>
+    <title>Сетка на подъемник из нитки чя20 φ0.20</title>
+    <s:type>Подъемники</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0812.jpg?v=1621354462"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подъемники<br>
+        <strong>Price: </strong>
+            27.00 - 50.00
+            <a href="https://vitfishing.store/products/%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA-%D0%B8%D0%B7-%D0%BD%D0%B8%D1%82%D0%BA%D0%B8-%D1%87%D1%8F20-%CF%860-20">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573147357323</id>
+      <title>1*1M</title>
+      <s:price currency="RUB">27.00</s:price>
+      <s:sku>1*1M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573147357323</id>
+      <title>1.3*1.3M</title>
+      <s:price currency="RUB">32.00</s:price>
+      <s:sku>1.3*1.3M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573147357323</id>
+      <title>1.5*1.5M</title>
+      <s:price currency="RUB">37.00</s:price>
+      <s:sku>1.5*1.5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573147357323</id>
+      <title>2*2M</title>
+      <s:price currency="RUB">41.00</s:price>
+      <s:sku>2*2M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573147357323</id>
+      <title>2.5*2.5M</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>2.5*2.5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573147357323</id>
+      <title>3*3M</title>
+      <s:price currency="RUB">50.00</s:price>
+      <s:sku>3*3M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573146308747</id>
+    <published>2021-05-21T15:56:27+08:00</published>
+    <updated>2021-05-21T15:56:27+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-%D1%87%D1%8F20-%CF%860-20"/>
+    <title>Сетка на подъемник из лески чя20 φ0.20</title>
+    <s:type>Подъемники</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0815.jpg?v=1621354435"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Подъемники<br>
+        <strong>Price: </strong>
+            24.24 - 45.00
+            <a href="https://vitfishing.store/products/%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%BF%D0%BE%D0%B4%D1%8A%D0%B5%D0%BC%D0%BD%D0%B8%D0%BA-%D0%B8%D0%B7-%D0%BB%D0%B5%D1%81%D0%BA%D0%B8-%D1%87%D1%8F20-%CF%860-20">(6 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573146308747</id>
+      <title>1*1M</title>
+      <s:price currency="RUB">24.24</s:price>
+      <s:sku>1*1M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573146308747</id>
+      <title>1.3*1.3M</title>
+      <s:price currency="RUB">29.00</s:price>
+      <s:sku>1.3*1.3M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573146308747</id>
+      <title>1.5*1.5M</title>
+      <s:price currency="RUB">34.00</s:price>
+      <s:sku>1.5*1.5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573146308747</id>
+      <title>2*2M</title>
+      <s:price currency="RUB">35.00</s:price>
+      <s:sku>2*2M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573146308747</id>
+      <title>2.5*2.5M</title>
+      <s:price currency="RUB">41.00</s:price>
+      <s:sku>2.5*2.5M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573146308747</id>
+      <title>3*3M</title>
+      <s:price currency="RUB">45.00</s:price>
+      <s:sku>3*3M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573144637579</id>
+    <published>2021-05-21T15:53:31+08:00</published>
+    <updated>2021-05-21T15:53:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B2%D0%B5%D1%80%D1%88%D0%B0-%D0%BC%D0%BE%D1%80%D0%B4%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F"/>
+    <title>Верша (морда) черная</title>
+    <s:type>Раколовка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6884.jpg?v=1621355896"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Раколовка<br>
+        <strong>Price: </strong>
+            142.00 - 528.00
+            <a href="https://vitfishing.store/products/%D0%B2%D0%B5%D1%80%D1%88%D0%B0-%D0%BC%D0%BE%D1%80%D0%B4%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F">(7 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573144637579</id>
+      <title>Ф30</title>
+      <s:price currency="RUB">142.00</s:price>
+      <s:sku>Ф30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573144637579</id>
+      <title>Ф40</title>
+      <s:price currency="RUB">213.00</s:price>
+      <s:sku>Ф40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573144637579</id>
+      <title>Ф45</title>
+      <s:price currency="RUB">264.00</s:price>
+      <s:sku>Ф45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573144637579</id>
+      <title>Ф50</title>
+      <s:price currency="RUB">284.00</s:price>
+      <s:sku>Ф50</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573144637579</id>
+      <title>Ф55</title>
+      <s:price currency="RUB">386.00</s:price>
+      <s:sku>Ф55</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573144637579</id>
+      <title>Ф60</title>
+      <s:price currency="RUB">426.00</s:price>
+      <s:sku>Ф60</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573144637579</id>
+      <title>Ф70</title>
+      <s:price currency="RUB">528.00</s:price>
+      <s:sku>Ф70</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573144014987</id>
+    <published>2021-05-21T15:51:21+08:00</published>
+    <updated>2021-05-21T15:51:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0-45-45-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B4%D0%BB%D0%B8%D0%BD%D0%B0-3-5%D0%BC"/>
+    <title>Раколовка 45*45 квадратная, зеленая сетка, длина 3.5м</title>
+    <s:type>Раколовка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_6901.jpg?v=1621356004"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Раколовка<br>
+        <strong>Price: </strong>
+            437.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573144014987</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">437.00</s:price>
+      <s:sku>45*45</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6573143785611</id>
+    <published>2021-05-21T15:50:55+08:00</published>
+    <updated>2021-05-21T15:50:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%80%D0%B0%D0%BA%D0%BE%D0%BB%D0%BE%D0%B2%D0%BA%D0%B0-35-35-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D0%B7%D0%B5%D0%BB%D0%B5%D0%BD%D0%B0%D1%8F-%D1%81%D0%B5%D1%82%D0%BA%D0%B0-%D0%B4%D0%BB%D0%B8%D0%BD%D0%B0-3-5%D0%BC"/>
+    <title>Раколовка 35*35 квадратная, зеленая сетка, длина 3.5м</title>
+    <s:type>Раколовка</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20200115142100.png?v=1621356036"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Раколовка<br>
+        <strong>Price: </strong>
+            336.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6573143785611</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">336.00</s:price>
+      <s:sku>35*35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

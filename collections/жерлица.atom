@@ -1,0 +1,551 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D0%B0.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-09-25T13:28:02+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6620958425227</id>
+    <published>2021-09-25T13:28:02+08:00</published>
+    <updated>2021-09-25T13:28:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%84%D0%BB%D0%B0%D0%B6%D0%BE%D0%BA-%D0%BD%D0%B0-%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D1%8B"/>
+    <title>Флажок на жерлицы</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_E3800.jpg?v=1632304033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            8.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620958425227</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">8.00</s:price>
+      <s:sku>Флажок</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620951183499</id>
+    <published>2021-09-25T13:27:40+08:00</published>
+    <updated>2021-09-25T13:27:40+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D1%81%D1%83%D0%BC%D0%BA%D0%B0-%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D0%BD%D0%B0-%D0%BB%D0%B8%D0%BF%D1%83%D1%87%D0%BA%D0%B5"/>
+    <title>Сумка малая квадратная на липучке</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_E3715.jpg?v=1632304117"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            65.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620951183499</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">65.00</s:price>
+      <s:sku>квадратная</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620959768715</id>
+    <published>2021-09-25T13:26:35+08:00</published>
+    <updated>2021-09-25T13:26:35+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D1%83-%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F-75%D0%BC%D0%BC"/>
+    <title>Катушка на жерлицу  75мм</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_E3789.jpg?v=1632304009"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            13.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620959768715</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">13.00</s:price>
+      <s:sku>75мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620959703179</id>
+    <published>2021-09-25T13:25:54+08:00</published>
+    <updated>2021-09-25T13:25:54+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BA%D0%B0%D1%82%D1%83%D1%88%D0%BA%D0%B0-%D0%BD%D0%B0-%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D1%83-%D0%BC%D0%B0%D0%BB%D0%B0%D1%8F-55%D0%BC%D0%BC"/>
+    <title>Катушка на жерлицу 55мм</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/IMG_E3790.jpg?v=1632303997"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            10.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620959703179</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">10.00</s:price>
+      <s:sku>55мм</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620950495371</id>
+    <published>2021-09-25T13:24:36+08:00</published>
+    <updated>2021-09-25T13:24:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D1%8B-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B5%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D0%BE%D0%B9-%D1%81%D1%83%D0%BC%D0%BA%D0%B5"/>
+    <title>Жерлицы черные оснащенные в квадратная сумке 6шт/уп</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0411_020ea16d-df8a-4903-888c-e308bb5fc9e6.jpg?v=1632546636"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            488.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620950495371</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">488.00</s:price>
+      <s:sku>оснащенные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6626591015051</id>
+    <published>2021-09-25T13:23:28+08:00</published>
+    <updated>2021-09-25T13:23:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D1%8B-%D1%87%D0%B5%D1%80%D0%BD%D1%8B%D0%B5-%D0%BD%D0%B5%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BA%D0%B2%D0%B0%D0%B4%D1%80%D0%B0%D1%82%D0%BD%D0%B0%D1%8F-%D1%81%D1%83%D0%BC%D0%BA%D0%B5"/>
+    <title>Жерлицы черные неоснащенные в квадратная сумке 6шт/уп</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0411_341fa1bc-91cb-4089-b9d8-04b4130ef047.jpg?v=1632546590"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            410.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6626591015051</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">410.00</s:price>
+      <s:sku>неоснащенные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620950888587</id>
+    <published>2021-09-25T13:22:29+08:00</published>
+    <updated>2021-09-25T13:22:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D1%8B-%D1%81%D0%B8%D0%BD%D0%B8%D0%B5-%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%81%D1%83%D0%BC%D0%BA%D0%B5"/>
+    <title>Жерлицы синие оснащенные в прямоугольной сумке 10шт/уп</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0399_25bd0700-e2a4-4734-ab32-b3abf12f920d.jpg?v=1632303901"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            845.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620950888587</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">845.00</s:price>
+      <s:sku>оснащенные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620950462603</id>
+    <published>2021-09-25T13:21:58+08:00</published>
+    <updated>2021-09-25T13:21:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D1%8B-%D1%81%D0%B8%D0%BD%D0%B8%D0%B5-%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D0%BE%D0%B9-%D1%81%D1%83%D0%BC%D0%BA%D0%B5"/>
+    <title>Жерлицы синие оснащенные в квадратная сумке 6шт/уп</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0405_8161453d-a376-4481-a8a6-1281db0128f5.jpg?v=1632546564"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            488.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620950462603</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">488.00</s:price>
+      <s:sku>оснащенные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620950855819</id>
+    <published>2021-09-25T13:21:38+08:00</published>
+    <updated>2021-09-25T13:21:38+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D1%8B-%D1%81%D0%B8%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B5%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BF%D1%80%D1%8F%D0%BC%D0%BE%D1%83%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D1%81%D1%83%D0%BC%D0%BA%D0%B5"/>
+    <title>Жерлицы синие неоснащенные в прямоугольной сумке 10шт/уп</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0396_4f889d23-1328-473b-8cc3-f1d57547fda4.jpg?v=1632303845"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            715.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620950855819</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">715.00</s:price>
+      <s:sku>неоснащенные</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620950298763</id>
+    <published>2021-09-25T13:20:29+08:00</published>
+    <updated>2021-09-25T13:20:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D1%8B-%D1%81%D0%B8%D0%BD%D0%B8%D0%B5-%D0%BD%D0%B5%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D1%8B%D0%B5-%D0%B2-%D0%BA%D1%80%D1%83%D0%B3%D0%BB%D0%BE%D0%B9-%D1%81%D1%83%D0%BC%D0%BA%D0%B5"/>
+    <title>Жерлицы синие неоснащенные в квадратная сумке 6шт/уп</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0398_14b6ad93-025a-492f-9db7-a8c23d6e698e.jpg?v=1632546413"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            410.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620950298763</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">410.00</s:price>
+      <s:sku>неоснащенная</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620950134923</id>
+    <published>2021-09-25T12:58:58+08:00</published>
+    <updated>2021-09-25T12:58:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F-2-%D1%88%D1%82-%D0%B2-%D1%83%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B5"/>
+    <title>Жерлица черная оснащённая</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0408_a4b70402-5bf7-47df-9ec1-669cbd849cd6.jpg?v=1632302962"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620950134923</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">72.00</s:price>
+      <s:sku>оснащённая</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620950200459</id>
+    <published>2021-09-25T12:58:46+08:00</published>
+    <updated>2021-09-25T12:58:46+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D0%B0-%D1%87%D0%B5%D1%80%D0%BD%D0%B0%D1%8F-%D0%BD%D0%B5%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-2-%D1%88%D1%82-%D0%B2-%D1%83%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B5"/>
+    <title>Жерлица черная неоснащенная</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0411_0a4411c5-a5c1-4427-9ebc-99e529bcb129.jpg?v=1632302883"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620950200459</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>неоснащенная</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620949741707</id>
+    <published>2021-09-25T12:58:32+08:00</published>
+    <updated>2021-09-25T12:58:32+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D0%B0-%D1%81%D0%B8%D0%BD%D1%8F%D1%8F-%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-2-%D1%88%D1%82-%D0%B2-%D1%83%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B5"/>
+    <title>Жерлица синяя оснащенная</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0399_a0b582db-3d92-4f83-a1dc-a104756c437f.jpg?v=1632302824"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            72.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620949741707</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">72.00</s:price>
+      <s:sku>оснащенная</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620949872779</id>
+    <published>2021-09-25T12:58:09+08:00</published>
+    <updated>2021-09-25T12:58:09+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86%D0%B0-%D1%81%D0%B8%D0%BD%D1%8F%D1%8F-%D0%BD%D0%B5%D0%BE%D1%81%D0%BD%D0%B0%D1%89%D1%91%D0%BD%D0%BD%D0%B0%D1%8F-2-%D1%88%D1%82-%D0%B2-%D1%83%D0%BF%D0%B0%D0%BA%D0%BE%D0%B2%D0%BA%D0%B5"/>
+    <title>Жерлица синяя неоснащённая</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0402_9ddd20b3-a728-4db6-ae90-480cf3e15095.jpg?v=1632302757"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            60.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620949872779</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">60.00</s:price>
+      <s:sku>синяя</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6620959867019</id>
+    <published>2021-09-25T12:57:15+08:00</published>
+    <updated>2021-09-25T12:57:15+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%B2%D1%82%D1%83%D0%BB%D0%BA%D0%B8-%D0%BD%D0%B0-%D1%84%D0%BB%D0%B0%D0%B6%D0%BA%D0%B8-%D0%B4%D0%BB%D1%8F-%D0%B6%D0%B5%D1%80%D0%BB%D0%B8%D1%86"/>
+    <title>Втулки на флажки для жерлиц</title>
+    <s:type>Жерлица</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/20211003134844.png?v=1633250991"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Жерлица<br>
+        <strong>Price: </strong>
+            4.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://vitfishing.store/products/6620959867019</id>
+      <title>Default Title</title>
+      <s:price currency="RUB">4.00</s:price>
+      <s:sku>Втулки</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

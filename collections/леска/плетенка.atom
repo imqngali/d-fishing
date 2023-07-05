@@ -1,0 +1,2300 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="ru" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://vitfishing.store/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://vitfishing.store/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://vitfishing.store/collections/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0.atom"/>
+  <title>vitfishing</title>
+  <updated>2021-11-14T12:05:01+08:00</updated>
+  <author>
+    <name>vitfishing</name>
+  </author>
+  <entry>
+    <id>https://vitfishing.store/products/6575937814667</id>
+    <published>2021-11-14T12:05:01+08:00</published>
+    <updated>2021-11-14T12:05:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D1%8B%D0%B9-%D1%88%D0%BD%D1%83%D1%80-50%D0%BC-power-pro"/>
+    <title>Плетеный шнур 50м power pro</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/WeChatImage_20211114090316.jpg?v=1636862653"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Плетенка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.10</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.10</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.12</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.12</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.14</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.14</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.16</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.16</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.18</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.18</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.20</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.20</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.23</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.23</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.25</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.25</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.28</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.28</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.30</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.30</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.35</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.35</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6575937814667</id>
+      <title>0.40</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.40</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6656216662155</id>
+    <published>2021-11-07T17:14:16+08:00</published>
+    <updated>2021-11-07T17:14:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-hd-iguana-30%D0%BC"/>
+    <title>Леска HD Iguana 30м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0953.jpg?v=1636274059"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            20.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:tag>РАСПРОДАЖА</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6656216662155</id>
+      <title>0.10</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.10mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6656216662155</id>
+      <title>0.12</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.12mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6656216662155</id>
+      <title>0.14</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.14mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6656216662155</id>
+      <title>0.16</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6656216662155</id>
+      <title>0.18</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020503769227</id>
+    <published>2021-05-25T12:29:16+08:00</published>
+    <updated>2021-05-25T12:29:16+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-triada-100%D0%BC"/>
+    <title>Леска Triada 100м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0169.jpg?v=1621176162"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:tag>РАСПРОДАЖА</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.16</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.18</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.20</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.23</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.23mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.25</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.28</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.28mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.30</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.35</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.40</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.45</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.50</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020503769227</id>
+      <title>0.60</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.60mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020372861067</id>
+    <published>2021-05-25T12:25:28+08:00</published>
+    <updated>2021-05-25T12:25:28+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-eagle-tex-100%D0%BC"/>
+    <title>Леска Eagle Tex 100м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/image_1024x1024_2x_de7bfe4f-cb70-4ffa-9485-07f0be13046c.jpg?v=1621316382"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:tag>РАСПРОДАЖА</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020372861067</id>
+      <title>0.16</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020372861067</id>
+      <title>0.18</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020372861067</id>
+      <title>0.20</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020372861067</id>
+      <title>0.25</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020372861067</id>
+      <title>0.30</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020372861067</id>
+      <title>0.35</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020372861067</id>
+      <title>0.40</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020372861067</id>
+      <title>0.45</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020372861067</id>
+      <title>0.50</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020372861067</id>
+      <title>0.60</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.60mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6572077482123</id>
+    <published>2021-05-16T21:14:31+08:00</published>
+    <updated>2021-05-16T21:14:31+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D1%8B%D0%B9-%D1%88%D0%BD%D1%83%D1%80-50%D0%BC-iso-1"/>
+    <title>Плетеный шнур 50м ISO</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/image_1024x1024_2x_bbb58d56-e86b-490d-9c83-c3b6f5c097d1.jpg?v=1621316524"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Плетенка</s:tag>
+    <s:tag>РАСПРОДАЖА</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572077482123</id>
+      <title>0.10</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.10mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572077482123</id>
+      <title>0.12</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.12mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572077482123</id>
+      <title>0.14</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.14mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572077482123</id>
+      <title>0.16</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572077482123</id>
+      <title>0.18</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572077482123</id>
+      <title>0.20</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572077482123</id>
+      <title>0.23</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.23mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572077482123</id>
+      <title>0.25</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572077482123</id>
+      <title>0.28</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.28mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572077482123</id>
+      <title>0.30</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/6572074401931</id>
+    <published>2021-05-16T21:07:43+08:00</published>
+    <updated>2021-05-16T21:07:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BF%D0%BB%D0%B5%D1%82%D0%B5%D0%BD%D1%8B%D0%B9-%D1%88%D0%BD%D1%83%D1%80-microtex-50%D0%BC"/>
+    <title>Плетеный шнур Microtex, 50м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/image_1024x1024_2x_de5bfe31-a12b-49e0-bd60-dfeda6a606e5.jpg?v=1621316224"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            44.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Плетенка</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572074401931</id>
+      <title>0.10</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.10mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572074401931</id>
+      <title>0.12</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.12mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572074401931</id>
+      <title>0.14</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.14mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572074401931</id>
+      <title>0.16</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572074401931</id>
+      <title>0.18</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572074401931</id>
+      <title>0.20</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572074401931</id>
+      <title>0.23</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.23mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572074401931</id>
+      <title>0.25</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572074401931</id>
+      <title>0.28</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.28mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/6572074401931</id>
+      <title>0.30</title>
+      <s:price currency="RUB">44.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020598042763</id>
+    <published>2020-09-18T16:42:02+08:00</published>
+    <updated>2020-09-18T16:42:02+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-100%D0%BC-0-6-1-0"/>
+    <title>Леска Клинская леска 100m 0,6-2.5</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/image_1024x1024_2x_96f7b582-d483-4e5b-a2af-b43ba4bfb620.jpg?v=1621316415"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            36.40 - 156.00
+            <a href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-%D0%BA%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0%D1%8F-%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-100%D0%BC-0-6-1-0">(11 variants)</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020598042763</id>
+      <title>0.6-100M</title>
+      <s:price currency="RUB">36.40</s:price>
+      <s:sku>&amp;0.6-100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020598042763</id>
+      <title>0.7-100M</title>
+      <s:price currency="RUB">36.40</s:price>
+      <s:sku>&amp;0.7-100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020598042763</id>
+      <title>0.8-100M</title>
+      <s:price currency="RUB">36.40</s:price>
+      <s:sku>&amp;0.8-100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020598042763</id>
+      <title>0.9-100M</title>
+      <s:price currency="RUB">43.40</s:price>
+      <s:sku>&amp;0.9-100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020598042763</id>
+      <title>1.0-50M</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>&amp;1.0-100M</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020598042763</id>
+      <title>1.2-50M</title>
+      <s:price currency="RUB">48.00</s:price>
+      <s:sku>&amp;1.2-50М</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020598042763</id>
+      <title>1.4-50M</title>
+      <s:price currency="RUB">62.40</s:price>
+      <s:sku>&amp;1.4-50М</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020598042763</id>
+      <title>1.6-50M</title>
+      <s:price currency="RUB">62.40</s:price>
+      <s:sku>&amp;1.6 - 50М</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020598042763</id>
+      <title>1.8-50M</title>
+      <s:price currency="RUB">80.00</s:price>
+      <s:sku>&amp;1.8 - 50М</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020598042763</id>
+      <title>2.0-50M</title>
+      <s:price currency="RUB">80.00</s:price>
+      <s:sku>&amp;2.0 - 50М</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020598042763</id>
+      <title>2.0-100M</title>
+      <s:price currency="RUB">156.00</s:price>
+      <s:sku>&amp;2.0-100m</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020583657611</id>
+    <published>2020-09-18T16:34:05+08:00</published>
+    <updated>2020-09-18T16:34:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-%D1%8D%D1%82%D0%B0%D0%BB%D0%BE%D0%BD-%D0%BF%D0%B0%D1%80%D1%82%D0%BD%D0%B5%D1%80-30%D0%BC"/>
+    <title>Леска Эталон Партнер 30м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/image_1024x1024_2x_91373125-70d2-419e-8422-1d4ca1f1b014.jpg?v=1621316348"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            20.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020583657611</id>
+      <title>0.10</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.10mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020583657611</id>
+      <title>0.12</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.12mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020583657611</id>
+      <title>0.14</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.14mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020583657611</id>
+      <title>0.16</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020583657611</id>
+      <title>0.18</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020583657611</id>
+      <title>0.20</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020583657611</id>
+      <title>0.25</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020579561611</id>
+    <published>2020-09-18T16:30:01+08:00</published>
+    <updated>2020-09-18T16:30:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-tiagra-gold-30%D0%BC"/>
+    <title>Леска Tiagra gold 30м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0387.jpg?v=1600927188"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020579561611</id>
+      <title>0.08</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.08mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020579561611</id>
+      <title>0.10</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.10mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020579561611</id>
+      <title>0.12</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.12mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020579561611</id>
+      <title>0.14</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.14mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020579561611</id>
+      <title>0.16</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020579561611</id>
+      <title>0.18</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020579561611</id>
+      <title>0.20</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020579561611</id>
+      <title>0.25</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020577497227</id>
+    <published>2020-09-18T16:27:58+08:00</published>
+    <updated>2020-09-18T16:27:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-scorpion-30%D0%BC"/>
+    <title>Леска Scorpion 30м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0389.jpg?v=1600927225"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            26.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020577497227</id>
+      <title>0.08</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>0.08mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020577497227</id>
+      <title>0.10</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>0.10mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020577497227</id>
+      <title>0.12</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>0.12mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020577497227</id>
+      <title>0.14</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>0.14mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020577497227</id>
+      <title>0.16</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020577497227</id>
+      <title>0.18</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020577497227</id>
+      <title>0.20</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020577497227</id>
+      <title>0.25</title>
+      <s:price currency="RUB">26.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020576317579</id>
+    <published>2020-09-18T16:26:42+08:00</published>
+    <updated>2020-09-18T16:26:42+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-kamelion-3d-30%D0%BC"/>
+    <title>Леска Kamelion 3D 30м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0628.jpg?v=1622093369"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020576317579</id>
+      <title>0.08</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.08mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020576317579</id>
+      <title>0.10</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.10mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020576317579</id>
+      <title>0.12</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.12mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020576317579</id>
+      <title>0.14</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.14mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020576317579</id>
+      <title>0.16</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020576317579</id>
+      <title>0.18</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020576317579</id>
+      <title>0.20</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020576317579</id>
+      <title>0.25</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020575170699</id>
+    <published>2020-09-18T16:25:29+08:00</published>
+    <updated>2020-09-18T16:25:29+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-iso-shark-30%D0%BC"/>
+    <title>Леска ISO Shark 30м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0388.jpg?v=1600927263"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020575170699</id>
+      <title>0.08</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.08mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020575170699</id>
+      <title>0.10</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.10mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020575170699</id>
+      <title>0.12</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.12mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020575170699</id>
+      <title>0.14</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.14mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020575170699</id>
+      <title>0.16</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020575170699</id>
+      <title>0.18</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020575170699</id>
+      <title>0.20</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020575170699</id>
+      <title>0.25</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020568191115</id>
+    <published>2020-09-18T16:18:55+08:00</published>
+    <updated>2020-09-18T16:18:55+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-hd-avalon-30%D0%BC"/>
+    <title>Леска HD Avalon 30м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0384.jpg?v=1600927293"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            20.80
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020568191115</id>
+      <title>0.08</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.08mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020568191115</id>
+      <title>0.10</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.10mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020568191115</id>
+      <title>0.12</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.12mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020568191115</id>
+      <title>0.14</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.14mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020568191115</id>
+      <title>0.16</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020568191115</id>
+      <title>0.18</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020568191115</id>
+      <title>0.20</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020568191115</id>
+      <title>0.25</title>
+      <s:price currency="RUB">20.80</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020565766283</id>
+    <published>2020-09-18T16:17:10+08:00</published>
+    <updated>2020-09-18T16:17:10+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-sirena-300%D0%BC-%D1%84%D0%BB%D1%83%D0%BE%D1%80%D0%B5%D1%81%D1%86%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F-%D0%B6%D0%B5%D0%BB%D1%82%D0%B0%D1%8F"/>
+    <title>Леска Sirena, 300м, флуоресцентная желтая</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0378.jpg?v=1600927380"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020565766283</id>
+      <title>0.25mm</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020565766283</id>
+      <title>0.30mm</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020565766283</id>
+      <title>0.35mm</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020565766283</id>
+      <title>0.40mm</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020565766283</id>
+      <title>0.45mm</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020565766283</id>
+      <title>0.50mm</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020564455563</id>
+    <published>2020-09-18T16:15:58+08:00</published>
+    <updated>2020-09-18T16:15:58+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-kamelion-3d-300%D0%BC"/>
+    <title>Леска Kamelion 3D 300м,</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0632.jpg?v=1600680016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            224.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020564455563</id>
+      <title>0.30</title>
+      <s:price currency="RUB">224.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020564455563</id>
+      <title>0.35</title>
+      <s:price currency="RUB">224.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020564455563</id>
+      <title>0.40</title>
+      <s:price currency="RUB">224.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020564455563</id>
+      <title>0.45</title>
+      <s:price currency="RUB">224.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020563210379</id>
+    <published>2020-09-18T16:14:49+08:00</published>
+    <updated>2020-09-18T16:14:49+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-carp-expert-comou-300%D0%BC"/>
+    <title>Леска Carp Expert COMOU 300м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0360.jpg?v=1600927431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            160.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020563210379</id>
+      <title>0.30</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020563210379</id>
+      <title>0.35</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020563210379</id>
+      <title>0.40</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020563210379</id>
+      <title>0.45</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020563210379</id>
+      <title>0.50</title>
+      <s:price currency="RUB">160.00</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020558393483</id>
+    <published>2020-09-18T16:11:01+08:00</published>
+    <updated>2020-09-18T16:11:01+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-150%D0%BC-daiwa-samurai"/>
+    <title>Леска 150м DAIWA Samurai</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0382.jpg?v=1600927472"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            128.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020558393483</id>
+      <title>0.25</title>
+      <s:price currency="RUB">128.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020558393483</id>
+      <title>0.30</title>
+      <s:price currency="RUB">128.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020558393483</id>
+      <title>0.35</title>
+      <s:price currency="RUB">128.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020558393483</id>
+      <title>0.40</title>
+      <s:price currency="RUB">128.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020558393483</id>
+      <title>0.45</title>
+      <s:price currency="RUB">128.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020558393483</id>
+      <title>0.50</title>
+      <s:price currency="RUB">128.00</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020500885643</id>
+    <published>2020-09-18T15:20:25+08:00</published>
+    <updated>2020-09-18T15:20:25+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-trabucco-100%D0%BC"/>
+    <title>Леска  Trabucco 100м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0233_90e99d92-7c40-444b-ba58-a56341a015ce.jpg?v=1600927820"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020500885643</id>
+      <title>0.16</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020500885643</id>
+      <title>0.18</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020500885643</id>
+      <title>0.20</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020500885643</id>
+      <title>0.25</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020500885643</id>
+      <title>0.30</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020500885643</id>
+      <title>0.35</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020500885643</id>
+      <title>0.40</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020500885643</id>
+      <title>0.45</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020500885643</id>
+      <title>0.50</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020500885643</id>
+      <title>0.60</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.60mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020495249547</id>
+    <published>2020-09-18T15:16:05+08:00</published>
+    <updated>2020-09-18T15:16:05+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-tiagra-gold-100%D0%BC"/>
+    <title>Леска  Tiagra gold 100м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0343.jpg?v=1600927864"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.14</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.14mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.16</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.18</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.20</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.23</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.23mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.25</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.28</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.28mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.30</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.35</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.40</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.45</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020495249547</id>
+      <title>0.50</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020493152395</id>
+    <published>2020-09-18T15:14:36+08:00</published>
+    <updated>2020-09-18T15:14:36+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-the-lion-king-fluorcarbon-100%D0%BC"/>
+    <title>Леска  The Lion King Fluorcarbon 100% 100м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0624.jpg?v=1600680193"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020493152395</id>
+      <title>0.16</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020493152395</id>
+      <title>0.18</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020493152395</id>
+      <title>0.20</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020493152395</id>
+      <title>0.25</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020493152395</id>
+      <title>0.30</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020493152395</id>
+      <title>0.35</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020493152395</id>
+      <title>0.40</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020479455371</id>
+    <published>2020-09-18T15:03:06+08:00</published>
+    <updated>2020-09-18T15:03:06+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-previa-total-100%D0%BC"/>
+    <title>Леска Previa Total 100м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0229_86799884-9839-43b9-92b1-40ec3e4e202a.jpg?v=1600928214"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            40.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020479455371</id>
+      <title>0.16</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020479455371</id>
+      <title>0.18</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020479455371</id>
+      <title>0.20</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020479455371</id>
+      <title>0.23</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>0.23mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020479455371</id>
+      <title>0.25</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020479455371</id>
+      <title>0.28</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>0.28mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020479455371</id>
+      <title>0.30</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020479455371</id>
+      <title>0.35</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020479455371</id>
+      <title>0.40</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020479455371</id>
+      <title>0.45</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020479455371</id>
+      <title>0.50</title>
+      <s:price currency="RUB">40.00</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020478210187</id>
+    <published>2020-09-18T15:01:43+08:00</published>
+    <updated>2020-09-18T15:01:43+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-kamelion-3d-100%D0%BC"/>
+    <title>Леска Kamelion 3D 100м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0630.jpg?v=1622093431"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            72.10
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020478210187</id>
+      <title>0.14</title>
+      <s:price currency="RUB">72.10</s:price>
+      <s:sku>0.14mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020478210187</id>
+      <title>0.16</title>
+      <s:price currency="RUB">72.10</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020478210187</id>
+      <title>0.18</title>
+      <s:price currency="RUB">72.10</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020478210187</id>
+      <title>0.20</title>
+      <s:price currency="RUB">72.10</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020478210187</id>
+      <title>0.25</title>
+      <s:price currency="RUB">72.10</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020478210187</id>
+      <title>0.30</title>
+      <s:price currency="RUB">72.10</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020478210187</id>
+      <title>0.35</title>
+      <s:price currency="RUB">72.10</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020478210187</id>
+      <title>0.40</title>
+      <s:price currency="RUB">72.10</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020478210187</id>
+      <title>0.45</title>
+      <s:price currency="RUB">72.10</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020478210187</id>
+      <title>0.50</title>
+      <s:price currency="RUB">72.10</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020460449931</id>
+    <published>2020-09-18T14:50:48+08:00</published>
+    <updated>2020-09-18T14:50:48+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-hd-iso-shark-100%D0%BC"/>
+    <title>Леска HD ISO Shark 100м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0334.jpg?v=1600928345"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            52.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020460449931</id>
+      <title>0.16</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020460449931</id>
+      <title>0.18</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020460449931</id>
+      <title>0.20</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020460449931</id>
+      <title>0.23</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.23mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020460449931</id>
+      <title>0.25</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020460449931</id>
+      <title>0.28</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.28mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020460449931</id>
+      <title>0.30</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020460449931</id>
+      <title>0.35</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020460449931</id>
+      <title>0.40</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020460449931</id>
+      <title>0.45</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020460449931</id>
+      <title>0.50</title>
+      <s:price currency="RUB">52.00</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020424077451</id>
+    <published>2020-09-18T14:48:00+08:00</published>
+    <updated>2020-09-18T14:48:00+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-hd-iguana-100%D0%BC"/>
+    <title>Леска HD Iguana 100м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0227_cc1ab40a-6154-4c16-a76a-83d3878cb319.jpg?v=1600928252"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            28.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:tag>РАСПРОДАЖА</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020424077451</id>
+      <title>0.16</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020424077451</id>
+      <title>0.18</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020424077451</id>
+      <title>0.20</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020424077451</id>
+      <title>0.25</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020424077451</id>
+      <title>0.30</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020424077451</id>
+      <title>0.35</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020424077451</id>
+      <title>0.40</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020424077451</id>
+      <title>0.45</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020424077451</id>
+      <title>0.50</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020424077451</id>
+      <title>0.60</title>
+      <s:price currency="RUB">28.00</s:price>
+      <s:sku>0.60mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://vitfishing.store/products/5020183888011</id>
+    <published>2020-09-18T14:29:21+08:00</published>
+    <updated>2020-09-18T14:29:21+08:00</updated>
+    <link rel="alternate" type="text/html" href="https://vitfishing.store/products/%D0%BB%D0%B5%D1%81%D0%BA%D0%B0-carp-micado-100%D0%BC"/>
+    <title>Леска Carp Micado 100м</title>
+    <s:type>Леска</s:type>
+    <s:vendor>vitfishing-opt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0277/3463/8731/products/DSC_0226_f7bef2dc-8d86-4e4c-b027-73192699d797.jpg?v=1600928561"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>vitfishing-opt<br>
+        <strong>Type: </strong>Леска<br>
+        <strong>Price: </strong>
+            36.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>Леска</s:tag>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020183888011</id>
+      <title>0.16</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.16mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020183888011</id>
+      <title>0.18</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.18mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020183888011</id>
+      <title>0.20</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.20mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020183888011</id>
+      <title>0.23</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.23mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020183888011</id>
+      <title>0.25</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.25mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020183888011</id>
+      <title>0.30</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.30mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020183888011</id>
+      <title>0.35</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.35mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020183888011</id>
+      <title>0.40</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.40mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020183888011</id>
+      <title>0.45</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.45mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+    <s:variant>
+      <id>https://vitfishing.store/products/5020183888011</id>
+      <title>0.50</title>
+      <s:price currency="RUB">36.00</s:price>
+      <s:sku>0.50mm</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
